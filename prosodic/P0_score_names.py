@@ -3,8 +3,9 @@ import pandas as pd
 import os
 from tqdm import tqdm
 
+
 year = 2017
-f_names = os.path.join('data','social_security_info',f'yob{year}.txt')
+f_names = os.path.join('data','social_security_info','yob%s.txt'%year)
 
 df = pd.read_csv(f_names,header=None,names=["name","gender","counts"])
 data = []
