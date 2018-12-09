@@ -16,6 +16,7 @@ for year in range(2017, 1879, -1):
     f_save = os.path.join(save_dest, 'yob%s.csv'%year)
 
     if os.path.exists(f_save):
+        print("Already completed", year)
         continue
 
 

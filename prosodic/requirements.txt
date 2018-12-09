@@ -1,2 +1,3 @@
 tqdm
 pandas
+pip>=18.0.0
