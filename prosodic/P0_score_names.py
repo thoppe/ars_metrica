@@ -11,13 +11,13 @@ save_dest = os.path.join('..', 'data','scored_names')
 os.system('mkdir -p {}'.format(save_dest))
 
 
-for year in range(2017, 1879, -1):
+def compute(year):
     f_names = os.path.join('..', 'data','social_security_info','yob%s.txt'%year)
     f_save = os.path.join(save_dest, 'yob%s.csv'%year)
 
     if os.path.exists(f_save):
         print("Already completed", year)
-        continue
+        return False
 
 
     df = pd.read_csv(
@@ -55,4 +55,11 @@ for year in range(2017, 1879, -1):
     df.to_csv(f_save, encoding='utf-8')
     print(df)
     print(f_save)
+
+ITR = range(2017, 1879, -1)
+
+import joblib
+func = joblib.delayed(compute)
+with joblib.Parallel(-1) as MP:
+    MP(func(x) for x in ITR)
 
