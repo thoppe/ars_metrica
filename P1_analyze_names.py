@@ -10,6 +10,6 @@ g = df.groupby(["gender", "IPA_stress"])
 print(g["counts"].sum().sort_values(ascending=False))
 
 #print(df.groupby("IPA_stress").gender.mean())
-print(df[df.IPA_stress=="0"])
+#print(df[df.IPA_stress=="0"])
 
-
+print(df.groupby("gender")["counts"].sum())
