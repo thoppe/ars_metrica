@@ -34,7 +34,6 @@ Y = [dfx.set_index('year').loc[X].values.ravel() for n, dfx in df.groupby("n_syl
 plt.stackplot(X,*Y, baseline='zero')
 '''
 
-
 plt.figure(figsize=sz)
 
 g0 = df.reset_index().groupby(['year','n_syllables'])["counts"].sum()
@@ -56,14 +55,31 @@ plt.savefig('docs/figures/mean_syllables_per_year.png')
 
 ########################################################################
 
-plt.figure(figsize=sz)
+
+# Low counts
+mean_value = df.groupby(df.index)['counts'].mean()
+
+df = df.loc[mean_value > 0.01]
+mean_value = df.groupby(df.index)['counts'].mean().sort_values()[::-1]
+
+fig, ax = plt.subplots(1,1,figsize=sz)
+
 for n, dfx in df.groupby("n_syllables"):
     #totes += dfx.set_index('year')['counts']
-    plt.plot(dfx.year, dfx['counts'], label=f"{n} syllable(s)")
+    plt.plot(dfx.year, dfx['counts'], label=f"{n}")
+
+handles, labels = ax.get_legend_handles_labels()
+idx = mean_value.loc[[int(x) for x in labels]].argsort()[::-1]
+labels = np.array(labels)[idx]
+handles = np.array(handles)[idx]
+
+#labels = [f"{x}, syllables(s)" for x in labels]
+          
 
 
+plt.legend(handles, labels, ncol=2, loc='best', fontsize=12)
 
-plt.legend(ncol=2, loc=2, fontsize=12)
+
 sns.despine()
 plt.title("Distribution of syllables in US Soc. Sec. data")
 plt.xlabel("Year",fontsize=14)
