@@ -60,6 +60,6 @@ ITR = range(2017, 1879, -1)
 
 import joblib
 func = joblib.delayed(compute)
-with joblib.Parallel(-1) as MP:
+with joblib.Parallel(-1,batch_size=1) as MP:
     MP(func(x) for x in ITR)
 

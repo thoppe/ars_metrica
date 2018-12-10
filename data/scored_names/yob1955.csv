@@ -1,0 +1,6403 @@
+name,gender,IPA,IPA_stress,counts,n_syllables
+Michael,M,'maɪ kəl,10,88335,2
+David,M,'deɪ vɪd,10,86251,2
+James,M,'ʤeɪmz,1,84157,1
+Robert,M,'rɑ bɛːt,10,83719,2
+John,M,'ʤɑn,1,80056,1
+Mary,F,'mɛ riː,10,63162,2
+William,M,'wɪl jəm,10,59955,2
+Richard,M,'rɪ ʧɛːd,10,53545,2
+Deborah,F,'dɛ bɛː ə,100,52317,3
+Linda,F,'lɪn də,10,51291,2
+Debra,F,'dɛ brə,10,50555,2
+Susan,F,'suː zən,10,47397,2
+Patricia,F,pə 'trɪ ʃə,010,46221,3
+Thomas,M,'tɑ məs,10,45819,2
+Mark,M,'mɑrk,1,42223,1
+Steven,M,'stiː vən,10,37816,2
+Charles,M,'ʧɑrlz,1,35355,1
+Gary,M,'gɛ riː,10,34412,2
+Barbara,F,'bɑr bɛː ə,100,33602,3
+Karen,F,'kɛ rən,10,33215,2
+Joseph,M,'ʤoʊ səf,10,31604,2
+Nancy,F,'næn siː,10,30016,2
+Donna,F,'dɑ nʌ,10,27943,2
+Donald,M,'dɑ nəld,10,27715,2
+Cynthia,F,'sɪn θiː ə,100,27185,3
+Kenneth,M,'kɛ nɪθ,10,26744,2
+Pamela,F,'pæ mə lə,100,26697,3
+Paul,M,'pɔːl,1,26678,1
+Daniel,M,'dæ njəl,10,26442,2
+Ronald,M,'rɑ nəld,10,26163,2
+Sandra,F,'sæn drə,10,25110,2
+Diane,F,daɪ 'æn,01,23295,2
+Larry,M,'lɛ riː,10,22820,2
+Jeffrey,M,'ʤɛ friː,10,22513,2
+Stephen,M,'stiː vən,10,22133,2
+Sharon,F,'ʃæ rən,10,22044,2
+Carol,F,'kæ rəl,10,22042,2
+Kathleen,F,kæθ 'liːn,01,22004,2
+Timothy,M,'tɪ mə θiː,100,20735,3
+Dennis,M,'dɛ nɪs,10,20407,2
+Gregory,M,'grɛ gɛː iː,100,19809,3
+Edward,M,'ɛ dwɛːd,10,19268,2
+Brenda,F,'brɛn də,10,19124,2
+Cheryl,F,'ʃɛ rəl,10,19103,2
+George,M,'ʤɔːrʤ,1,18167,1
+Janet,F,'ʤæ nət,10,17914,2
+Kevin,M,'kɛ vɪn,10,17156,2
+Elizabeth,F,ɪ 'lɪ zʌ bəθ,0100,16696,4
+Terry,M,'tɛ riː,10,15580,2
+Kathy,F,'kæ θiː,10,15326,2
+Douglas,M,'də gləs,10,15318,2
+Randy,M,'ræn diː,10,14957,2
+Denise,F,dɪ 'niːs,01,14559,2
+Margaret,F,'mɑr gɛː ɪt,100,14436,3
+Anthony,M,'æn θə niː,100,14172,3
+Bruce,M,'bruːs,1,14081,1
+Janice,F,'ʤæ nəs,10,13173,2
+Teresa,F,tɛː 'iː sə,010,13125,3
+Jerry,M,'ʤɛ riː,10,12979,2
+Rebecca,F,rə 'bɛ kə,010,12396,3
+Catherine,F,'kæ θɛː ən,100,11625,3
+Joyce,F,'ʤɔɪs,1,11275,1
+Carolyn,F,'kɛ rə lɪn,100,11173,3
+Frank,M,'fræŋk,1,11104,1
+Peter,M,'piː tɛː,10,11004,2
+Raymond,M,'reɪ mənd,10,10995,2
+Roger,M,'rɑ ʤɛː,10,10970,2
+Scott,M,'skɑt,1,10775,1
+Judith,F,'ʤuː dəθ,10,10430,2
+Keith,M,'kiːθ,1,10410,1
+Judy,F,'ʤuː diː,10,10372,2
+Robin,F,'rɑ bən,10,10217,2
+Brian,M,'braɪ ən,10,10108,2
+Beverly,F,'bɛ vɛː liː,100,9994,3
+Connie,F,'kɔː niː,10,9977,2
+Betty,F,'bɛ tiː,10,9929,2
+Patrick,M,'pæ trɪk,10,9868,2
+Shirley,F,'ʃɛː liː,10,9750,2
+Theresa,F,tɛː 'iː sə,010,9620,3
+Paula,F,'pɔː lə,10,9584,2
+Lawrence,M,'lɔː rəns,10,9137,2
+Christine,F,krɪ 'stiːn,01,9034,2
+Alan,M,'æ lən,10,9028,2
+Laura,F,'lɔː rə,10,9008,2
+Gail,F,'geɪl,1,8967,1
+Ann,F,'æn,1,8912,1
+Wayne,M,'weɪn,1,8723,1
+Danny,M,'dæ niː,10,8711,2
+Cathy,F,'kæ θiː,10,8662,2
+Bonnie,F,'bɑ niː,10,8635,2
+Gloria,F,'glɔː riː ə,100,8560,3
+Joan,F,'ʤoʊn,1,8554,1
+Lisa,F,'liː sə,10,8536,2
+Marilyn,F,'mɛ rə lən,100,8409,3
+Jane,F,'ʤeɪn,1,8337,1
+Ricky,M,'rɪ kiː,10,8326,2
+Carl,M,'kɑrl,1,8292,1
+Gerald,M,'ʤɛ rəld,10,8069,2
+Peggy,F,'pɛ giː,10,7984,2
+Vicki,F,'vɪ kiː,10,7979,2
+Martha,F,'mɑr θə,10,7931,2
+Christopher,M,'krɪ stə fɛː,100,7905,3
+Rose,F,'roʊz,1,7855,1
+Diana,F,daɪ 'æ nʌ,010,7846,3
+Sherry,F,'ʃɛ riː,10,7764,2
+Jo,F,'ʤoʊ,1,7665,1
+Sheila,F,'ʃiː lə,10,7664,2
+Kathryn,F,'kæ θrɪn,10,7644,2
+Jean,F,'ʤiːn,1,7483,1
+Craig,M,'kreɪg,1,7436,1
+Wanda,F,'wɑn də,10,7416,2
+Lynn,F,'lɪn,1,7353,1
+Walter,M,'wɔːl tɛː,10,7300,2
+Debbie,F,'dɛ biː,10,7248,2
+Katherine,F,'kæ θɛː ɪn,100,7241,3
+Dorothy,F,'dɔː rə θiː,100,7239,3
+Dale,M,'deɪl,1,7168,1
+Virginia,F,vɛː 'ʤɪ njə,010,6855,3
+Julie,F,'ʤuː liː,10,6785,2
+Randall,M,'ræn dəl,10,6684,2
+Vickie,F,'vɪ kiː,10,6639,2
+Willie,M,'wɪ liː,10,6630,2
+Johnny,M,'ʤɑ niː,10,6620,2
+Arthur,M,'ɑr θɛː,10,6572,2
+Russell,M,'rə səl,10,6533,2
+Roy,M,'rɔɪ,1,6326,1
+Glenn,M,'glɛn,1,6253,1
+Jack,M,'ʤæk,1,6204,1
+Maria,F,mɛː 'iː ə,010,6203,3
+Henry,M,'hɛn riː,10,6201,2
+Ruth,F,'ruːθ,1,6183,1
+Rhonda,F,'rɑn də,10,6166,2
+Philip,M,'fɪ ləp,10,6159,2
+Rita,F,'riː tʌ,10,6092,2
+Harold,M,'hɛ rəld,10,6088,2
+Rodney,M,'rɑd niː,10,6048,2
+Stanley,M,'stæn liː,10,6047,2
+Jacqueline,F,'ʤæ kwə lɪn,100,6042,3
+Andrew,M,'æn druː,10,6015,2
+Ralph,M,'rælf,1,5967,1
+Joe,M,'ʤoʊ,1,5860,1
+Billy,M,'bɪ liː,10,5768,2
+Phyllis,F,'fɪ lɪs,10,5689,2
+Kim,F,'kɪm,1,5686,1
+Darlene,F,'dɑr `liːn,11,5643,2
+Elaine,F,ɪ 'leɪn,01,5638,2
+Barry,M,'bæ riː,10,5601,2
+Helen,F,'hɛ lən,10,5594,2
+Cindy,F,'sɪn diː,10,5589,2
+Samuel,M,'sæ mjuːl,10,5533,2
+Steve,M,'stiːv,1,5515,1
+Valerie,F,'væ lɛː iː,100,5509,3
+Ellen,F,'ɛ lən,10,5474,2
+Jeffery,M,'ʤɛ fɛː iː,100,5460,3
+Phillip,M,'fɪ lɪp,10,5405,2
+Victoria,F,vɪk 'tɔː riː ə,0100,5357,4
+Terry,F,'tɛ riː,10,5354,2
+Bobby,M,'bɑ biː,10,5220,2
+Anne,F,'æn,1,5215,1
+Albert,M,'æl bɛːt,10,5173,2
+Terri,F,'tɛ riː,10,5153,2
+Suzanne,F,suː 'zæn,01,5133,2
+Alice,F,'æ ləs,10,5074,2
+Martin,M,'mɑr tən,10,5068,2
+Jimmy,M,'ʤɪ miː,10,5028,2
+Joanne,F,`ʤoʊ 'æn,11,4987,2
+Curtis,M,'kɛː təs,10,4976,2
+Lori,F,'lɔː riː,10,4975,2
+Ronnie,M,'rɑ niː,10,4958,2
+Laurie,F,'lɔː riː,10,4953,2
+Wendy,F,'wɛn diː,10,4950,2
+Marie,F,mɛː 'iː,01,4923,2
+Eugene,M,juː 'ʤiːn,01,4795,2
+Louis,M,'luː ɪs,10,4778,2
+Michele,F,mɪ 'ʃɛl,01,4764,2
+Howard,M,'haʊ ɛːd,10,4750,2
+Allen,M,'æ lən,10,4745,2
+Anita,F,ə 'niː tʌ,010,4722,3
+Sally,F,'sæ liː,10,4688,2
+Eric,M,'ɛ rɪk,10,4653,2
+Frances,F,'fræn sɪs,10,4640,2
+Frederick,M,'frɛ drɪk,10,4543,2
+Micheal,M,'maɪ kəl,10,4538,2
+Michelle,F,mɪ 'ʃɛl,01,4532,2
+Marcia,F,'mɑr ʃə,10,4411,2
+Leslie,F,'lɛ sliː,10,4401,2
+Maureen,F,mɔː 'riːn,01,4337,2
+Leonard,M,'lɛ nɛːd,10,4258,2
+Doris,F,'dɔː rəs,10,4246,2
+Jill,F,'ʤɪl,1,4220,1
+Dawn,F,'dɔːn,1,4217,1
+Harry,M,'hɛ riː,10,4138,2
+Jennifer,F,'ʤɛ nʌ fɛː,100,4125,3
+Anna,F,'æ nʌ,10,4093,2
+Marsha,F,'mɑr ʃə,10,4061,2
+Sylvia,F,'sɪl viː ə,100,4001,3
+Sarah,F,'sɛ rə,10,3982,2
+Ernest,M,'ɛː nəst,10,3980,2
+Darrell,M,'dɛ rəl,10,3901,2
+Angela,F,'æn ʤə lə,100,3896,3
+Colleen,F,`kɑ 'liːn,11,3870,2
+Kimberly,F,'kɪm bɛː liː,100,3861,3
+Evelyn,F,'ɛ və lən,100,3812,3
+Roberta,F,rə 'bɛː tʌ,010,3781,3
+Eddie,M,'ɛ diː,10,3780,2
+Stephanie,F,'stɛ fə niː,100,3753,3
+Tony,M,'toʊ niː,10,3750,2
+Jeanne,F,'ʤiːn,1,3732,1
+Sue,F,'suː,1,3726,1
+Renee,F,rə 'neɪ,01,3691,2
+Constance,F,'kɑn stəns,10,3660,2
+Marvin,M,'mɑr vɪn,10,3658,2
+Melvin,M,'mɛl vɪn,10,3645,2
+Lee,M,'liː,1,3598,1
+Yvonne,F,ɪ 'vɑn,01,3543,2
+Eileen,F,aɪ 'liːn,01,3506,2
+Fred,M,'frɛd,1,3501,1
+Dianne,F,daɪ 'æn,01,3492,2
+Kim,M,'kɪm,1,3491,1
+Vincent,M,'vɪn sənt,10,3482,2
+Gwendolyn,F,'gwɛn də lɪn,100,3460,3
+Francis,M,'fræn səs,10,3440,2
+Victor,M,'vɪk tɛː,10,3440,2
+Loretta,F,lɛː 'ɛ tʌ,010,3430,3
+Lois,F,'loʊ əs,10,3422,2
+Sheryl,F,'ʃɛ rəl,10,3410,2
+Norman,M,'nɔːr mən,10,3410,2
+Jay,M,'ʤeɪ,1,3397,1
+Lorraine,F,lɛː 'eɪn,01,3372,2
+Regina,F,rɪ 'ʤiː nʌ,010,3369,3
+Glenda,F,'glɛn də,10,3343,2
+Charlotte,F,'ʃɑr lət,10,3331,2
+Jose,M,`hoʊ 'zeɪ,11,3305,2
+Charlene,F,ʃɑr 'liːn,01,3302,2
+Julia,F,'ʤuːl jʌ,10,3288,2
+Matthew,M,'mæ θjuː,10,3281,2
+Tina,F,'tiː nʌ,10,3271,2
+Beth,F,'bɛθ,1,3270,1
+Earl,M,'ɛːl,1,3254,1
+Amy,F,'eɪ miː,10,3194,2
+Bradley,M,'bræd liː,10,3177,2
+Tommy,M,'tɑ miː,10,3169,2
+Rick,M,'rɪk,1,3155,1
+Calvin,M,'kæl vən,10,3150,2
+Dean,M,'diːn,1,3087,1
+Jerome,M,ʤɛː 'oʊm,01,3084,2
+Ray,M,'reɪ,1,3072,1
+Carla,F,'kɑr lə,10,3066,2
+Rickey,M,'rɪ kiː,10,3058,2
+Jon,M,'ʤɑn,1,3054,1
+Jonathan,M,'ʤɑ nʌ θʌn,100,3019,3
+Clarence,M,'klɛ rəns,10,3010,2
+Clifford,M,'klɪ fɛːd,10,2995,2
+Alfred,M,'æl frəd,10,2976,2
+Theodore,M,'θiː ə `dɔːr,101,2974,3
+Norma,F,'nɔːr mə,10,2934,2
+Joann,F,`ʤoʊ 'æn,11,2934,2
+Joel,M,'ʤoʊ əl,10,2801,2
+Jesse,M,'ʤɛ siː,10,2779,2
+Jan,F,'ʤæn,1,2769,1
+Andrea,F,'æn driː ə,100,2764,3
+Mike,M,'maɪk,1,2728,1
+Vanessa,F,və 'nɛ sə,010,2694,3
+Edwin,M,'ɛ dwən,10,2662,2
+Melanie,F,'mɛ lə niː,100,2656,3
+Don,M,'dɑn,1,2646,1
+Marc,M,'mɑrk,1,2629,1
+Marlene,F,'mɑr `liːn,11,2568,2
+Bernard,M,bɛː 'nɑrd,01,2568,2
+Gordon,M,'gɔːr dən,10,2555,2
+Audrey,F,'ɔː driː,10,2554,2
+Herbert,M,'hɛː bɛːt,10,2505,2
+Holly,F,'hɑ liː,10,2504,2
+Juanita,F,wɑ 'niː tʌ,010,2498,3
+Glen,M,'glɛn,1,2492,1
+Warren,M,'wɔː rən,10,2488,2
+Gayle,F,'geɪl,1,2482,1
+Benjamin,M,'bɛn ʤə mən,100,2449,3
+Louise,F,luː 'iːz,01,2432,2
+Irene,F,aɪ 'riːn,01,2427,2
+Melissa,F,mə 'lɪ sə,010,2414,3
+Leroy,M,'liː `rɔɪ,11,2413,2
+Melinda,F,mə 'lɪn də,010,2412,3
+Claudia,F,'klɔː diː ə,100,2412,3
+Joy,F,'ʤɔɪ,1,2389,1
+Jeanette,F,ʤə 'nɛt,01,2376,2
+Alvin,M,'æl vɪn,10,2364,2
+Vivian,F,'vɪ viː ən,100,2357,3
+Lynne,F,'lɪn,1,2348,1
+Duane,M,'dweɪn,1,2345,1
+Annette,F,ə 'nɛt,01,2342,2
+Kay,F,'keɪ,1,2328,1
+Toni,F,'toʊ niː,10,2322,2
+Vicky,F,'vɪ kiː,10,2304,2
+Dan,M,'dæn,1,2299,1
+Mitchell,M,'mɪ ʧəl,10,2271,2
+Leslie,M,'lɛ sliː,10,2232,2
+Annie,F,'æ niː,10,2223,2
+Penny,F,'pɛ niː,10,2212,2
+Geraldine,F,ʤɛ rəl 'diːn,001,2195,3
+Garry,M,'gæ riː,10,2193,2
+Chris,M,'krɪs,1,2187,1
+Nicholas,M,'nɪ kə ləs,100,2184,3
+Patti,F,'pæ tiː,10,2174,2
+Dwight,M,'dwaɪt,1,2155,1
+June,F,'ʤuːn,1,2149,1
+Leon,M,'liː ɑn,10,2146,2
+Roxanne,F,'rɑk sɪn,10,2092,2
+Reginald,M,'rɛ ʤə nəld,100,2078,3
+Debora,F,'dɛ brə,10,2064,2
+Yolanda,F,joʊ 'lɑn də,010,2056,3
+Carmen,F,'kɑr mən,10,2047,2
+Rosa,F,'roʊ zʌ,10,2045,2
+Guy,M,'gaɪ,1,2037,1
+Belinda,F,bə 'lɪn də,010,2036,3
+Vernon,M,'vɛː nən,10,2034,2
+Lloyd,M,'lɔɪd,1,2029,1
+Patsy,F,'pæt siː,10,2012,2
+Rosemary,F,'roʊz `mɛ riː,110,2011,3
+Ruby,F,'ruː biː,10,2011,2
+Becky,F,'bɛ kiː,10,2004,2
+Jackie,M,'ʤæ kiː,10,2000,2
+Arlene,F,'ɑr `liːn,11,1985,2
+Sara,F,'sɛ rə,10,1973,2
+Marjorie,F,'mɑr ʤɛː iː,100,1971,3
+Karl,M,'kɑrl,1,1934,1
+Kurt,M,'kɛːt,1,1931,1
+Wesley,M,'wɛ sliː,10,1925,2
+Gene,M,'ʤiːn,1,1891,1
+Lynda,F,'lɪn də,10,1883,2
+Brad,M,'bræd,1,1877,1
+Lonnie,M,'lɔː niː,10,1855,2
+Kent,M,'kɛnt,1,1853,1
+Gilbert,M,'gɪl bɛːt,10,1853,2
+Allan,M,'æ lən,10,1846,2
+Gina,F,'ʤiː nʌ,10,1843,2
+Janis,F,'ʤæ nɪs,10,1838,2
+Robin,M,'rɑ bən,10,1837,2
+Lee,F,'liː,1,1817,1
+Monica,F,'mɑ nɪ kə,100,1812,3
+Christina,F,krɪ 'stiː nʌ,010,1811,3
+Rachel,F,'reɪ ʧəl,10,1802,2
+Melody,F,'mɛ lə diː,100,1801,3
+Jackie,F,'ʤæ kiː,10,1798,2
+Delores,F,də 'lɔː rɪs,010,1791,3
+Eva,F,'eɪ və,10,1785,2
+Neil,M,'niːl,1,1783,1
+Dolores,F,də 'lɔː rɪs,010,1781,3
+Lewis,M,'luː ɪs,10,1780,2
+Juan,M,'wɑn,1,1776,1
+Franklin,M,'fræŋ klɪn,10,1766,2
+Randolph,M,'ræn dɑlf,10,1766,2
+Marianne,F,`mɛ riː 'æn,101,1747,3
+Clyde,M,'klaɪd,1,1741,1
+Shelley,F,'ʃɛ liː,10,1734,2
+Marla,F,'mɑr lə,10,1724,2
+Floyd,M,'flɔɪd,1,1718,1
+Veronica,F,vɛː 'ɑ nɪ kə,0100,1716,4
+Jim,M,'ʤɪm,1,1702,1
+Carlos,M,'kɑr loʊs,10,1701,2
+Lester,M,'lɛ stɛː,10,1688,2
+Manuel,M,mɑn 'wɛl,01,1673,2
+Donnie,M,'dɑ niː,10,1671,2
+Lillian,F,'lɪ liː ən,100,1656,3
+Bill,M,'bɪl,1,1654,1
+Ramona,F,rə 'moʊ nʌ,010,1645,3
+Mildred,F,'mɪl drɪd,10,1638,2
+Kirk,M,'kɛːk,1,1630,1
+Todd,M,'tɑd,1,1615,1
+Kerry,M,'kɛ riː,10,1604,2
+Sherri,F,'ʃɛ riː,10,1596,2
+Josephine,F,'ʤoʊ sə `fiːn,101,1594,3
+Lydia,F,'lɪ diː ə,100,1587,3
+Leo,M,'liː oʊ,10,1576,2
+Bryan,M,'braɪ ən,10,1570,2
+Dana,F,'deɪ nʌ,10,1569,2
+Dana,M,'deɪ nʌ,10,1568,2
+Esther,F,'ɛ stɛː,10,1568,2
+Doreen,F,dɔː 'riːn,01,1559,2
+Daryl,M,'dɛ rəl,10,1536,2
+Edna,F,'ɛd nʌ,10,1524,2
+Edith,F,'iː dɪθ,10,1520,2
+Gerard,M,ʤɛː 'ɑrd,01,1519,2
+Tom,M,'tɑm,1,1508,1
+Jody,F,'ʤoʊ diː,10,1508,2
+Terrence,M,'tɛ rəns,10,1503,2
+Jacquelyn,F,'ʤæ kwɪ lɪn,100,1501,3
+Marian,F,'mɛ riː ən,100,1499,3
+Janie,F,'ʤeɪ niː,10,1482,2
+Georgia,F,'ʤɔːr ʤə,10,1481,2
+Jeff,M,'ʤɛf,1,1476,1
+Emma,F,'ɛ mə,10,1461,2
+Perry,M,'pɛ riː,10,1452,2
+Joni,F,'ʤoʊ niː,10,1449,2
+Charlie,M,'ʧɑr liː,10,1438,2
+Darryl,M,'dɛ rəl,10,1431,2
+Milton,M,'mɪl tən,10,1425,2
+Carole,F,'kæ rəl,10,1424,2
+Freddie,M,'frɛ diː,10,1423,2
+Candace,F,'kæn dəs,10,1414,2
+Stuart,M,'stuː ɛːt,10,1405,2
+Ted,M,'tɛd,1,1405,1
+Johnnie,M,'ʤɑ niː,10,1404,2
+Lucy,F,'luː siː,10,1402,2
+Rex,M,'rɛks,1,1399,1
+Grace,F,'greɪs,1,1391,1
+Jimmie,M,'ʤɪ miː,10,1390,2
+Dianna,F,`daɪ 'æ nʌ,110,1388,3
+Brent,M,'brɛnt,1,1379,1
+Teri,F,'tɛ riː,10,1373,2
+Herman,M,'hɛː mən,10,1363,2
+Nina,F,'naɪ nʌ,10,1354,2
+Pauline,F,pɔː 'liːn,01,1348,2
+Lynn,M,'lɪn,1,1336,1
+Nathaniel,M,nʌ 'θæ njəl,010,1335,3
+Patty,F,'pæ tiː,10,1329,2
+Arnold,M,'ɑr nəld,10,1314,2
+Emily,F,'ɛ mɪ liː,100,1305,3
+Gregg,M,'grɛg,1,1301,1
+Paulette,F,pɔː 'lɛt,01,1300,2
+Clara,F,'klæ rə,10,1299,2
+Harvey,M,'hɑr viː,10,1292,2
+Ruben,M,'ruː bən,10,1290,2
+Margie,F,'mɑr ʤiː,10,1280,2
+Priscilla,F,prɪ 'sɪ lə,010,1280,3
+Tyrone,M,`taɪ 'roʊn,11,1280,2
+Sheree,F,ʃɛː 'iː,01,1268,2
+Roland,M,'roʊ lənd,10,1267,2
+Chester,M,'ʧɛ stɛː,10,1253,2
+April,F,'eɪ prəl,10,1251,2
+Kelly,M,'kɛ liː,10,1250,2
+Bonita,F,boʊ 'niː tʌ,010,1236,3
+Gladys,F,'glæ dɪs,10,1228,2
+Lou,F,'luː,1,1226,1
+Cecil,M,'siː səl,10,1222,2
+Maurice,M,mɔː 'riːs,01,1221,2
+Carrie,F,'kɛ riː,10,1212,2
+Karla,F,'kɑr lə,10,1205,2
+Antonio,M,æn 'toʊ niː oʊ,0100,1199,4
+Jayne,F,'ʤeɪn,1,1178,1
+Alexander,M,`æ ləg 'zæn dɛː,1010,1173,4
+Vera,F,'vɛ rə,10,1169,2
+Fredrick,M,'frɛ drɪk,10,1167,2
+Greg,M,'grɛg,1,1167,1
+Bobbie,F,'bɑ biː,10,1158,2
+Sherrie,F,'ʃɛ riː,10,1154,2
+Oscar,M,'ɔː skɛː,10,1153,2
+Bertha,F,'bɛː θə,10,1153,2
+Marion,F,'mɛ riː ən,100,1148,3
+Jamie,F,'ʤeɪ miː,10,1146,2
+Sheri,F,'ʃɛ riː,10,1144,2
+Tim,M,'tɪm,1,1144,1
+Terrance,M,'tɛ rəns,10,1142,2
+Lucille,F,luː 'siːl,01,1140,2
+Ella,F,'ɛ lə,10,1127,2
+Randal,M,'ræn dəl,10,1124,2
+Sabrina,F,sə 'briː nʌ,010,1119,3
+Thelma,F,'θɛl mə,10,1108,2
+Wilma,F,'wɪl mə,10,1105,2
+Marshall,M,'mɑr ʃəl,10,1105,2
+Ricardo,M,rɪ 'kɑr doʊ,010,1104,3
+Ethel,F,'ɛ θəl,10,1101,2
+Aaron,M,'ɛ rən,10,1096,2
+Mona,F,'moʊ nʌ,10,1093,2
+Billie,F,'bɪ liː,10,1090,2
+Lynette,F,`laɪ 'nɛt,11,1089,2
+Claude,M,'klɔːd,1,1085,1
+Therese,F,'θɛ riːs,10,1076,2
+Mario,M,'mɑ riː oʊ,100,1076,3
+Deanna,F,`diː 'æ nʌ,110,1070,3
+Maryann,F,mɛ riː 'æn,001,1069,3
+Neal,M,'niːl,1,1060,1
+Dave,M,'deɪv,1,1056,1
+Lance,M,'læns,1,1055,1
+Byron,M,'baɪ rən,10,1055,2
+Nora,F,'nɔː rə,10,1046,2
+Bernice,F,bɛː 'niːs,01,1045,2
+Francine,F,fræn 'siːn,01,1045,2
+Eleanor,F,'ɛ lə nɔːr,100,1044,3
+Beatrice,F,'biː ə trəs,100,1033,3
+Heidi,F,'haɪ diː,10,1030,2
+Gale,F,'geɪl,1,1030,1
+Faye,F,'feɪ,1,1029,1
+Miriam,F,'mɪ riː əm,100,1028,3
+Alicia,F,ə 'lɪ ʃə,010,1028,3
+Rosie,F,'roʊ ziː,10,1027,2
+Ross,M,'rɑs,1,1027,1
+Sidney,M,'sɪd niː,10,1022,2
+Patrice,F,pə 'triːs,01,1012,2
+Robyn,F,'rɑ bɪn,10,1009,2
+Cathleen,F,`kæθ 'liːn,11,1009,2
+Luis,M,luː 'iːs,01,1008,2
+Cecilia,F,sɪ 'siːl jʌ,010,1004,3
+Florence,F,'flɔː rəns,10,1004,2
+Dale,F,'deɪl,1,1001,1
+Jeannie,F,'ʤiː niː,10,995,2
+Claire,F,'klɛr,1,993,1
+Kristine,F,krɪ 'stiːn,01,993,2
+Betsy,F,'bɛt siː,10,984,2
+Laurel,F,'lɔː rəl,10,982,2
+Clifton,M,'klɪf tən,10,977,2
+Marcus,M,'mɑr kəs,10,972,2
+Wendell,M,'wɛn dəl,10,964,2
+Jessie,M,'ʤɛ siː,10,964,2
+Alma,F,'æl mə,10,964,2
+Bernadette,F,bɛː nʌ 'dɛt,001,963,3
+Irma,F,'ɛː mə,10,951,2
+Wallace,M,'wɔː ləs,10,949,2
+Nathan,M,'neɪ θʌn,10,949,2
+Cheri,F,'ʃɛ riː,10,938,2
+Tracy,F,'treɪ siː,10,936,2
+Ida,F,'aɪ də,10,935,2
+Edgar,M,'ɛd gɛː,10,932,2
+Willie,F,'wɪ liː,10,931,2
+Clayton,M,'kleɪ tən,10,923,2
+Myra,F,'maɪ rə,10,917,2
+Lillie,F,'lɪ liː,10,914,2
+Nelson,M,'nɛl sən,10,912,2
+Hazel,F,'heɪ zəl,10,910,2
+Dora,F,'dɔː rə,10,908,2
+Susie,F,'suː ziː,10,906,2
+Nadine,F,nʌ 'diːn,01,902,2
+Hugh,M,'hjuː,1,896,1
+Iris,F,'aɪ rəs,10,889,2
+Crystal,F,'krɪ stəl,10,887,2
+Jeannette,F,ʤə 'nɛt,01,876,2
+Sam,M,'sæm,1,875,1
+Carlton,M,'kɑrl tən,10,873,2
+Rickie,M,'rɪ kiː,10,871,2
+Maxine,F,mæk 'siːn,01,870,2
+Jana,F,'ʤæ nʌ,10,867,2
+Terrie,F,'tɛ riː,10,861,2
+Rocky,M,'rɑ kiː,10,856,2
+Trudy,F,'truː diː,10,856,2
+Lauren,F,'lɔː rən,10,856,2
+Antoinette,F,`æn twə 'nɛt,101,848,3
+Lucinda,F,luː 'sɪn də,010,846,3
+Ginger,F,'ʤɪn ʤɛː,10,845,2
+Jesus,M,'ʤiː zəs,10,844,2
+Jeri,F,'ʤɛ riː,10,844,2
+Wade,M,'weɪd,1,837,1
+Christy,F,'krɪ stiː,10,835,2
+Clinton,M,'klɪn tən,10,832,2
+Morris,M,'mɔː rəs,10,826,2
+Benny,M,'bɛ niː,10,825,2
+Lyle,M,'laɪl,1,822,1
+Faith,F,'feɪθ,1,800,1
+Bob,M,'bɑb,1,799,1
+Hector,M,'hɛk tɛː,10,796,2
+Raul,M,'rɔːl,1,795,1
+Stella,F,'stɛ lə,10,794,2
+Shelly,F,'ʃɛ liː,10,788,2
+Kathie,F,'kæ θiː,10,782,2
+Lana,F,'læ nʌ,10,770,2
+Desiree,F,'dɛ saɪ riː,100,768,3
+Rosemarie,F,`roʊz mɛː 'iː,101,766,3
+Terence,M,'tɛ rəns,10,765,2
+Jenny,F,'ʤɛ niː,10,758,2
+Sandy,F,'sæn diː,10,753,2
+Sammy,M,'sæ miː,10,751,2
+Jessie,F,'ʤɛ siː,10,747,2
+Janine,F,ʤə 'niːn,01,745,2
+Caroline,F,'kɛ rə `laɪn,101,743,3
+Roberto,M,rə 'bɛr toʊ,010,742,3
+Lorna,F,'lɔːr nʌ,10,740,2
+Gwen,F,'gwɛn,1,740,1
+Ben,M,'bɛn,1,736,1
+Francisco,M,fræn 'sɪ skoʊ,010,731,3
+Rochelle,F,roʊ 'ʃɛl,01,729,2
+Clark,M,'klɑrk,1,725,1
+Willard,M,'wɪ lɛːd,10,722,2
+Max,M,'mæks,1,722,1
+Bennie,M,'bɛ niː,10,721,2
+Otis,M,'oʊ tɪs,10,721,2
+Marguerite,F,`mɑr gɛː 'iːt,101,720,3
+Rosanne,F,roʊ 'zæn,01,717,2
+Cassandra,F,kə 'sæn drə,010,717,3
+Elmer,M,'ɛl mɛː,10,715,2
+Loren,M,'lɔː rən,10,715,2
+Marion,M,'mɛ riː ən,100,714,3
+Alex,M,'æ ləks,10,713,2
+Everett,M,'ɛ vɛː ət,100,713,3
+Jennie,F,'ʤɛ niː,10,712,2
+Frankie,M,'fræŋ kiː,10,711,2
+Geoffrey,M,'ʤɛ friː,10,711,2
+Celeste,F,sə 'lɛst,01,710,2
+Earnest,M,'ɛː nɪst,10,699,2
+Bradford,M,'bræd fɛːd,10,698,2
+Virgil,M,'vɛː ʤəl,10,698,2
+Luther,M,'luː θɛː,10,697,2
+Tanya,F,'tɑ njə,10,696,2
+Ronda,F,'rɑn də,10,696,2
+Naomi,F,neɪ 'oʊ miː,010,695,3
+Joey,M,'ʤoʊ iː,10,694,2
+Harriet,F,'hɛ riː ət,100,693,3
+Kenny,M,'kɛ niː,10,690,2
+Andre,M,'ɑn `dreɪ,11,683,2
+Ira,M,'aɪ rə,10,680,2
+Adrienne,F,ɑ driː 'ɛn,001,674,3
+Salvatore,M,sæl və 'tɔː riː,0010,671,4
+Tamara,F,tʌ 'mɑ rə,010,670,3
+Troy,M,'trɔɪ,1,669,1
+Rudy,M,'ruː diː,10,668,2
+Janette,F,ʤə 'nɛt,01,666,2
+Hilda,F,'hɪl də,10,659,2
+Derrick,M,'dɛ rɪk,10,657,2
+Cecelia,F,sɪ 'siːl jʌ,010,655,3
+Laverne,F,lə 'vɛːn,01,655,2
+Rudolph,M,'ruː dɔːlf,10,653,2
+Delbert,M,'dɛl bɛːt,10,653,2
+Jan,M,'ʤæn,1,650,1
+Marcella,F,mɑr 'sɛ lə,010,650,3
+Dixie,F,'dɪk siː,10,648,2
+Roderick,M,'rɑ drɪk,10,647,2
+Sylvester,M,sɪl 'vɛ stɛː,010,645,3
+Shannon,F,'ʃæ nən,10,641,2
+Laurence,M,'lɔː rəns,10,641,2
+Velma,F,'vɛl mə,10,637,2
+Deloris,F,'dɛ lɛː ɪs,100,636,3
+Lola,F,'loʊ lə,10,633,2
+Mattie,F,'mæ tiː,10,630,2
+Mickey,M,'mɪ kiː,10,629,2
+Stewart,M,'stuː ɛːt,10,629,2
+Cherie,F,'ʃɛ riː,10,628,2
+Susanne,F,`suː 'zæn,11,626,2
+Rosalie,F,'roʊ zʌ liː,100,625,3
+Molly,F,'mɑ liː,10,623,2
+Marty,M,'mɑr tiː,10,622,2
+Nanette,F,nʌ 'nɛt,01,621,2
+Verna,F,'vɛː nʌ,10,616,2
+Kerry,F,'kɛ riː,10,615,2
+Alton,M,'ɔːl tən,10,614,2
+Heather,F,'hɛ ðɛː,10,614,2
+Myron,M,'maɪ rən,10,610,2
+Grant,M,'grænt,1,608,1
+Miguel,M,mɪ 'gɛl,01,608,2
+Julius,M,'ʤuːl jəs,10,607,2
+Olivia,F,oʊ 'lɪ viː ə,0100,606,4
+Karin,F,'kɛ rɪn,10,606,2
+Armando,M,ɑr 'mɑn doʊ,010,604,3
+Celia,F,'siːl jʌ,10,604,2
+Olga,F,'oʊl gə,10,603,2
+Noreen,F,nɛː 'iːn,01,603,2
+Madeline,F,'mæ də lɪn,100,603,3
+Edmund,M,'ɛd mənd,10,600,2
+Malcolm,M,'mæl kəm,10,595,2
+Johnnie,F,'ʤɑ niː,10,594,2
+Sherman,M,'ʃɛː mən,10,594,2
+Leah,F,'liː ə,10,593,2
+Kristi,F,'krɪ stiː,10,591,2
+Della,F,'dɛ lə,10,591,2
+Sonia,F,'soʊ njə,10,591,2
+Roosevelt,M,'roʊ zʌ `vɛlt,101,591,3
+Ramon,M,rə 'moʊn,01,589,2
+Polly,F,'pɑ liː,10,588,2
+Dwayne,M,'dweɪn,1,587,1
+Lora,F,'lɔː rə,10,584,2
+Bridget,F,'brɪ ʤət,10,583,2
+Archie,M,'ɑr ʧiː,10,579,2
+Angelo,M,'æn ʤə `loʊ,101,578,3
+Cora,F,'kɔː rə,10,577,2
+Candice,F,'kæn dɪs,10,577,2
+Mae,F,'meɪ,1,577,1
+Jacob,M,'ʤeɪ kəb,10,576,2
+Gretchen,F,'grɛ ʧən,10,575,2
+Guadalupe,F,`gwɑ də 'luːp,101,574,3
+Andy,M,'æn diː,10,573,2
+Rodger,M,'rɑ ʤɛː,10,565,2
+Yvette,F,ɪ 'vɛt,01,564,2
+Unknown,F,ən 'noʊn,01,564,2
+Leland,M,'liː lənd,10,564,2
+Agnes,F,'æg nɪs,10,563,2
+Lena,F,'liː nʌ,10,560,2
+Ivan,M,'aɪ vən,10,560,2
+Geneva,F,ʤə 'niː və,010,558,3
+Corinne,F,kɛː 'iːn,01,556,2
+Felix,M,'fiː lɪks,10,556,2
+Margo,F,'mɑr goʊ,10,555,2
+Margarita,F,`mɑr gɛː 'iː tʌ,1010,554,4
+Pedro,M,'peɪ droʊ,10,552,2
+Hope,F,'hoʊp,1,551,1
+Pete,M,'piːt,1,551,1
+Minnie,F,'mɪ niː,10,548,2
+Van,M,'væn,1,547,1
+Shawn,M,'ʃɔːn,1,547,1
+Horace,M,'hɔː rəs,10,546,2
+Doyle,M,'dɔɪl,1,545,1
+Alison,F,'æ lɪ sən,100,545,3
+Isaac,M,'aɪ zək,10,545,2
+Kelly,F,'kɛ liː,10,540,2
+Monte,M,'mɑn tiː,10,540,2
+Lorenzo,M,lɛː 'ɛn zoʊ,010,537,3
+Bessie,F,'bɛ siː,10,536,2
+Jerald,M,'ʤɛ rəld,10,534,2
+Fernando,M,fɛː 'næn doʊ,010,534,3
+Hubert,M,'hjuː bɛːt,10,533,2
+Amelia,F,ə 'miːl jʌ,010,531,3
+Kelvin,M,'kɛl vən,10,530,2
+Jolene,F,ʤoʊ 'liːn,01,530,2
+Jeanine,F,ʤə 'niːn,01,528,2
+Elsie,F,'ɛl siː,10,526,2
+Rene,M,rə 'neɪ,01,526,2
+Tracy,M,'treɪ siː,10,525,2
+Preston,M,'prɛ stən,10,524,2
+Nellie,F,'nɛ liː,10,521,2
+Jeffry,M,'ʤɛ friː,10,519,2
+Viola,F,vaɪ 'oʊ lə,010,514,3
+Wilbert,M,'wɪl bɛːt,10,509,2
+Ava,F,'eɪ və,10,508,2
+Tommie,M,'tɑ miː,10,508,2
+Leona,F,'liː oʊ nʌ,100,508,3
+Oliver,M,'ɑ lə vɛː,100,507,3
+Freda,F,'frɛd,1,507,1
+Mindy,F,'mɪn diː,10,507,2
+Forrest,M,'fɔː rəst,10,505,2
+Camille,F,kə 'miːl,01,505,2
+Ernestine,F,'ɛː nɪ `stiːn,101,503,3
+Derek,M,'dɛ rɪk,10,501,2
+Ron,M,'rɑn,1,500,1
+Unknown,M,ən 'noʊn,01,499,2
+Daisy,F,'deɪ ziː,10,498,2
+Candy,F,'kæn diː,10,495,2
+Denis,M,'dɛ nɪs,10,494,2
+Sean,M,'ʃɔːn,1,494,1
+Gay,F,'geɪ,1,493,1
+Cary,M,'kɛ riː,10,491,2
+Stephan,M,'stɛ fʌn,10,490,2
+Teddy,M,'tɛ diː,10,485,2
+Helene,F,hə 'liːn,01,483,2
+Christie,F,'krɪ stiː,10,482,2
+Katie,F,'keɪ tiː,10,477,2
+Alberta,F,æl 'bɛː tʌ,010,477,3
+Pam,F,'pæm,1,473,1
+Nick,M,'nɪk,1,472,1
+Rena,F,'riː nʌ,10,472,2
+Lowell,M,'loʊ əl,10,471,2
+Julian,M,'ʤuː liː ən,100,470,3
+Dena,F,'diː nʌ,10,467,2
+Rene,F,rə 'neɪ,01,465,2
+Brett,M,'brɛt,1,465,1
+Delia,F,'diːl jʌ,10,463,2
+Pearl,F,'pɛːl,1,463,1
+Kristin,F,'krɪ stɪn,10,462,2
+Glenna,F,'glɛ nʌ,10,461,2
+Dee,F,'diː,1,461,1
+Leigh,F,'liː,1,460,1
+Flora,F,'flɔː rə,10,458,2
+Hal,M,'hæl,1,455,1
+Joanna,F,ʤoʊ 'æ nʌ,010,455,3
+Chris,F,'krɪs,1,455,1
+Willis,M,'wɪ lɪs,10,454,2
+Amanda,F,ə 'mæn də,010,453,3
+Isabel,F,'ɪ zʌ `bɛl,101,449,3
+Shari,F,'ʃɑ riː,10,447,2
+Marlon,M,'mɑr lən,10,447,2
+Reba,F,'riː bə,10,444,2
+Sonja,F,'soʊ njə,10,444,2
+Tracey,F,'treɪ siː,10,443,2
+Ken,M,'kɛn,1,440,1
+Jerri,F,'ʤɛ riː,10,439,2
+Angel,M,'eɪn ʤəl,10,434,2
+Wilbur,M,'wɪl bɛː,10,434,2
+Ada,F,'eɪ də,10,433,2
+Adrian,M,'eɪ driː ən,100,433,3
+Freddy,M,'frɛ diː,10,432,2
+Tara,F,'tɛ rə,10,432,2
+Eunice,F,'juː nəs,10,431,2
+Lenora,F,'lɛ nɛː ə,100,428,3
+Myrna,F,'mɛː nʌ,10,427,2
+Clay,M,'kleɪ,1,426,1
+Mitzi,F,'mɪt siː,10,424,2
+Ervin,M,'ɛː vɪn,10,423,2
+Rosalyn,F,'rɑ zʌ lɪn,100,423,3
+Rosalind,F,'rɑ zʌ lɪnd,100,422,3
+Hattie,F,'hæ tiː,10,421,2
+Marcy,F,'mɑr siː,10,420,2
+Penelope,F,pə 'nɛ lə piː,0100,419,4
+Janelle,F,ʒə 'nɛl,01,418,2
+Dona,F,'doʊ nʌ,10,418,2
+Rafael,M,`rɑ faɪ 'ɛl,101,417,3
+Dallas,M,'dæ ləs,10,417,2
+Marta,F,'mɑr tʌ,10,417,2
+Katharine,F,'kæ θrɪn,10,416,2
+Alonzo,M,ə 'lɑn zoʊ,010,416,3
+Denice,F,dɪ 'niːs,01,415,2
+Homer,M,'hoʊ mɛː,10,414,2
+Lorrie,F,'lɔː riː,10,414,2
+Dexter,M,'dɛk stɛː,10,413,2
+Arturo,M,ɑr 'tʊ roʊ,010,409,3
+Rufus,M,'ruː fəs,10,409,2
+Elena,F,'ɛ lə nʌ,100,409,3
+Violet,F,'vaɪ ə lɪt,100,408,3
+Elise,F,ə 'liːs,01,408,2
+Kyle,M,'kaɪl,1,405,1
+Natalie,F,'næ tʌ liː,100,404,3
+Melba,F,'mɛl bə,10,404,2
+Grady,M,'greɪ diː,10,404,2
+Bert,M,'bɛːt,1,404,1
+Carroll,M,'kæ rəl,10,403,2
+Dewey,M,'duː iː,10,402,2
+Jeanie,F,'ʤiː niː,10,401,2
+Tonya,F,'tɑ njə,10,401,2
+Alfredo,M,`æl 'freɪ doʊ,110,400,3
+Jason,M,'ʤeɪ sən,10,400,2
+Leticia,F,lə 'tɪ ʃə,010,400,3
+Kathi,F,'kæ θiː,10,398,2
+Shawn,F,'ʃɔːn,1,396,1
+Randi,F,'ræn diː,10,396,2
+Mack,M,'mæk,1,396,1
+Robbie,F,'rɑ biː,10,395,2
+Nita,F,'niː tʌ,10,395,2
+Henrietta,F,`hɛn riː 'ɛ tʌ,1010,395,4
+Gerry,M,'ʤɛ riː,10,394,2
+Frankie,F,'fræŋ kiː,10,394,2
+Sondra,F,'sɑn drə,10,387,2
+Ana,F,'ɑ nʌ,10,387,2
+Jessica,F,'ʤɛ sɪ kə,100,386,3
+Dominic,M,'dɑ mə nɪk,100,386,3
+Alfonso,M,`æl 'fɑn soʊ,110,385,3
+Conrad,M,'kɑn ræd,10,384,2
+Debby,F,'dɛ biː,10,383,2
+Jocelyn,F,'ʤɔː `slɪn,11,383,2
+Sallie,F,'sæ liː,10,383,2
+Kimberley,F,'kɪm bɛː liː,100,382,3
+Adele,F,ə 'dɛl,01,382,2
+Dirk,M,'dɛːk,1,379,1
+Claudette,F,kloʊ 'dɛt,01,378,2
+Stacey,F,'steɪ siː,10,376,2
+Jaime,M,'haɪ miː,10,376,2
+Colette,F,'koʊ 'lɛt,11,375,2
+Leann,F,liː 'æn,01,375,2
+Rory,M,'rɔː riː,10,375,2
+Royce,M,'rɔɪs,1,373,1
+Jodi,F,'ʤoʊ diː,10,372,2
+Boyd,M,'bɔɪd,1,371,1
+Carlene,F,'kɑr `liːn,11,371,2
+Gertrude,F,'gɛː truːd,10,369,2
+Lorene,F,lɔː 'riːn,01,369,2
+Ellis,M,'ɛ lɪs,10,369,2
+Jorge,M,'hɔːr heɪ,10,367,2
+Rae,F,'reɪ,1,366,1
+Carey,M,'kɛ riː,10,364,2
+Nelda,F,'nɛl də,10,361,2
+Buddy,M,'bə diː,10,360,2
+Pat,F,'pæt,1,358,1
+Stevie,M,'stiː viː,10,358,2
+Eugenia,F,`juː 'ʤiː niː ə,1100,357,4
+Kristina,F,kɹɪ 'sti nʌ,010,357,3
+Travis,M,'træ vɪs,10,356,2
+Erma,F,'ɛː mə,10,356,2
+Rosetta,F,roʊ 'zɛ tʌ,010,355,3
+Lila,F,'liː lə,10,355,2
+Monty,M,'mɔːn tiː,10,354,2
+Sheldon,M,'ʃɛl dən,10,353,2
+Adam,M,'æ dəm,10,353,2
+Christian,M,'krɪs ʧən,10,350,2
+Irvin,M,'ɛː vɪn,10,349,2
+Maggie,F,'mæ giː,10,348,2
+Lorie,F,'lɔː riː,10,347,2
+Kaye,F,'keɪ,1,347,1
+Dinah,F,'daɪ nʌ,10,346,2
+Owen,M,'oʊ ən,10,346,2
+Katrina,F,kə 'triː nʌ,010,345,3
+Sammie,M,'sæ miː,10,344,2
+Shelby,F,'ʃɛl biː,10,344,2
+Elbert,M,'ɛl bɛːt,10,344,2
+Lula,F,'luː lə,10,343,2
+Mari,F,'mɑ riː,10,343,2
+Charmaine,F,ʃɑr 'meɪn,01,343,2
+Darwin,M,'dɑr wɪn,10,343,2
+Louie,M,luː 'iː,01,342,2
+Fannie,F,'fæ niː,10,341,2
+Allison,F,'æ lə sən,100,340,3
+Christophe,M,krɪ 'strɔːf,01,340,2
+Sonya,F,'soʊ njə,10,340,2
+Sharron,F,'ʃæ rən,10,340,2
+Alberto,M,æl 'bɛː toʊ,010,339,3
+Bette,F,'bɛ tiː,10,339,2
+Felicia,F,fə 'liː ʃə,010,339,3
+Lea,F,'liː,1,338,1
+Cornelius,M,kɔːr 'niːl jəs,010,338,3
+Noel,M,noʊ 'ɛl,01,337,2
+Wilson,M,'wɪl sən,10,337,2
+Edmond,M,'ɛd mənd,10,336,2
+Darnell,M,dɑr 'nɛl,01,336,2
+Gabriel,M,'geɪ briː əl,100,334,3
+Mamie,F,'meɪ miː,10,333,2
+Merry,F,'mɛ riː,10,333,2
+Eloise,F,ɪ 'lɔɪz,01,332,2
+Lesley,F,'lɛ sliː,10,332,2
+Dominick,M,'dɑ mə nɪk,100,331,3
+Kristie,F,'krɪ stiː,10,330,2
+Pat,M,'pæt,1,329,1
+Cleveland,M,'kliːv lənd,10,329,2
+Mable,F,'meɪ bəl,10,329,2
+Garland,M,'gɑr lənd,10,328,2
+Antonia,F,æn 'toʊ niː ə,0100,328,4
+Bobbi,F,'bɑ biː,10,326,2
+Spencer,M,'spɛn sɛː,10,326,2
+Lionel,M,'laɪ ə nəl,100,326,3
+Ronny,M,'rɑ niː,10,325,2
+Ilene,F,'ɪ liːn,10,324,2
+Rusty,M,'rə stiː,10,324,2
+Gracie,F,'greɪ siː,10,323,2
+Evan,M,'ɛ vən,10,323,2
+Salvador,M,'sæl və `dɔːr,101,322,3
+Angie,F,'æn ʤiː,10,322,2
+Vance,M,'væns,1,321,1
+Saundra,F,'sɔːn drə,10,320,2
+Dewayne,M,dɪ 'weɪn,01,320,2
+Clare,F,'klɛr,1,319,1
+Miles,M,'maɪlz,1,318,1
+Bart,M,'bɑrt,1,317,1
+Myrtle,F,'mɛː təl,10,316,2
+Benita,F,bə 'niː tʌ,010,315,3
+Blaine,M,'bleɪn,1,315,1
+Guadalupe,M,`gwɑ də 'luːp,101,314,3
+Ernie,M,'ɛː niː,10,313,2
+Dorothea,F,`dɔː rə 'θiː ə,1010,311,4
+Inez,F,ɪ 'nɛz,01,310,2
+Estella,F,ɛ 'stɛ lə,010,310,3
+Ruthie,F,'ruː θiː,10,309,2
+Alphonso,M,æl 'fɑn soʊ,010,309,3
+Percy,M,'pɛː siː,10,309,2
+Shane,M,'ʃeɪn,1,303,1
+Robbin,F,'rɑ bɪn,10,303,2
+Elisa,F,ə 'liː sə,010,302,3
+Stacy,F,'steɪ siː,10,301,2
+Kristy,F,'krɪ stiː,10,301,2
+Meredith,F,'mɛ rɪ dɪθ,100,300,3
+Genevieve,F,'ʤɛ nʌ `viːv,101,300,3
+Melodie,F,mɛ 'ləʊ di,010,299,3
+Harlan,M,'hɑr lən,10,298,2
+Aubrey,M,'ɔː briː,10,298,2
+Roslyn,F,'rɑz lɪn,10,297,2
+Emmett,M,'ɛ mɪt,10,297,2
+Darcy,F,'dɑr siː,10,297,2
+Casey,M,'keɪ siː,10,297,2
+Rodolfo,M,roʊ 'dɑl foʊ,010,297,3
+Phil,M,'fɪl,1,296,1
+Jody,M,'ʤoʊ diː,10,296,2
+Roni,F,'roʊ niː,10,295,2
+Galen,M,'geɪ lən,10,292,2
+Curt,M,'kɛːt,1,292,1
+Suzette,F,`suː 'zɛt,11,291,2
+Marlin,M,'mɑr lən,10,291,2
+Merle,M,'mɛːl,1,291,1
+Coleen,F,kɔː 'liːn,01,289,2
+Elsa,F,'ɛl sə,10,289,2
+Lucia,F,'luː ʃə,10,289,2
+Shauna,F,'ʃɔː nʌ,10,289,2
+Norris,M,'nɔː rɪs,10,288,2
+Amos,M,'eɪ məs,10,287,2
+Julianne,F,'ʤuː liː `ɛn,101,286,3
+Blanca,F,'blɑŋ kə,10,285,2
+Al,M,'æl,1,285,1
+Abraham,M,'eɪ brə `hæm,101,284,3
+Javier,M,`hɑ viː 'ɛr,101,284,3
+Winston,M,'wɪn stən,10,283,2
+Wilfred,M,'wɪl frɪd,10,282,2
+Timmy,M,'tɪ miː,10,282,2
+Woodrow,M,'wʊ `droʊ,11,281,2
+Donny,M,'dɑ niː,10,281,2
+Murray,M,'mɛː iː,10,280,2
+Lamar,M,lə 'mɑr,01,280,2
+Elton,M,'ɛl tən,10,280,2
+Zachary,M,'zæ kɛː iː,100,279,3
+Blake,M,'bleɪk,1,279,1
+Maryanne,F,mɛ riː 'æn,001,278,3
+Enrique,M,ɛn 'riː keɪ,010,277,3
+Vickey,F,'vɪ kiː,10,277,2
+Barney,M,'bɑr niː,10,275,2
+Lu,F,'luː,1,275,1
+Orlando,M,ɔːr 'læn doʊ,010,273,3
+Kirby,M,'kɛː biː,10,271,2
+Scot,M,'skɑt,1,271,1
+Reed,M,'riːd,1,270,1
+Kitty,F,'kɪ tiː,10,269,2
+Grover,M,'groʊ vɛː,10,269,2
+Lyn,F,'lɪn,1,268,1
+Ivy,F,'aɪ viː,10,267,2
+Ned,M,'nɛd,1,267,1
+Moses,M,'moʊ zəs,10,267,2
+Jess,M,'ʤɛs,1,267,1
+Earlene,F,'ɛː liːn,10,266,2
+Jewel,F,'ʤuː əl,10,265,2
+Etta,F,'ɛ tʌ,10,265,2
+Deana,F,`diː 'æ nʌ,110,265,3
+Johanna,F,ʤə 'hæ nʌ,010,265,3
+Ernesto,M,ɛː 'nɛ stoʊ,010,265,3
+Sterling,M,'stɛː lɪŋ,10,264,2
+Kathrine,F,'kæ θɹi,10,264,2
+Marilynn,F,'mɛ rə lən,100,264,3
+Fay,F,'feɪ,1,263,1
+Malinda,F,mɑ 'liːn də,010,263,3
+Winifred,F,'wɪ nɪ frɪd,100,263,3
+Marva,F,'mɑr və,10,261,2
+Jamie,M,'ʤeɪ miː,10,261,2
+Kris,F,'krɪs,1,260,1
+Angelina,F,æn ʤɛ 'liː nʌ,0010,259,4
+Eve,F,'iːv,1,259,1
+Drew,M,'druː,1,259,1
+Dannie,M,'dæ niː,10,257,2
+Terese,F,'tɛ riːz,10,256,2
+Colin,M,'koʊ lɪn,10,256,2
+Julio,M,'ʤuː liː oʊ,100,256,3
+Lenore,F,lə 'nɔːr,01,254,2
+Cedric,M,'sɛ drɪk,10,254,2
+Nan,F,'næn,1,253,1
+Corey,M,'kɔː riː,10,253,2
+Lon,M,'lɑn,1,252,1
+Eldon,M,ɪl 'dɑn,01,252,2
+Cherry,F,'ʧɛ riː,10,251,2
+Michael,F,'maɪ kəl,10,251,2
+Georgette,F,ʤɔːr 'ʤɛt,01,251,2
+Daphne,F,'dæf niː,10,250,2
+Emanuel,M,ɪ 'mæ njuː əl,0100,249,4
+Althea,F,æl 'θiː ə,010,249,3
+Justin,M,'ʤə stən,10,248,2
+Clarice,F,klɛː 'iːs,01,248,2
+Irving,M,'ɛː vɪŋ,10,247,2
+Elva,F,'ɛl və,10,247,2
+Geri,F,'dʒɛ ɹi,10,247,2
+James,F,'ʤeɪmz,1,247,1
+Jodie,F,'ʤoʊ diː,10,247,2
+Roxie,F,'rɑk siː,10,247,2
+Muriel,F,'mjʊ riː əl,100,245,3
+Sharlene,F,'ʃɑr `liːn,11,245,2
+Joshua,M,'ʤɑ ʃuː ə,100,244,3
+Lela,F,'liː lə,10,244,2
+Krista,F,'krɪ stə,10,241,2
+Marietta,F,`mɛ riː 'ɛ tʌ,1010,241,4
+Eduardo,M,ɛ 'dwɑr doʊ,010,241,3
+Jerrold,M,'ʤɛ rəld,10,241,2
+Bonny,F,'bɑ niː,10,240,2
+Kris,M,'krɪs,1,240,1
+Denny,M,'dɛ niː,10,240,2
+Dolly,F,'dɑ liː,10,239,2
+Avis,F,'eɪ vɪs,10,239,2
+Rhoda,F,'roʊ də,10,238,2
+Beverley,F,'bɛ vɛː liː,100,237,3
+Cathie,F,'kæ θiː,10,237,2
+Willa,F,'wɪ lə,10,237,2
+Chad,M,'ʧæd,1,237,1
+Michel,M,mɪ 'ʃɛl,01,236,2
+Greta,F,'griː tʌ,10,236,2
+Elijah,M,ɛ 'laɪ ʤə,010,235,3
+Robert,F,'rɑ bɛːt,10,234,2
+Linwood,M,'lɪn `wʊd,11,234,2
+Randell,M,'ræn 'dɛl,11,234,2
+Teena,F,'tiː nʌ,10,233,2
+Elvira,F,ɛl 'vaɪ rə,010,233,3
+Sherrill,F,'ʃɛ rɪl,10,232,2
+Arleen,F,ɑr 'liːn,01,232,2
+Sandy,M,'sæn diː,10,232,2
+Robbie,M,'rɑ biː,10,231,2
+Silvia,F,'sɪl viː ə,100,231,3
+Blair,M,'blɛr,1,230,1
+Eddy,M,'ɛ diː,10,230,2
+Kristen,F,'krɪ sən,10,230,2
+Elisabeth,F,ɪ 'lɪ zʌ bɪθ,0100,229,4
+Sadie,F,'sæ diː,10,229,2
+Janna,F,'ʤæ nʌ,10,229,2
+Junior,M,'ʤuː njɛː,10,229,2
+Lanny,M,'læ niː,10,228,2
+Rocco,M,'rɑ koʊ,10,228,2
+Kendall,M,'kɛn dəl,10,227,2
+Blanche,F,'blænʧ,1,227,1
+Harley,M,'hɑr liː,10,226,2
+Ingrid,F,'ɪŋ grɪd,10,226,2
+Laureen,F,lɔː 'riːn,01,226,2
+Frederic,M,'frɛ drɪk,10,225,2
+Ora,F,'ɔː rə,10,225,2
+Essie,F,'ɛ siː,10,225,2
+Josie,F,'ʤoʊ ziː,10,223,2
+Edwina,F,ɛ 'dwiː nʌ,010,223,3
+Erik,M,'ɛ rɪk,10,223,2
+Simon,M,'saɪ mən,10,223,2
+Pattie,F,'pæ tiː,10,222,2
+Dorene,F,'dɔː riːn,10,222,2
+Dane,M,'deɪn,1,222,1
+Thaddeus,M,'θæ diː əs,100,222,3
+Stan,M,'stæn,1,221,1
+Minerva,F,mə 'nɛː və,010,221,3
+Doug,M,'dəg,1,221,1
+Elliott,M,'ɛ liː ət,100,221,3
+Reuben,M,'ruː bən,10,220,2
+Luke,M,'luːk,1,220,1
+Lesa,F,'liː sə,10,220,2
+Cornell,M,kɔːr 'nɛl,01,220,2
+Sanford,M,'sæn fɛːd,10,219,2
+Loraine,F,lɛː 'eɪn,01,219,2
+Ramiro,M,rə 'mɪ roʊ,010,218,3
+Jerry,F,'ʤɛ riː,10,218,2
+Vaughn,M,'vɔːn,1,217,1
+Maura,F,'mɔː rə,10,217,2
+Fern,F,'fɛːn,1,216,1
+Abel,M,'eɪ bəl,10,215,2
+Damon,M,'deɪ mən,10,215,2
+Seth,M,'sɛθ,1,215,1
+Karol,F,'kɛ rɔːl,10,214,2
+Rosalinda,F,roʊ sɑ 'liːn də,0010,213,4
+Eula,F,'juː lə,10,213,2
+Bernadine,F,bɛː nʌ 'diːn,001,213,3
+Loyd,M,'lɔɪd,1,212,1
+Marina,F,mɛː 'iː nʌ,010,212,3
+Madonna,F,mə 'dɑ nʌ,010,211,3
+Marcie,F,'mɑr kiː,10,210,2
+Valeria,F,və 'liː riː ə,0100,209,4
+Bennett,M,'bɛ nət,10,208,2
+Cory,M,'kɔː riː,10,208,2
+Roxanna,F,`rɑk 'sæ nʌ,110,208,3
+Nettie,F,'nɛ tiː,10,208,2
+Helena,F,'hɛ lə nʌ,100,208,3
+Aileen,F,aɪ 'liːn,01,208,2
+Lamont,M,lə 'mɑnt,01,208,2
+Ina,F,'iː nʌ,10,207,2
+Deirdre,F,'diːr drə,10,207,2
+Ollie,F,'ɑ liː,10,207,2
+Levi,M,'liː vaɪ,10,206,2
+Lauri,F,'lɔː riː,10,206,2
+Karon,F,'kɛ rən,10,206,2
+Caryn,F,'kɑ rɪn,10,206,2
+Chuck,M,'ʧək,1,205,1
+Austin,M,'ɔː stən,10,204,2
+Francis,F,'fræn səs,10,203,2
+Reynaldo,M,`reɪ 'nɑl doʊ,110,202,3
+Luz,F,'ləz,1,202,1
+Tommie,F,'tɑ miː,10,201,2
+Earline,F,'ɛː laɪn,10,201,2
+Christi,F,'krɪ stiː,10,201,2
+Garth,M,'gɑrθ,1,200,1
+Terrell,M,'tɛ rəl,10,198,2
+Gale,M,'geɪl,1,198,1
+Morgan,M,'mɔːr gən,10,198,2
+Nolan,M,'noʊ lən,10,198,2
+Megan,F,'meɪ gən,10,198,2
+Sheilah,F,'ʃiː lə,10,198,2
+Jefferson,M,'ʤɛ fɛː sən,100,197,3
+Ward,M,'wɔːrd,1,197,1
+Orville,M,'ɔːr vɪl,10,197,2
+Nona,F,'nɑ nʌ,10,197,2
+Nikki,F,'nɪ kiː,10,196,2
+Gaye,F,'geɪ,1,196,1
+Matt,M,'mæt,1,195,1
+Nola,F,'noʊ lə,10,195,2
+Tomas,M,toʊ 'mɑs,01,195,2
+Carmen,M,'kɑr mən,10,195,2
+Davy,M,'deɪ viː,10,195,2
+Jimmie,F,'ʤɪ miː,10,194,2
+Mitchel,M,'mɪ ʧəl,10,194,2
+Mabel,F,'meɪ bəl,10,194,2
+Gilda,F,'gɪl də,10,193,2
+Donn,M,'dɑn,1,193,1
+Melva,F,'mɛl və,10,193,2
+Tena,F,'tɛ nʌ,10,193,2
+Iva,F,'iː və,10,193,2
+Tammy,F,'tæ miː,10,191,2
+Norbert,M,'nɔːr bɛːt,10,191,2
+Pearlie,F,'pəː li,10,191,2
+Randy,F,'ræn diː,10,190,2
+Felipe,M,fə 'liːp,01,190,2
+Billie,M,'bɪ liː,10,190,2
+Israel,M,'ɪz riː əl,100,190,3
+Harrison,M,'hɛ rɪ sən,100,190,3
+Ed,M,'ɛd,1,189,1
+Reid,M,'riːd,1,189,1
+Odell,M,oʊ 'dɛl,01,189,2
+Toby,M,'toʊ biː,10,189,2
+Bryant,M,'braɪ ənt,10,188,2
+Barton,M,'bɑr tən,10,188,2
+Kermit,M,'kɛː mɪt,10,188,2
+Dorthy,F,'dɔːr θiː,10,188,2
+Lupe,F,'luːp,1,188,1
+Russel,M,'rə səl,10,187,2
+Kip,M,'kɪp,1,187,1
+Mariann,F,'mæ ɹeɪ ʌ,100,187,3
+Danielle,F,`dæ niː 'ɛl,101,187,3
+Jasper,M,'ʤæ spɛː,10,186,2
+John,F,'ʤɑn,1,185,1
+Madelyn,F,'mæ dɪ lɪn,100,185,3
+Opal,F,'oʊ pəl,10,185,2
+Lane,M,'leɪn,1,184,1
+Estelle,F,ɛ 'stɛl,01,184,2
+Mollie,F,'mɑ liː,10,184,2
+Joe,F,'ʤoʊ,1,183,1
+Teressa,F,tɛː 'ɛ sə,010,182,3
+May,F,meɪ,0,182,1
+Harriett,F,`hæ ɹɪ 'ɛ,101,182,3
+Burton,M,'bɛː tən,10,182,2
+Dick,M,'dɪk,1,182,1
+Rachelle,F,rə 'ʃɛl,01,181,2
+Abigail,F,'æ bə `geɪl,101,181,3
+Queen,F,'kwiːn,1,180,1
+Neva,F,'neɪ və,10,180,2
+Millie,F,'mɪ liː,10,180,2
+Charla,F,'ʧɑr lə,10,180,2
+Aurora,F,ɛː 'ɔː rə,010,180,3
+Fredric,M,'frɛ drɪk,10,180,2
+Cameron,M,'kæ mɛː ən,100,180,3
+Lizzie,F,'lɪ ziː,10,179,2
+Emil,M,ɛ 'miːl,01,179,2
+Ryan,M,'raɪ ən,10,178,2
+Kimberly,M,'kɪm bɛː liː,100,178,3
+Sybil,F,'sɪ bɪl,10,178,2
+Leila,F,'liː lə,10,177,2
+Fran,F,'fræn,1,177,1
+Athena,F,ə 'θiː nʌ,010,176,3
+Pablo,M,'pɑ bloʊ,10,176,2
+Cornelia,F,kɔːr 'niːl jʌ,010,175,3
+Erin,F,'ɛ rɪn,10,175,2
+Merlin,M,'mɛː lɪn,10,175,2
+Erwin,M,'ɛː wɪn,10,175,2
+Reta,F,'rɛ tʌ,10,175,2
+Alexis,F,ə 'lɛk sɪs,010,174,3
+Georgina,F,`ʤɔːr 'ʤiː nʌ,110,174,3
+Garrett,M,'gæ rɪt,10,174,2
+Mathew,M,'mæ θjuː,10,174,2
+Dudley,M,'dəd liː,10,173,2
+Ian,M,'iː ən,10,173,2
+Domingo,M,doʊ 'mɪŋ goʊ,010,173,3
+Aida,F,aɪ 'iː də,010,172,3
+Jewell,F,'ʤuː ɪl,10,172,2
+Letha,F,'lɛ θə,10,172,2
+Reva,F,'reɪ və,10,172,2
+Roscoe,M,'rɑ skoʊ,10,172,2
+Solomon,M,'sɑ lə mən,100,172,3
+Thurman,M,'θɛː mən,10,172,2
+Elyse,F,'ɛ laɪs,10,172,2
+Mavis,F,'meɪ vɪs,10,171,2
+Elvin,M,'ɛl vɪn,10,171,2
+Gilberto,M,gɪl 'bɛr `toʊ,011,171,3
+Donnell,M,'dɑ nɪl,10,170,2
+Portia,F,'pɔːr ʃə,10,170,2
+Wiley,M,'waɪ liː,10,170,2
+Rolando,M,roʊ 'lɑn doʊ,010,169,3
+Bobbie,M,'bɑ biː,10,169,2
+Brady,M,'breɪ diː,10,169,2
+Bethany,F,'bɛ θə niː,100,169,3
+Kari,F,'kɛ riː,10,169,2
+Marylou,F,'mæ riː luː,100,168,3
+Lorena,F,lɔː 'rɛ nʌ,010,168,3
+Addie,F,'æ diː,10,168,2
+Gus,M,'gəs,1,168,1
+Vern,M,'vɛːn,1,167,1
+Jeremiah,M,`ʤɛ rə 'maɪ ə,1010,167,4
+Juliana,F,`ʤuː liː 'æ nʌ,1010,166,4
+Barbra,F,'bɑr brə,10,165,2
+Roseanne,F,`roʊ 'zæn,11,165,2
+Winfred,M,'wɪn frɪd,10,165,2
+Velda,F,'vɛl də,10,164,2
+Lily,F,'lɪ liː,10,164,2
+Carleen,F,kɑr 'liːn,01,164,2
+Scotty,M,'skɑ tiː,10,164,2
+Ulysses,M,juː 'lɪ siːz,010,163,3
+Mara,F,'mɑ rə,10,163,2
+Millard,M,'mɪ lɛːd,10,163,2
+Aleta,F,ɑ 'lɛ tʌ,010,162,3
+Hollis,M,'hɑ lɪs,10,161,2
+Reggie,M,'rɛ ʤiː,10,160,2
+Ismael,M,'ɪ smeɪl,10,160,2
+Celestine,F,ʧɛ lɛ 'stiː niː,0010,160,4
+Mercedes,F,mɛː 'seɪ diːz,010,160,3
+Raquel,F,rə 'kɛl,01,160,2
+Renita,F,rɛ 'niː tʌ,010,159,3
+Gena,F,'ʤɛ nʌ,10,159,2
+Leola,F,'lɛ lə,10,159,2
+Cecile,F,sɪ 'siːl,01,159,2
+Clarissa,F,klɛː 'ɪ sə,010,158,3
+Alexandra,F,`æ lɛg 'zæn drə,1010,158,4
+Will,M,wɪl,0,158,1
+Weldon,M,'wɛl dən,10,158,2
+Rod,M,'rɑd,1,158,1
+Elwood,M,'ɛl `wʊd,11,158,2
+Ester,F,'ɛ stɛː,10,157,2
+Tonia,F,'toʊ niː ə,100,157,3
+Shannon,M,'ʃæ nən,10,157,2
+Roman,M,'roʊ mən,10,157,2
+Lonny,M,'lɔː niː,10,157,2
+Camilla,F,kə 'mɪ lə,010,156,3
+Karan,F,'kɛ rən,10,156,2
+Ronnie,F,'rɑ niː,10,156,2
+Joycelyn,F,'ʤɔɪ `slɪn,11,156,2
+Eddie,F,'ɛ diː,10,156,2
+Alejandro,M,ɑ leɪ 'jɑn droʊ,0010,156,4
+Bambi,F,'bæm biː,10,155,2
+Nannette,F,næ 'nɛ,01,155,2
+Peggie,F,'pɛ giː,10,155,2
+Mikel,M,'mɪ kəl,10,154,2
+Lindsey,M,'lɪnd ziː,10,154,2
+Cara,F,'kɛ rə,10,154,2
+Effie,F,'ɛ fiː,10,153,2
+Jonathon,M,'ʤɑ nʌ θʌn,100,153,3
+Jean,M,'ʤiːn,1,153,1
+Gerardo,M,ʤɛː 'ɑr doʊ,010,153,3
+Emilio,M,ə 'miː liː oʊ,0100,153,4
+Andres,M,'ɑn dreɪz,10,153,2
+Alyce,F,'æ lɪs,10,153,2
+Pierre,M,piː 'ɛr,01,152,2
+Marybeth,F,'mɛ riː 'bɛθ,101,152,3
+Beulah,F,'bjuː lə,10,152,2
+Ronna,F,'rɑ nʌ,10,152,2
+Sophia,F,soʊ 'fiː ə,010,152,3
+Adolph,M,'eɪ dɔːlf,10,151,2
+Karyn,F,'kæ rɪn,10,151,2
+Rosanna,F,roʊ 'zæ nʌ,010,151,3
+Shelby,M,'ʃɛl biː,10,151,2
+Davis,M,'deɪ vəs,10,151,2
+Guillermo,M,gwɪl 'jɛr moʊ,010,150,3
+Carter,M,'kɑr tɛː,10,150,2
+August,M,'ɑ gəst,10,150,2
+Merrill,M,'mɛ rəl,10,150,2
+Val,M,'væl,1,150,1
+Lottie,F,'lɑ tiː,10,150,2
+Dottie,F,'dɑ tiː,10,150,2
+Hans,M,'hɑns,1,149,1
+Anton,M,'æn `tɔːn,11,149,2
+Christa,F,'krɪ stə,10,149,2
+Charles,F,'ʧɑrlz,1,149,1
+David,F,'deɪ vɪd,10,149,2
+Arlen,M,'ɑr lən,10,148,2
+Cliff,M,'klɪf,1,148,1
+Elias,M,ə 'laɪ əs,010,148,3
+Carmela,F,kɑr 'mɛ lə,010,148,3
+Tod,M,'tɑd,1,148,1
+Mary,M,'mɛ riː,10,147,2
+Cleo,F,'kliː oʊ,10,147,2
+Evangeline,F,ɪ 'væn ʤɪ `laɪn,0101,147,4
+Bryce,M,'braɪs,1,147,1
+Shelton,M,'ʃɛl tən,10,147,2
+Daryl,F,'dɛ rəl,10,146,2
+Pamella,F,pə 'mɛ lə,010,146,3
+Delilah,F,də 'laɪ lə,010,146,3
+Mimi,F,'miː miː,10,145,2
+Erica,F,'ɛ rɪ kə,100,145,3
+Duncan,M,'dʌŋ kən,10,145,2
+Kenton,M,'kɛn tən,10,145,2
+Ollie,M,'ɑ liː,10,145,2
+Rogelio,M,roʊ 'giː liː oʊ,0100,145,4
+Louisa,F,luː 'iː zʌ,010,145,3
+Vito,M,'viː toʊ,10,144,2
+Elissa,F,ɛ 'liː sə,010,144,3
+Cathey,F,'kæ ðiː,10,144,2
+Tricia,F,'trɪ ʃə,10,144,2
+Ursula,F,'ɛː sə lə,100,144,3
+Lorelei,F,'lɔː rɪ `laɪ,101,143,3
+Freddie,F,'frɛ diː,10,143,2
+Ivory,M,'aɪ vɛː iː,100,143,3
+Jacky,M,'ʤæ kiː,10,143,2
+Sergio,M,'sɛː ʤiː oʊ,100,143,3
+Lucretia,F,luː 'kriː ʃə,010,142,3
+Emory,M,'ɛ mɛː iː,100,142,3
+Lauretta,F,lɛː 'ɛ tʌ,010,142,3
+Lourdes,F,'lɔːrdz,1,142,1
+Leta,F,'lɛ tʌ,10,142,2
+Jake,M,'ʤeɪk,1,141,1
+Juana,F,'wɑ nʌ,10,141,2
+Catharine,F,'kæ θrɪn,10,141,2
+Charley,M,'ʧɑr liː,10,140,2
+Clement,M,'klɛ mənt,10,140,2
+Coy,M,'kɔɪ,1,140,1
+Rock,M,'rɑk,1,140,1
+Dian,F,'daɪ ən,10,140,2
+Jerold,M,'ʤɛ roʊld,10,139,2
+Marci,F,'mɑr siː,10,139,2
+Margery,F,'mɑr ʤɛː iː,100,138,3
+Lilly,F,'lɪ liː,10,138,2
+Corliss,F,'kɔːr lɪs,10,138,2
+Hilary,F,'hɪ lɛː iː,100,138,3
+Susanna,F,suː 'zæ nʌ,010,138,3
+Trent,M,'trɛnt,1,137,1
+Connie,M,'kɔː niː,10,137,2
+Elliot,M,'ɛ liː ət,100,137,3
+Angeline,F,'eɪŋ gɪ laɪn,100,137,3
+Rosario,F,roʊ 'zɑ riː oʊ,0100,137,4
+Monroe,M,mən 'roʊ,01,137,2
+Ignacio,M,ɪg 'nɑ siː oʊ,0100,137,4
+Harris,M,'hɛ rɪs,10,137,2
+Avery,M,'eɪ vɛː iː,100,137,3
+Jed,M,'ʤɛd,1,136,1
+Armand,M,'ɑr mənd,10,136,2
+Denver,M,'dɛn vɛː,10,136,2
+Otto,M,'ɑ `toʊ,11,136,2
+Mickey,F,'mɪ kiː,10,136,2
+Carey,F,'kɛ riː,10,136,2
+Carmel,F,kɑr 'mɛl,01,136,2
+Gerri,F,'ʤɛ riː,10,136,2
+Kendra,F,'kɛn drə,10,136,2
+Rosita,F,roʊ 'ziː tʌ,010,135,3
+Rowena,F,roʊ 'iː nʌ,010,135,3
+Thea,F,'θiː ə,10,135,2
+Dorinda,F,dɔː 'riːn də,010,135,3
+Benito,M,bɛ 'niː toʊ,010,135,3
+Libby,F,'lɪ biː,10,135,2
+Hannah,F,'hæ nʌ,10,135,2
+Bernie,M,'bɛː niː,10,135,2
+Stacy,M,'steɪ siː,10,134,2
+Sydney,F,'sɪd niː,10,134,2
+Kyle,F,'kaɪl,1,134,1
+Noah,M,'noʊ ə,10,133,2
+Callie,F,'kɔː liː,10,133,2
+Dina,F,'diː nʌ,10,133,2
+Frieda,F,'friː də,10,133,2
+Lizabeth,F,'lɪ zʌ bɛθ,100,132,3
+Magdalena,F,`mæg də 'liː nʌ,1010,132,4
+Noel,F,noʊ 'ɛl,01,132,2
+Riley,M,'raɪ liː,10,131,2
+Rhea,F,'riː ə,10,131,2
+Charleen,F,ʧɑr 'liːn,01,130,2
+Ola,F,'oʊ lə,10,130,2
+Emery,M,'ɛ mɛː iː,100,130,3
+Maynard,M,'meɪ nɛːd,10,129,2
+Deidre,F,'diː drə,10,129,2
+Amber,F,'æm bɛː,10,129,2
+Rob,M,'rɑb,1,129,1
+Myles,M,'maɪlz,1,129,1
+Madeleine,F,`mæ də 'lɛn,101,128,3
+Toney,M,'toʊ niː,10,128,2
+Jackson,M,'ʤæk sən,10,128,2
+Carlotta,F,kɑr 'lɔː tʌ,010,128,3
+Debi,F,'dɛ biː,10,127,2
+Jacque,F,'ʒeɪk,1,127,1
+Booker,M,'bʊ kɛː,10,126,2
+Leigh,M,'liː,1,126,1
+Danna,F,'dæ nʌ,10,126,2
+Millicent,F,'mɪ lɪ sɪnt,100,126,3
+Goldie,F,'goʊl diː,10,126,2
+Delma,F,'dɛl mə,10,126,2
+Venita,F,vɛ 'niː tʌ,010,125,3
+Richard,F,'rɪ ʧɛːd,10,125,2
+Meryl,F,'mɛ rəl,10,125,2
+Sonny,M,'sə niː,10,125,2
+Shirlene,F,'ʃɛː liːn,10,124,2
+Lelia,F,'liːl jʌ,10,124,2
+Jann,F,'ʤæn,1,124,1
+Carson,M,'kɑr sən,10,124,2
+Wyatt,M,'waɪ ət,10,124,2
+Caron,F,kɑ 'rɔːn,01,123,2
+Delmar,M,'dɛl mɛː,10,123,2
+Burt,M,'bɛːt,1,122,1
+Santos,M,'sæn toʊs,10,122,2
+Nicky,M,'nɪ kiː,10,122,2
+Lenard,M,'lɛ nɛːd,10,122,2
+Juliet,F,'ʤuː liː `ɛt,101,122,3
+Juliann,F,'ʤuː liː æn,100,121,3
+Saul,M,'sɔːl,1,121,1
+Ricki,M,'rɪ kiː,10,121,2
+Napoleon,M,nʌ 'poʊ liː ən,0100,121,4
+Lindsay,M,'lɪnd ziː,10,121,2
+Hank,M,'hæŋk,1,121,1
+Bud,M,'bʌd,1,121,1
+Adela,F,ə 'dɛ lə,010,121,3
+Delphine,F,dɛl 'fiː niː,010,121,3
+Eliza,F,ɪ 'laɪ zʌ,010,121,3
+Kate,F,'keɪt,1,121,1
+Twyla,F,'twaɪ lə,10,121,2
+Matilda,F,mə 'tɪl də,010,121,3
+Eli,M,'iː laɪ,10,120,2
+Caryl,F,'kɛ rəl,10,120,2
+Lindy,F,'lɪn diː,10,120,2
+Pennie,F,'pɛ niː,10,120,2
+Phoebe,F,'fiː biː,10,120,2
+Virgie,F,'vɛː giː,10,120,2
+Zelda,F,'zɛl də,10,120,2
+Isaiah,M,`aɪ 'zeɪ ə,110,120,3
+Quentin,M,'kwɛn tɪn,10,119,2
+Herschel,M,'hɛː ʃəl,10,119,2
+Jerrie,F,'ʤɛ riː,10,119,2
+Zoe,F,'zoʊ iː,10,119,2
+Nicole,F,nɪ 'koʊl,01,119,2
+Alana,F,ɑ 'læ nʌ,010,119,3
+Rona,F,'roʊ nʌ,10,118,2
+Letitia,F,lɪ 'tɪ ʃiː ə,0100,118,4
+Faron,M,'fɛ rən,10,118,2
+Johnie,M,'ʤɑ niː,10,118,2
+William,F,'wɪl jəm,10,117,2
+Alta,F,'ɑl tʌ,10,117,2
+Vince,M,'vɪns,1,117,1
+Tyler,M,'taɪ lɛː,10,117,2
+Marco,M,'mɑr koʊ,10,117,2
+Shaun,M,'ʃɔːn,1,117,1
+Daria,F,'dɑ riː ə,100,117,3
+Elnora,F,ɛl 'nɔː rə,010,117,3
+Larry,F,'lɛ riː,10,117,2
+Lise,F,'laɪz,1,117,1
+Jaye,F,'ʤeɪ,1,116,1
+Joette,F,ʒoʊ 'ɛt,01,116,2
+Wilford,M,'wɪl fɛːd,10,116,2
+Bobby,F,'bɑ biː,10,116,2
+Dollie,F,'dɑ liː,10,115,2
+Santiago,M,`sæn tiː 'ɑ goʊ,1010,115,4
+Butch,M,'bʊʧ,1,115,1
+Clint,M,'klɪnt,1,115,1
+Dickie,M,'dɪ kiː,10,115,2
+Gail,M,'geɪl,1,115,1
+Glynn,M,'glɪn,1,115,1
+Humberto,M,hʌm 'bɛː `toʊ,011,115,3
+Rogers,M,'rɑ ʤɛːz,10,115,2
+Lona,F,'loʊ nʌ,10,114,2
+Merle,F,'mɛːl,1,114,1
+Margot,F,'mɑr goʊ,10,114,2
+Gustavo,M,gə 'stɑ voʊ,010,114,3
+Jeremy,M,'ʤɛ rə miː,100,113,3
+Selma,F,'sɛl mə,10,113,2
+Marlys,F,'mɑr liːz,10,113,2
+Carmine,M,'kɑr mən,10,113,2
+Del,M,'dɛl,1,113,1
+Ofelia,F,oʊ 'feɪ liː ə,0100,112,4
+Xavier,M,'zeɪ vjɛː,10,112,2
+Geary,M,'gɪ riː,10,112,2
+Ophelia,F,ə 'fiːl jʌ,010,112,3
+Monique,F,`moʊ 'niːk,11,112,2
+Randel,M,'ræn dəl,10,111,2
+Beryl,F,'bɛ rəl,10,111,2
+Kurtis,M,'kɛː tɪs,10,111,2
+Mickie,F,'mɪ kiː,10,111,2
+Earle,M,'ɛːl,1,111,1
+Hiram,M,'haɪ rʌm,10,110,2
+Lolita,F,loʊ 'liː tʌ,010,110,3
+Hollis,F,'hɑ lɪs,10,110,2
+Gerry,F,'ʤɛ riː,10,110,2
+Annetta,F,æ 'nɛ tʌ,010,110,3
+Angelita,F,ɑŋ gɛ 'liː tʌ,0010,110,4
+Mervin,M,'mɛː vɪn,10,109,2
+Laurene,F,lɔː 'riːn,01,109,2
+Kerri,F,'kɛ riː,10,109,2
+Eartha,F,'ɛː θə,10,109,2
+Milo,M,'maɪ loʊ,10,109,2
+Marianna,F,mɑ riː 'ɑ nʌ,0010,109,4
+Susana,F,suː 'sɑ nʌ,010,108,3
+George,F,'ʤɔːrʤ,1,108,1
+Abby,F,'æ biː,10,108,2
+Zane,M,'zeɪn,1,108,1
+Marcos,M,'mɑr koʊs,10,108,2
+Freeman,M,'friː mən,10,108,2
+Curtiss,M,'kɛː tɪs,10,108,2
+Dorcas,F,'dɔːr kəs,10,107,2
+Oralia,F,ɔː 'rɑ liː ə,0100,107,4
+Fletcher,M,'flɛ ʧɛː,10,107,2
+Donovan,M,'dɑ nʌ vən,100,107,3
+Bennie,F,'bɛ niː,10,107,2
+Nicki,F,'nɪ kiː,10,106,2
+Justine,F,ʤə 'stiːn,01,106,2
+Francesca,F,fræn 'ʧɛ skə,010,106,3
+Imogene,F,'ɪ mə `ʤiːn,101,106,3
+Irwin,M,'ɛː wʌn,10,106,2
+Jordan,M,'ʤɔːr dən,10,106,2
+Luella,F,`luː 'ɛ lə,110,105,3
+Martina,F,mɑr 'tiː nʌ,010,105,3
+Zelma,F,'zɛl mə,10,105,2
+Wilmer,M,'wɪl mɛː,10,105,2
+Stanford,M,'stæn fɛːd,10,105,2
+Aimee,F,'eɪ 'miː,11,105,2
+Collette,F,kə 'lɛt,01,105,2
+Juliette,F,ʤuː liː 'ɛt,001,105,3
+Sophie,F,'soʊ fiː,10,105,2
+Forest,M,'fɔː rəst,10,105,2
+Winona,F,'wɪ nʌ nʌ,100,104,3
+Odessa,F,oʊ 'dɛ sə,010,104,3
+Elma,F,'ɛl mə,10,104,2
+Vernita,F,vɛː 'niː tʌ,010,104,3
+Paige,F,'peɪʤ,1,104,1
+Linda,M,'lɪn də,10,104,2
+Major,M,'meɪ ʤɛː,10,104,2
+Royal,M,'rɔɪ əl,10,104,2
+Augustine,M,'ɑ gə `stiːn,101,103,3
+Basil,M,'bæ zəl,10,103,2
+Carolina,F,`kɛ rə 'laɪ nʌ,1010,103,4
+Cristina,F,krɪ 'stiː nʌ,010,103,3
+Florine,F,flɔː 'riː niː,010,103,3
+Linnea,F,'lɪ niː ə,100,103,3
+Brooks,M,'brʊks,1,103,1
+Dalton,M,'dɔːl tən,10,103,2
+Robby,M,'rɑ biː,10,103,2
+Wilfredo,M,`wɪl 'feɪ doʊ,110,103,3
+Brandon,M,'bræn dən,10,103,2
+Moira,F,'mɔɪ rə,10,102,2
+Sandi,F,'sæn diː,10,102,2
+Melodee,F,'mɛ ləʊ `di,101,101,3
+Errol,M,'ɛ rəl,10,101,2
+Laverne,M,lə 'vɛːn,01,101,2
+Cherrie,F,'tʃɛ ɹi,10,101,2
+Lonnie,F,'lɔː niː,10,101,2
+Louella,F,laʊ 'ɛ lə,010,101,3
+Margret,F,'mɑr grɛt,10,100,2
+Deborah,M,'dɛ bɛː ə,100,100,3
+Petra,F,'pɛ trə,10,100,2
+Jere,M,'ʤɛ riː,10,100,2
+Anderson,M,'æn dɛː sən,100,100,3
+Toby,F,'toʊ biː,10,100,2
+Theodora,F,`θiː ə 'dɔː rə,1010,100,4
+Marleen,F,mɑr 'liːn,01,99,2
+Douglass,M,'də glʌ sɪz,100,99,3
+Dee,M,'diː,1,99,1
+Clair,M,'klɛr,1,99,1
+Valencia,F,və 'lɛn siː ə,0100,99,4
+Isabelle,F,'ɪ zʌ `bɛl,101,98,3
+Laraine,F,lɛː 'eɪn,01,98,2
+Shawna,F,'ʃɔː nʌ,10,98,2
+Venus,F,'viː nəs,10,98,2
+Ginny,F,'ʤɪ niː,10,98,2
+Cassie,F,'kæ siː,10,98,2
+Felton,M,'fɛl tən,10,97,2
+Angel,F,'eɪn ʤəl,10,97,2
+Wilburn,M,'wɪl bɛːn,10,97,2
+Noe,M,'noʊ,1,97,1
+Nickolas,M,'nɪ kə ləz,100,97,3
+Mason,M,'meɪ sən,10,97,2
+Alden,M,'ɑl dən,10,97,2
+Cyrus,M,'saɪ rəs,10,97,2
+Cleo,M,'kliː oʊ,10,97,2
+Alva,F,'æl və,10,97,2
+Aline,F,ə 'laɪn,01,97,2
+Fonda,F,'fɑn də,10,97,2
+Winnie,F,'wɪ niː,10,97,2
+Burl,M,'bɛːl,1,96,1
+Angelica,F,æn 'ʤɛ lɪ kə,0100,96,4
+Brendan,M,'brɛn dən,10,96,2
+Russ,M,'rəs,1,96,1
+Bryon,M,'braɪ ən,10,96,2
+Lita,F,'liː tʌ,10,96,2
+Nell,F,'nɛl,1,96,1
+Scarlett,F,'skɑr lɪt,10,95,2
+Lyndon,M,'lɪn dən,10,95,2
+Stanton,M,'stæn tən,10,95,2
+Gwenda,F,'gwɛn də,10,95,2
+Abbie,F,'æ biː,10,95,2
+Darline,F,'dɑr `laɪn,11,94,2
+Chip,M,'ʧɪp,1,94,1
+Felice,F,fə 'liːs,01,94,2
+Kelli,F,'kɛ liː,10,94,2
+Rosella,F,roʊ 'zɛ lə,010,94,3
+Tracie,F,'treɪ siː,10,94,2
+Dori,F,'dɔː riː,10,94,2
+Mckinley,M,mə 'kɪn liː,010,94,3
+Jarvis,M,'ʤɑr vəs,10,94,2
+Risa,F,'riː sə,10,93,2
+Jonnie,F,'dʒɑ ni,10,93,2
+Gabrielle,F,'gæ briː ɛl,100,93,3
+Buford,M,'bjuː fɛːd,10,93,2
+Davey,M,'deɪ viː,10,93,2
+Raphael,M,`rɑ faɪ 'ɛl,101,93,3
+Janey,F,'ʤeɪ niː,10,92,2
+Donnie,F,'dɑ niː,10,92,2
+Lindsay,F,'lɪnd ziː,10,92,2
+Ruthann,F,`ruː 'θæn,11,92,2
+Blane,M,'bleɪn,1,92,1
+Ritchie,M,'rɪ ʧiː,10,92,2
+Sidney,F,'sɪd niː,10,92,2
+Patricia,M,pə 'trɪ ʃə,010,91,3
+Mac,M,'mæk,1,91,1
+Elinor,F,'ɛ lɪ nɛː,100,91,3
+Melvina,F,mɛl 'viː nʌ,010,91,3
+Vonnie,F,'vɑ niː,10,91,2
+Kelley,F,'kɛ liː,10,91,2
+Jaclyn,F,'ʤæ klɪn,10,91,2
+Lenny,M,'lɛ niː,10,91,2
+Cesar,M,'siː zɛː,10,91,2
+Carnell,M,'kɑr nəl,10,91,2
+Bret,M,'brɛt,1,91,1
+Maxwell,M,'mæk `swɛl,11,90,2
+Wilton,M,'wɪl tən,10,90,2
+Elvia,F,'ɛl viː ə,100,90,3
+Adrian,F,'eɪ driː ən,100,90,3
+Marisa,F,mə 'rɪ sə,010,89,3
+Evon,F,'ɛ vən,10,89,2
+Wilhelmina,F,`wɪl hɛl 'miː nʌ,1010,89,4
+Rayford,M,'reɪ fɛːd,10,89,2
+Tad,M,'tæd,1,89,1
+Augustus,M,ɑ 'gə stəs,010,89,3
+Bernita,F,bɛː 'niː tʌ,010,88,3
+Claudine,F,klɔː 'diːn,01,88,2
+Dalia,F,'dɑl jʌ,10,88,2
+Drusilla,F,`druː 'sɪ lə,110,88,3
+Allyson,F,'æ lɪ sən,100,88,3
+Lina,F,'liː nʌ,10,88,2
+Silas,M,'saɪ ləs,10,88,2
+Haywood,M,'heɪ `wʊd,11,88,2
+Federico,M,fɛ dɛː 'iː koʊ,0010,88,4
+Damian,M,'deɪ miː ən,100,88,3
+Adolfo,M,ə 'dɑl `foʊ,011,88,3
+Malia,F,'mɑ liː ə,100,88,3
+Stacey,M,'steɪ siː,10,87,2
+Rubin,M,'ruː bɪn,10,87,2
+Normand,M,'nɔːr mənd,10,87,2
+Nicolas,M,'nɪ kə ləs,100,87,3
+Jacques,M,'ʒɑk,1,87,1
+Fritz,M,'frɪts,1,87,1
+Dino,M,'diː noʊ,10,87,2
+Dennie,M,'dɛ niː,10,87,2
+Carlo,M,'kɑr loʊ,10,87,2
+Gary,F,'gɛ riː,10,87,2
+Beckie,F,'bɛ kiː,10,87,2
+Starr,F,'stɑr,1,87,1
+Ila,F,'iː lə,10,87,2
+Coral,F,'kɔː rəl,10,86,2
+Wally,M,'wɔː liː,10,86,2
+Leonardo,M,`liː ə 'nɑr doʊ,1010,86,4
+Judson,M,'ʤʌd sən,10,86,2
+Huey,M,'hjuː iː,10,86,2
+Christal,F,'krɪ stəl,10,86,2
+Kit,M,'kɪt,1,86,1
+Hollie,F,'hɑ liː,10,86,2
+Janel,F,'ʤæ nəl,10,86,2
+Joseph,F,'ʤoʊ səf,10,86,2
+Marty,F,'mɑr tiː,10,86,2
+Vicente,M,viː 'ʧɛn tiː,010,85,3
+Stacie,F,'stæ kiː,10,85,2
+Susann,F,`suː 'zæn,11,85,2
+Suzanna,F,`suː 'zæ nʌ,110,85,3
+Duke,M,'duːk,1,85,1
+Lyman,M,'laɪ mən,10,85,2
+Quinton,M,kwɪn 'tɔːn,01,85,2
+Rolland,M,'rɑ lənd,10,85,2
+Thad,M,'θæd,1,85,1
+Lincoln,M,'lɪŋ kən,10,85,2
+Belva,F,'beɪl və,10,84,2
+Merrie,F,'mɛ riː,10,84,2
+Cordell,M,`kɔːr 'dɛl,11,84,2
+Bettina,F,bə 'tiː nʌ,010,83,3
+Otha,M,ə 'ðɑ,01,83,2
+Marcel,M,mɑr 'sɛl,01,83,2
+Houston,M,'hjuː stən,10,83,2
+Elroy,M,ɪl 'rɔɪ,01,83,2
+Kara,F,'kɛ rə,10,83,2
+Lisbeth,F,'lɪs bɪθ,10,83,2
+Marlena,F,mɑr 'leɪ nʌ,010,83,3
+Hilton,M,'hɪl tən,10,82,2
+Lue,F,'luː,1,82,1
+Delmer,M,'dɛl mɛː,10,82,2
+Wardell,M,'wɔːr dɛl,10,82,2
+Olin,M,'oʊ lɪn,10,82,2
+Alva,M,'æl və,10,82,2
+Bertram,M,'bɛː trəm,10,82,2
+Shiela,F,'ʃaɪ lə,10,81,2
+Hester,F,'hɛ stɛː,10,81,2
+Giselle,F,ʒɪ 'sɛl,01,81,2
+Cary,F,'kɛ riː,10,81,2
+Graham,M,'greɪ əm,10,81,2
+Ashley,M,'æ ʃliː,10,81,2
+Kathlene,F,'kæθ `liːn,11,80,2
+Kirsten,F,'kɛː stən,10,80,2
+Carroll,F,'kæ rəl,10,80,2
+Carmelita,F,kɑr mə 'liː tʌ,0010,80,4
+Alene,F,ə 'liːn,01,80,2
+Clementine,F,'klɛ mən `taɪn,101,80,3
+Lani,F,'lɑ niː,10,80,2
+Woody,M,'wʊ diː,10,80,2
+Artis,M,'ɑr tɪs,10,80,2
+Barbara,M,'bɑr bɛː ə,100,80,3
+Emerson,M,'ɛ mɛː sən,100,80,3
+Hoyt,M,'hɔɪt,1,80,1
+Rand,M,'rænd,1,80,1
+Von,M,'vɔːn,1,80,1
+Georgene,F,'ʤɔːr `ʤiːn,11,79,2
+Emilie,F,'ɛ mə liː,100,79,3
+Boyce,M,'bɔɪs,1,79,1
+Keven,M,'kiː vən,10,79,2
+Raleigh,M,'rɔː liː,10,79,2
+Chandra,F,'ʧæn drə,10,79,2
+Pandora,F,pæn 'dɔː rə,010,79,3
+Nila,F,'niː lə,10,79,2
+Marti,F,'mɑr tiː,10,79,2
+Veda,F,'veɪ də,10,79,2
+Adeline,F,'æ də `laɪn,101,78,3
+Issac,M,'ɪ sək,10,78,2
+Taylor,M,'teɪ lɛː,10,78,2
+Hugo,M,'hjuː goʊ,10,78,2
+Gregorio,M,grɪ 'gɔː riː oʊ,0100,78,4
+Everette,M,'ɛ vɛː 'ɛt,101,78,3
+Cyril,M,'sɪ rəl,10,78,2
+Carol,M,'kæ rəl,10,78,2
+Sharla,F,'ʃɑr lə,10,78,2
+Evonne,F,`ɛ 'vɑn,11,78,2
+Dusty,M,'də stiː,10,78,2
+Theron,M,'θɛ rən,10,77,2
+Roma,F,'roʊ mə,10,77,2
+Jules,M,'ʤuːlz,1,77,1
+Len,M,'lɛn,1,77,1
+Rhett,M,'rɛt,1,77,1
+Alphonse,M,æl 'fɑnz,01,77,2
+Berta,F,'bɛː tʌ,10,77,2
+Pearline,F,'pɛː laɪn,10,77,2
+Gayle,M,'geɪl,1,77,1
+Cruz,M,'kruːz,1,76,1
+Imelda,F,ɪ 'mɛl də,010,76,3
+Berry,M,'bɛ riː,10,76,2
+Layne,M,'leɪn,1,76,1
+Verne,M,'vɛːn,1,76,1
+Roxana,F,rɑk 'sæ nʌ,010,75,3
+Georgiana,F,`ʤɔːr ʤiː 'æ nʌ,1010,75,4
+Cody,M,'koʊ diː,10,75,2
+Debra,M,'dɛ brə,10,75,2
+Ike,M,'aɪk,1,75,1
+Prince,M,'prɪns,1,75,1
+Rodrick,M,'rɑ drɪk,10,75,2
+Meg,F,'mɛg,1,75,1
+Liz,F,'lɪz,1,74,1
+Jami,F,'ʤeɪ miː,10,74,2
+Michaela,F,maɪ 'kɛ lə,010,74,3
+Pansy,F,'pæn ziː,10,74,2
+Kelley,M,'kɛ liː,10,74,2
+Gil,M,'gɪl,1,74,1
+Stefanie,F,'stɛ fə niː,100,74,3
+Carmelo,M,kɑr 'mɛ loʊ,010,74,3
+Courtney,M,'kɔːrt niː,10,74,2
+Pauletta,F,pɑ 'lɛ tʌ,010,74,3
+Germaine,F,ʒɛː 'meɪn,01,74,2
+Williams,M,'wɪl jəmz,10,74,2
+Reynold,M,'rɛ nəld,10,74,2
+Newton,M,'nuː tən,10,74,2
+Milford,M,'mɪl fɛːd,10,74,2
+Vida,F,'vaɪ də,10,73,2
+Val,F,'væl,1,73,1
+Regis,M,'riː ʤɪs,10,73,2
+Emmanuel,M,ɪ 'mæ njuː əl,0100,73,4
+Carleton,M,'kɑrl tən,10,73,2
+Bruno,M,'bruː noʊ,10,73,2
+Ellyn,F,'ɛ lɪn,10,73,2
+Luisa,F,luː 'iː zʌ,010,73,3
+Thomas,F,'tɑ məs,10,73,2
+Fidel,M,fɪ 'dɛl,01,72,2
+Foster,M,'fɑ stɛː,10,72,2
+Gino,M,'ʤiː noʊ,10,72,2
+Hayward,M,'heɪ wɛːd,10,72,2
+Artie,M,'ɑr tiː,10,72,2
+Sherwood,M,'ʃɛː `wʊd,11,72,2
+Britt,M,'brɪt,1,72,1
+Lacy,M,'leɪ siː,10,72,2
+Jayme,F,'ʤeɪ miː,10,72,2
+Marjory,F,'mɑr ʤɛː iː,100,72,3
+Corina,F,`kɔː 'riː nʌ,110,72,3
+Elia,F,ə 'laɪ ə,010,72,3
+Lilia,F,'liː liː ə,100,72,3
+Lissa,F,'lɪ sə,10,72,2
+Kevan,M,'kɛ vən,10,72,2
+Lucile,F,luː 'siːl,01,72,2
+Miranda,F,mɛː 'æn də,010,72,3
+Ronald,F,'rɑ nəld,10,72,2
+Rosalee,F,`roʊ sə 'liː,101,72,3
+Charlie,F,'ʧɑr liː,10,72,2
+Ezra,M,'ɛz rə,10,71,2
+Darcy,M,'dɑr siː,10,71,2
+Demetrius,M,dɪ 'miː triː əs,0100,71,4
+Columbus,M,kə 'ləm bʌs,010,71,3
+Elmo,M,'ɛl moʊ,10,71,2
+Erich,M,'ɛ rɪk,10,71,2
+Iona,F,aɪ 'oʊ nʌ,010,71,3
+Ferdinand,M,'fɛː dɪ `nænd,101,71,3
+Skip,M,'skɪp,1,71,1
+Liane,F,liː 'æn,01,71,2
+Thomasina,F,θoʊ mɑ 'siː nʌ,0010,71,4
+Mina,F,'miː nʌ,10,71,2
+Hillary,F,'hɪ lɛː iː,100,71,3
+Lura,F,'lʊ rə,10,71,2
+Marylin,F,'mæ rɪ lɪn,100,70,3
+Coleman,M,'koʊl mən,10,70,2
+Dell,M,'dɛl,1,70,1
+Dewitt,M,də 'wɪt,01,70,2
+Rolf,M,'roʊlf,1,70,1
+Ty,M,'taɪ,1,70,1
+Loren,F,'lɔː rən,10,70,2
+Valentina,F,væ lɪn 'tiː nʌ,0010,70,4
+Phillis,F,'fɪ lɪs,10,70,2
+Chrystal,F,'krɪ stəl,10,70,2
+Emilia,F,ə 'miː liː ə,0100,70,4
+Jacki,F,'ʤæ kiː,10,70,2
+Kenneth,F,'kɛ nɪθ,10,70,2
+Loree,F,'lɔː 'riː,11,70,2
+Tonie,F,'toʊ niː,10,69,2
+Micki,F,'mɪ kiː,10,69,2
+Emmitt,M,'ɛ mɪt,10,69,2
+Alford,M,'æl fɛːd,10,69,2
+Barrett,M,'bæ rɪt,10,69,2
+Chauncey,M,'ʧɔːn siː,10,69,2
+Farrell,M,'fɛ rɪl,10,69,2
+Franklyn,M,'fræŋ klɪn,10,69,2
+Lesley,M,'lɛ sliː,10,69,2
+Lucius,M,'luː ʃəs,10,69,2
+Lettie,F,'lɛ tiː,10,69,2
+Donald,F,'dɑ nəld,10,69,2
+Mel,M,'mɛl,1,69,1
+Dorian,M,'dɔː riː ən,100,68,3
+Jared,M,'ʤɛ rɪd,10,68,2
+King,M,'kɪŋ,1,68,1
+Enid,F,'iː nɪd,10,68,2
+Lauren,M,'lɔː rən,10,68,2
+Mitch,M,'mɪʧ,1,68,1
+Erika,F,'ɛ rɪ kə,100,68,3
+Deedee,F,'diː 'diː,11,68,2
+Luana,F,luː 'æ nʌ,010,68,3
+Kevin,F,'kɛ vɪn,10,68,2
+Allie,F,'æ liː,10,67,2
+Darius,M,dɛː 'aɪ əs,010,67,3
+Georgie,F,'ʤɔːr ʤiː,10,67,2
+Brooke,F,'brʊk,1,67,1
+Kayla,F,'keɪ lə,10,67,2
+Leonora,F,`liː ə 'nɔː rə,1010,67,4
+Leora,F,'lɛ rə,10,67,2
+Cleve,M,'kliːv,1,67,1
+Jame,M,'dʒeɪ,1,67,1
+Judie,F,'ʤə diː,10,67,2
+Jefferey,M,'ʤɛ fɛː iː,100,67,3
+Omar,M,'oʊ mɑr,10,67,2
+Reda,F,'reɪ də,10,67,2
+Rise,F,'raɪz,1,67,1
+Vita,F,'vaɪ tʌ,10,67,2
+Joye,F,'ʤɔɪ,1,67,1
+Arline,F,'ɑr `laɪn,11,66,2
+Pasquale,M,pɑ 'skwɑ leɪ,010,66,3
+Lorin,M,'lɔː rɪn,10,66,2
+Scottie,M,'skɑ tiː,10,66,2
+Zandra,F,'zæn drə,10,66,2
+Adolphus,M,æ 'dɑl fʌ,010,66,3
+Agustin,M,ə 'gɔː stɪn,010,66,3
+Arlie,M,'ɑr liː,10,66,2
+Elvis,M,'ɛl vɪs,10,66,2
+Lorine,F,'lɔː ɹi,10,66,2
+Katy,F,'keɪ tiː,10,66,2
+Logan,M,'loʊ gən,10,65,2
+Raymundo,M,`reɪ 'mən doʊ,110,65,3
+Babette,F,bə 'bɛt,01,65,2
+Amalia,F,ə 'mɑl jʌ,010,65,3
+Olen,M,'ɑ lən,10,65,2
+Paul,F,'pɔːl,1,65,1
+Liza,F,'liː zʌ,10,65,2
+Susan,M,'suː zən,10,65,2
+Randle,M,'ræn dəl,10,65,2
+Quincy,M,'kwɪn siː,10,65,2
+Arnulfo,M,ɑr 'nəl foʊ,010,65,3
+Benton,M,'bɛn tən,10,65,2
+Brice,M,'braɪs,1,65,1
+Gaylord,M,'geɪ `lɔːrd,11,65,2
+Charline,F,ʃɑr 'liːn,01,65,2
+Valentine,M,'væ lən `taɪn,101,64,3
+Davida,F,dɑ 'viː də,010,64,3
+Bunny,F,'bə niː,10,64,2
+Joaquin,M,`wɑ 'kiːn,11,64,2
+Erick,M,'ɛ rɪk,10,64,2
+Phylis,F,'faɪ ləs,10,64,2
+Lennie,M,'lɛ niː,10,64,2
+Truman,M,'truː mən,10,64,2
+Nicolette,F,`nɪ kə 'lɛt,101,64,3
+Dayle,F,'deɪl,1,64,1
+Shirlee,F,'ʃɛː liː,10,64,2
+Duwayne,M,duː 'weɪn,01,64,2
+Trisha,F,'trɪ ʃə,10,64,2
+Buster,M,'bə stɛː,10,64,2
+Benedict,M,'bɛ nʌ `dɪkt,101,64,3
+Cole,M,'koʊl,1,63,1
+Cris,M,'krɪs,1,63,1
+Davie,M,'deɪ viː,10,63,2
+Dorsey,M,'dɔːr siː,10,63,2
+Eldridge,M,'ɛl `drɪʤ,11,63,2
+Leander,M,liː 'æn dɛː,010,63,3
+Lex,M,'lɛks,1,63,1
+Lupe,M,'luːp,1,63,1
+Talmadge,M,'tæl mæʤ,10,63,2
+Warner,M,'wɔːr nɛː,10,63,2
+Laurette,F,lɔː 'rɛt,01,62,2
+Jeana,F,'ʤiː nʌ,10,62,2
+Giles,M,'ʤaɪlz,1,62,1
+Jude,M,'ʤuːd,1,62,1
+Alesia,F,æ 'li zeɪ ʌ,0100,62,4
+Ellie,F,'ɛ liː,10,62,2
+Gregory,F,'grɛ gɛː iː,100,62,3
+Tonda,F,'tɑn də,10,62,2
+Shaun,F,'ʃɔːn,1,62,1
+Sharyl,F,'ʃɛ rəl,10,62,2
+Marcelle,F,mɑr 'sɛl,01,62,2
+Desmond,M,'dɛz mənd,10,62,2
+Winford,M,'wɪn fɛːd,10,61,2
+Arden,M,'ɑr dən,10,61,2
+Dann,M,'dæn,1,61,1
+Gavin,M,'gæ vɪn,10,61,2
+Lafayette,M,`lɑ fiː 'ɛt,101,61,3
+Bridgett,F,'brɪ ʤɪt,10,61,2
+Dara,F,'dæ rə,10,61,2
+Harriette,F,'hæ riː ɛt,100,61,3
+Isabell,F,ɪ sɑ 'bɛl,001,61,3
+Isabella,F,`ɪ zʌ 'bɛ lə,1010,61,4
+Janetta,F,dʒæ 'nɛ tʌ,010,61,3
+Louanne,F,luː 'æn,01,61,2
+Robbin,M,'rɑ bɪn,10,61,2
+Sammie,F,'sæ miː,10,61,2
+Sherron,F,'ʃɛ rən,10,61,2
+Walker,M,'wɔː kɛː,10,61,2
+Porter,M,'pɔːr tɛː,10,61,2
+Renda,F,'rɛn də,10,60,2
+Aurelio,M,aʊ 'reɪ liː oʊ,0100,60,4
+Abe,M,'eɪb,1,60,1
+Micky,M,'mɪ kiː,10,60,2
+Kirt,M,'kɛːt,1,60,1
+Karolyn,F,'kæ rə lɪn,100,60,3
+Randolf,M,'ræn `doʊlf,11,60,2
+Theda,F,'θiː də,10,60,2
+Clarke,M,'klɑrk,1,60,1
+Gene,F,'ʤiːn,1,60,1
+Carrol,F,'kæ rəl,10,59,2
+Flossie,F,'flɔː siː,10,59,2
+Allyn,M,'æ lɪn,10,59,2
+Linette,F,lɪ 'nɛt,01,59,2
+Marquita,F,mɑr 'kwiː tʌ,010,59,3
+Selena,F,sə 'liː nʌ,010,59,3
+Wonda,F,'wɑn də,10,59,2
+Leilani,F,lə 'lɑ niː,010,59,3
+Art,M,'ɑrt,1,59,1
+Brant,M,'brænt,1,59,1
+Dante,M,'dɑn teɪ,10,59,2
+Jonas,M,'ʤoʊ nəs,10,59,2
+Les,M,'lɛs,1,59,1
+Michal,M,'mɪ ʧəl,10,59,2
+Milan,M,mə 'lɑn,01,59,2
+Murphy,M,'mɛː fiː,10,59,2
+Orval,M,'ɔːr vəl,10,59,2
+Mose,M,'moʊz,1,58,1
+Claud,M,'klɔːd,1,58,1
+Harmon,M,'hɑr mən,10,58,2
+Hosea,M,hoʊ 'siː ə,010,58,3
+Malcom,M,'mæl kəm,10,58,2
+Moises,M,'mɔɪ zɪz,10,58,2
+Rowland,M,'roʊ lənd,10,58,2
+Edythe,F,'ɛ daɪð,10,58,2
+Jeane,F,'ʤiːn,1,58,1
+Alethea,F,`æ lə 'θiː ə,1010,58,4
+Ardis,F,'ɑr dɪs,10,58,2
+Easter,F,'iː stɛː,10,58,2
+Josette,F,ʒə 'sɛt,01,58,2
+Juli,F,'ʤuː liː,10,58,2
+Manuela,F,mæn 'weɪ lə,010,58,3
+Hellen,F,'hɛ lən,10,57,2
+Stefan,M,'stɛ fɑn,10,57,2
+Esteban,M,'ɛ stə bɑn,100,57,3
+Emile,M,eɪ 'miːl,01,57,2
+Anthony,F,'æn θə niː,100,57,3
+Ardith,F,'ɑr dɪθ,10,57,2
+Carma,F,'kɑr mə,10,57,2
+Jaime,F,'haɪ miː,10,57,2
+Nelly,F,'nɛ liː,10,57,2
+Octavia,F,ɑk 'teɪ viː ə,0100,57,4
+Scarlet,F,'skɑr lət,10,57,2
+Sebastian,M,sə 'bæs ʧən,010,56,3
+Delaine,F,dɪ 'leɪn,01,56,2
+Elouise,F,'ɛ lə `wiːz,101,56,3
+Fawn,F,'fɔːn,1,56,1
+Kenna,F,'kɛ nʌ,10,56,2
+Mark,F,'mɑrk,1,56,1
+Ricki,F,'rɪ kiː,10,56,2
+Edison,M,'ɛ dɪ sən,100,56,3
+Oral,M,'ɔː rəl,10,56,2
+Palmer,M,'pɑ mɛː,10,56,2
+Reese,M,'riːs,1,56,1
+Devon,M,'dɛ vən,10,56,2
+Adan,M,'eɪ dən,10,55,2
+Walton,M,'wɔːl tən,10,55,2
+Alec,M,'æ lɪk,10,55,2
+Alonza,M,ə 'lɑn zʌ,010,55,3
+Bernardo,M,bɛː 'nɑr doʊ,010,55,3
+Beverly,M,'bɛ vɛː liː,100,55,3
+Donna,M,'dɑ nʌ,10,55,2
+Elden,M,'ɛl dən,10,55,2
+Enoch,M,'iː nək,10,55,2
+Frances,M,'fræn sɪs,10,55,2
+Hunter,M,'hən tɛː,10,55,2
+Kimball,M,'kɪm bəl,10,55,2
+Nels,M,'nɛlz,1,55,1
+Hardy,M,'hɑr diː,10,55,2
+Georgann,F,`ʤɔːr 'ʤæn,11,55,2
+Johnny,F,'ʤɑ niː,10,55,2
+Mercy,F,'mɛː siː,10,55,2
+Brion,M,'braɪ ən,10,54,2
+Glynis,F,'glɪ nɪs,10,54,2
+Lucian,M,'luː ʃən,10,54,2
+Junius,M,'ʤuː niː ɪs,100,54,3
+Ethan,M,'iː θʌn,10,54,2
+Diane,M,daɪ 'æn,01,54,2
+Brock,M,'brɑk,1,54,1
+Aldo,M,'ɑl doʊ,10,54,2
+Adell,F,ə 'dɛl,01,54,2
+Maurine,F,mɔː 'riː niː,010,54,3
+Sofia,F,soʊ 'fiː ə,010,54,3
+Tania,F,'tɑ njə,10,54,2
+Teresita,F,tɛː ɛ 'siː tʌ,0010,54,4
+Lucious,M,'lʉː ʃʌ,10,53,2
+Eliot,M,'ɛ liː ət,100,53,3
+Lucien,M,'luː siː ən,100,53,3
+Montgomery,M,mɑnt 'gəm riː,010,53,3
+Rollin,M,'rɑ lɪn,10,53,2
+Isidro,M,ɪ 'sɪ dɹəʊ,010,53,3
+Enrico,M,ɛn 'riː koʊ,010,53,3
+Selina,F,sə 'liː nʌ,010,53,3
+Arne,M,'ɑrn,1,53,1
+Alvis,M,'ɑl vɪs,10,53,2
+Sharon,M,'ʃæ rən,10,53,2
+Maude,F,'mɔːd,1,53,1
+Adriana,F,`eɪ driː 'æ nʌ,1010,53,4
+Dennis,F,'dɛ nɪs,10,53,2
+Rupert,M,'ruː pɛːt,10,53,2
+Chet,M,'ʧɛt,1,53,1
+Yasmin,F,'jæz mɪn,10,53,2
+Sherrell,F,'ʃɛ rəl,10,53,2
+Concepcion,F,kən `sɛp siː 'oʊn,0101,52,4
+Danelle,F,də 'nɛl,01,52,2
+Dani,F,'dɑ niː,10,52,2
+Darice,F,'dɑ rɪs,10,52,2
+Suzie,F,'sə ziː,10,52,2
+Simone,F,sɪ 'moʊn,01,52,2
+Edward,F,'ɛ dwɛːd,10,52,2
+Elayne,F,ɪ 'leɪn,01,52,2
+Lucie,F,'luː siː,10,52,2
+Princess,F,'prɪn sɛs,10,52,2
+India,F,'ɪn diː ə,100,52,3
+Curley,M,'kɛː liː,10,52,2
+Derwin,M,'dɛː wɪn,10,52,2
+Ezell,M,ə 'zɛl,01,52,2
+Lawrance,M,'lɔː rəns,10,52,2
+Lorenza,M,lɔː 'rɛn zʌ,010,52,3
+Marcellus,M,mɑr 'sɛ ləs,010,52,3
+Parker,M,'pɑr kɛː,10,52,2
+Richie,M,'rɪ ʧiː,10,52,2
+Whitney,M,'wɪt niː,10,52,2
+Willam,M,'wɪ ləm,10,52,2
+Philomena,F,fɪ lə 'miː nʌ,0010,52,4
+Raye,F,'reɪ,1,52,1
+Dorian,F,'dɔː riː ən,100,51,3
+Alane,F,ə 'leɪn,01,51,2
+Miller,M,'mɪ lɛː,10,51,2
+Murry,M,'mɛː iː,10,51,2
+Nancy,M,'næn siː,10,51,2
+Noble,M,'noʊ bəl,10,51,2
+Quintin,M,'kwɪn tɪn,10,51,2
+Sandra,M,'sæn drə,10,51,2
+Shirley,M,'ʃɛː liː,10,51,2
+Leonel,M,'liː oʊ nəl,100,51,3
+Darby,F,'dɑr biː,10,51,2
+Star,F,'stɑr,1,51,1
+Barb,F,'bɑrb,1,51,1
+Arlette,F,`ɑr 'lɛt,11,51,2
+Hallie,F,'hɔː liː,10,51,2
+Ira,F,'aɪ rə,10,51,2
+Ivory,F,'aɪ vɛː iː,100,51,3
+Novella,F,noʊ 'vɛ lə,010,51,3
+Olive,F,'ɑ lʌv,10,51,2
+Terrill,M,'tɛ rəl,10,50,2
+Alvaro,M,əl 'vɑ roʊ,010,50,3
+Sydney,M,'sɪd niː,10,50,2
+Ambrose,M,'æm `broʊz,11,50,2
+Antone,M,ɑn 'toʊ niː,010,50,3
+Gonzalo,M,gɑn 'zɑ loʊ,010,50,3
+Hobert,M,'hɑ bɛːt,10,50,2
+Josh,M,'ʤɑʃ,1,50,1
+Maxie,M,'mæk siː,10,50,2
+Karen,M,'kɛ rən,10,50,2
+Shirleen,F,ʃɛː 'liːn,01,50,2
+Dorris,F,'dɔː rɪs,10,50,2
+Billy,F,'bɪ liː,10,50,2
+Trudie,F,'truː diː,10,50,2
+Carin,F,'kæ rɪn,10,50,2
+Sari,F,'sɑ riː,10,50,2
+Santa,F,'sæn tʌ,10,50,2
+Rolanda,F,roʊ 'lɑn də,010,50,3
+Randa,F,'rɑn də,10,50,2
+Cecily,F,'sɛ sɪ lɪ,100,50,3
+Joslyn,F,'ʤɔː slɪn,10,50,2
+Eloisa,F,ɛ 'lɔɪ sə,010,50,3
+Dell,F,'dɛl,1,50,1
+Collin,M,'kɑ lɪn,10,49,2
+Lou,M,'luː,1,49,1
+Melton,M,'mɛl tən,10,49,2
+Doran,M,dɔː 'ræn,01,49,2
+Aron,M,'ɛ rən,10,49,2
+Gerold,M,'gɛ roʊld,10,49,2
+Baron,M,'bæ rən,10,49,2
+Penney,F,'pɛ niː,10,49,2
+Antony,M,'æn tʌ niː,100,49,3
+Myrtis,F,'mɪr tɪs,10,49,2
+Stephany,F,'stɛ fə niː,100,49,3
+Darnell,F,dɑr 'nɛl,01,49,2
+Jovita,F,jʌ 'vaɪ tʌ,010,49,3
+Romeo,M,'roʊ miː `oʊ,101,49,3
+Merritt,M,'mɛ rɪt,10,49,2
+Lupita,F,luː 'piː tʌ,010,49,3
+Glendon,M,'glɛn doʊn,10,48,2
+Mariano,M,`mɛ riː 'ɑ noʊ,1010,48,4
+Tawana,F,`tɑ 'wɑ nʌ,110,48,3
+Prudence,F,'pruː dəns,10,48,2
+Demetria,F,dɪ 'mɛ triː ə,0100,48,4
+Courtney,F,'kɔːrt niː,10,48,2
+Alvina,F,æl 'vaɪ nʌ,010,48,3
+Rollie,M,'roʊ liː,10,48,2
+Arlin,M,'ɑr lɪn,10,48,2
+Cynthia,M,'sɪn θiː ə,100,48,3
+Howell,M,'haʊ əl,10,48,2
+Jewell,M,'ʤuː ɪl,10,48,2
+Reyes,M,'reɪ ɪs,10,47,2
+Gwyn,F,'gwɪn,1,47,1
+Lawson,M,'lɔː sən,10,47,2
+Jay,F,'ʤeɪ,1,47,1
+Trevor,M,'trɛ vɛː,10,47,2
+Abbe,F,'æ biː,10,47,2
+Daniel,F,'dæ njəl,10,47,2
+Glory,F,'glɔː riː,10,47,2
+Roddy,M,'rɑ diː,10,47,2
+Renard,M,rɪ 'nɑrd,01,47,2
+Gussie,F,'gə siː,10,47,2
+Laure,F,'lɔːr,1,47,1
+Roy,F,'rɔɪ,1,47,1
+Rickie,F,'rɪ kiː,10,47,2
+Missy,F,'mɪ siː,10,47,2
+Zenobia,F,zʌ 'noʊ biː ə,0100,47,4
+Timothy,F,'tɪ mə θiː,100,47,3
+Hedy,F,'hiː diː,10,46,2
+Fabian,M,'feɪ biː ən,100,46,3
+Elmore,M,'ɛl mɔːr,10,46,2
+Charlton,M,'ʧɑrl tən,10,46,2
+Cal,M,'kæl,1,46,1
+Bridgette,F,'brɪ ʤɪt,10,46,2
+Gigi,F,'ʤiː ʤiː,10,46,2
+Tessie,F,'tɛ siː,10,46,2
+Terre,F,'tɛ rə,10,46,2
+Wylie,M,'waɪ liː,10,46,2
+Merita,F,mɛ 'ɹi tʌ,010,46,3
+Merrill,F,'mɛ rəl,10,46,2
+Adria,F,'ɑ driː ə,100,46,3
+Terra,F,'tɛ rə,10,46,2
+Patsy,M,'pæt siː,10,46,2
+Kit,F,'kɪt,1,46,1
+Loran,M,'lɔː `ræn,11,45,2
+Elwin,M,'ɛl wɪn,10,45,2
+Willette,F,wɪ 'lɛt,01,45,2
+Sharleen,F,ʃɑr 'liːn,01,45,2
+Roxy,F,'rɑk siː,10,45,2
+Ona,F,ə 'nɑ,01,45,2
+Madge,F,'mæʤ,1,45,1
+Lili,F,'lɪ liː,10,45,2
+Iola,F,aɪ 'oʊ lə,010,45,3
+Gwynne,F,'gwɪn,1,45,1
+Dede,F,'diːd,1,45,1
+Darcie,F,'dɑr kiː,10,45,2
+Allene,F,'æ `liːn,11,45,2
+Thomasine,F,θoʊ mɑ 'siː niː,0010,45,4
+Vinson,M,'vɪn sən,10,45,2
+Suzy,F,'suː ziː,10,45,2
+Elisha,M,'ɛ lɪ ʃə,100,45,3
+Buck,M,'bʌk,1,45,1
+Windell,M,'wɪn dəl,10,45,2
+Wyman,M,'waɪ mən,10,45,2
+Caesar,M,'siː zɛː,10,45,2
+Barron,M,'bæ rən,10,45,2
+Tyra,F,'taɪ rə,10,44,2
+Steven,F,'stiː vən,10,44,2
+Jerrell,M,jɛ 'reɪl,01,44,2
+Nickie,F,'nɪ ki,10,44,2
+Jere,F,'ʤɛ riː,10,44,2
+Erna,F,'ɛː nʌ,10,44,2
+Dru,F,'druː,1,44,1
+Catalina,F,`kæ tʌ 'liː nʌ,1010,44,4
+Candie,F,'kæn diː,10,44,2
+Adelaide,F,'æ də `leɪd,101,44,3
+Magdalene,F,'mæg də `liːn,101,44,3
+Westley,M,'wɛst liː,10,44,2
+Kennard,M,'kɛ nɛːd,10,44,2
+Denton,M,'dɛn tən,10,44,2
+Dillard,M,'dɪ lɛːd,10,44,2
+Harland,M,'hɑr lənd,10,44,2
+Harrell,M,'hɛ rəl,10,44,2
+Timmie,M,'tɪ miː,10,44,2
+Raynard,M,'reɪ nɛːd,10,44,2
+Raoul,M,rɑ 'uːl,01,44,2
+Prentice,M,'prɛn tɪs,10,44,2
+Luciano,M,luː ʧiː 'ɑ noʊ,0010,44,4
+Llewellyn,M,`luː 'ɛ lɪn,110,44,3
+Laird,M,'lɛrd,1,44,1
+Kenney,M,'kɛ niː,10,44,2
+Vic,M,'vɪk,1,44,1
+Garfield,M,'gɑr `fiːld,11,43,2
+Charity,F,'ʧɛ rɪ tiː,100,43,3
+Devon,F,'dɛ vən,10,43,2
+Dayton,M,'deɪ tən,10,43,2
+Dario,M,'dɛ riː `oʊ,101,43,3
+Garnett,M,'gɑr nɪt,10,43,2
+Jodie,M,'ʤoʊ diː,10,43,2
+Jonah,M,'ʤoʊ nʌ,10,43,2
+Lary,M,'lɛ riː,10,43,2
+Leif,M,'liːf,1,43,1
+Leopoldo,M,`liː ə 'poʊl doʊ,1010,43,4
+Maria,M,mɛː 'iː ə,010,43,3
+Robb,M,'rɑb,1,43,1
+Sherwin,M,'ʃɛː wɪn,10,43,2
+Tab,M,'tæb,1,43,1
+Zona,F,'zoʊ nʌ,10,43,2
+Wende,F,'wɛnd,1,43,1
+Vesta,F,'vɛ stə,10,43,2
+Domenick,M,'dɑ mɪ nɪk,100,43,3
+Rosina,F,roʊ 'ziː nʌ,010,43,3
+Oma,F,'oʊ mə,10,43,2
+Mira,F,'mɪ rə,10,43,2
+Lindsey,F,'lɪnd ziː,10,43,2
+Karren,F,'kæ rən,10,43,2
+Ione,F,aɪ 'oʊ niː,010,43,3
+Ilona,F,ɪ 'loʊ nʌ,010,43,3
+Stacia,F,'stɑ ʧə,10,43,2
+Wynn,M,'wɪn,1,42,1
+Weston,M,'wɛ stən,10,42,2
+Celina,F,sə 'liː nʌ,010,42,3
+Valery,F,'væ lɛː iː,100,42,3
+Rox,F,'rɑks,1,42,1
+Mia,F,'miː ə,10,42,2
+Melia,F,'mɛ liː ə,100,42,3
+Mandy,F,'mæn diː,10,42,2
+Leatrice,F,'liː trɪs,10,42,2
+Kattie,F,'kæ ti,10,42,2
+Georgine,F,`ʤɔːr 'ʤiːn,11,42,2
+Delora,F,dɛ 'lɔː rə,010,42,3
+Enola,F,ɪ 'noʊ lə,010,42,3
+Ricci,M,'riː ʧiː,10,42,2
+Ric,M,'rɪk,1,42,1
+Oran,M,ɔː 'rɑn,01,42,2
+Niles,M,'naɪlz,1,42,1
+Mickel,M,'mɪ kəl,10,42,2
+Lovell,M,'lə vəl,10,42,2
+Hilario,M,hiː 'lɑ riː oʊ,0100,42,4
+Fermin,M,'fɛː mɪn,10,42,2
+Dustin,M,'də stɪn,10,42,2
+Elizabeth,M,ɪ 'lɪ zʌ bəθ,0100,42,4
+Asa,M,'ɑ sə,10,41,2
+Cardell,M,kɑr 'deɪl,01,41,2
+Brien,M,'braɪ ɪn,10,41,2
+Caleb,M,'keɪ ləb,10,41,2
+Armond,M,'ɑr mənd,10,41,2
+Teodoro,M,`tiː oʊ 'dɔː roʊ,1010,41,4
+Eugenio,M,`juː 'ʤiː niː oʊ,1100,41,4
+Ezekiel,M,'ɛ zɪ `kiːl,101,41,3
+Gray,M,'greɪ,1,41,1
+Lars,M,'lɑrz,1,41,1
+Verda,F,'vɛr də,10,41,2
+Wayman,M,'weɪ mən,10,41,2
+Brenda,M,'brɛn də,10,41,2
+Tia,F,'tiː ə,10,41,2
+Justina,F,juː 'stiː nʌ,010,41,3
+Jena,F,'ʤiː nʌ,10,41,2
+Alexa,F,ə 'lɛk sə,010,41,3
+Augustine,F,'ɑ gə `stiːn,101,41,3
+Bella,F,'bɛ lə,10,41,2
+Christiane,F,krɪ stiː 'ɑn,001,41,3
+Cris,F,'krɪs,1,41,1
+Eugenie,F,`juː 'ʤiː niː,110,41,3
+Jama,F,'ʤæ mə,10,41,2
+Winfield,M,'wɪn `fiːld,11,41,2
+Lavina,F,lɑ 'viː nʌ,010,41,3
+Nicola,F,nɪ 'koʊ lə,010,41,3
+Spring,F,'sprɪŋ,1,41,1
+Santo,M,'sæn toʊ,10,40,2
+Wynona,F,waɪ 'noʊ nʌ,010,40,3
+Bonnie,M,'bɑ niː,10,40,2
+Zack,M,'zæk,1,40,1
+Werner,M,'wɛː nɛː,10,40,2
+Trinidad,M,'trɪ nɪ `dæd,101,40,3
+Gery,M,'ʤɛ riː,10,40,2
+Lovie,F,'lə viː,10,40,2
+Bartholomew,M,bɑr 'θɑ lə `mjuː,0101,40,4
+Sunny,F,'sə niː,10,40,2
+Sabra,F,'sɑ brə,10,40,2
+Randie,F,'ɹæn di,10,40,2
+Marissa,F,mə 'rɪ sə,010,40,3
+Ellsworth,M,'ɛlz wɛːθ,10,40,2
+Lorita,F,lɔː 'riː tʌ,010,40,3
+Garnet,F,'gɑr nət,10,40,2
+Andree,F,ən 'driː,01,40,2
+Garret,M,'gɛ rɪt,10,40,2
+Benson,M,'bɛn sən,10,39,2
+Armida,F,ɑr 'miː də,010,39,3
+Becki,F,'bɛ kiː,10,39,2
+Cruz,F,'kruːz,1,39,1
+Cyndi,F,'sɪn diː,10,39,2
+Herminia,F,hɛr 'miː niː ə,0100,39,4
+Jimmy,F,'ʤɪ miː,10,39,2
+Laurinda,F,lɔː 'ɹɪn dʌ,010,39,3
+Lory,F,'lɔː riː,10,39,2
+Loyce,F,'lɔɪs,1,39,1
+Nada,F,'nɑ də,10,39,2
+Nydia,F,'nɪ diː ə,100,39,3
+Renata,F,rə 'nɑ tʌ,010,39,3
+Valli,F,'væ liː,10,39,2
+Nova,F,'noʊ və,10,39,2
+Dempsey,M,'dɛmp siː,10,39,2
+Amado,M,ɑ 'mɑ doʊ,010,39,3
+Angus,M,'æŋ gəs,10,39,2
+Webster,M,'wɛb stɛː,10,39,2
+Waldo,M,'wɑl doʊ,10,39,2
+Rosario,M,roʊ 'zɑ riː oʊ,0100,39,4
+Reno,M,'riː noʊ,10,39,2
+Obie,M,'oʊ biː,10,39,2
+Montie,M,'mɑn tiː,10,39,2
+Marshal,M,'mɑr ʃəl,10,39,2
+Leighton,M,'leɪ tən,10,39,2
+Leamon,M,'liː mən,10,39,2
+Godfrey,M,'gɑd friː,10,39,2
+Farley,M,'fɑr liː,10,39,2
+Early,M,'ɛː liː,10,39,2
+Blaise,M,'bleɪz,1,39,1
+Cay,F,'keɪ,1,38,1
+Lark,F,'lɑrk,1,38,1
+Dallas,F,'dæ ləs,10,38,2
+Erskine,M,'ɛː `skaɪn,11,38,2
+Allyn,F,'æ lɪn,10,38,2
+Page,F,'peɪʤ,1,38,1
+Noelle,F,noʊ 'ɛl,01,38,2
+Linden,M,'lɪn dən,10,38,2
+Valda,F,'vɑl də,10,38,2
+Norberto,M,nɔːr 'bɛː `toʊ,011,38,3
+Crawford,M,'krɔː fɛːd,10,38,2
+Verla,F,'vɛr lə,10,38,2
+Wes,M,'wɛs,1,38,1
+Rodrigo,M,rə 'driː goʊ,010,38,3
+Richmond,M,'rɪʧ mənd,10,38,2
+Pamela,M,'pæ mə lə,100,38,3
+Mahlon,M,'mɑ lɑ,10,38,2
+Evans,M,'ɛ vənz,10,38,2
+Madison,M,'mæ də sən,100,38,3
+Drake,M,'dreɪk,1,38,1
+Judd,M,'ʤʌd,1,38,1
+Josef,M,'ʤoʊ səf,10,38,2
+Grayling,M,'greɪ lɪŋ,10,38,2
+Faustino,M,`fɔː 'stiː noʊ,110,38,3
+Carlyle,M,'kɑr `laɪl,11,38,2
+Devin,M,'dɛ vɪn,10,38,2
+Taffy,F,'tæ fiː,10,37,2
+Jasmine,F,'ʤæz mən,10,37,2
+Edsel,M,'ɛd səl,10,37,2
+Bertrand,M,'bɛː trənd,10,37,2
+Melita,F,mɛ 'liː tʌ,010,37,3
+Marge,F,'mɑrʤ,1,37,1
+Lianne,F,liː 'æn,01,37,2
+Kym,F,'kɪm,1,37,1
+Eleanore,F,'ɛ lə nɔːr,100,37,3
+Tammie,F,'tæ miː,10,37,2
+Curtis,F,'kɛː təs,10,37,2
+Cory,F,'kɔː riː,10,37,2
+Cecil,F,'siː səl,10,37,2
+Brenna,F,'brɛ nʌ,10,37,2
+Anastasia,F,æ nʌ 'steɪ ʒə,0010,37,4
+Agatha,F,'æ gə θə,100,37,3
+Ellery,M,'ɛ lɛː iː,100,37,3
+Franz,M,'frænz,1,37,1
+Granville,M,'græn vɪl,10,37,2
+Hermon,M,'hɛː mən,10,37,2
+Ivy,M,'aɪ viː,10,37,2
+Janice,M,'ʤæ nəs,10,37,2
+Maury,M,'mɔː riː,10,37,2
+Oneal,M,oʊ 'niːl,01,37,2
+Oren,M,'ɔː rən,10,37,2
+Orin,M,'ɔː rɪn,10,37,2
+Meta,F,'miː tʌ,10,37,2
+Palma,F,'pɑl mə,10,37,2
+Pixie,F,'pɪk siː,10,37,2
+Ray,F,'reɪ,1,37,1
+Tony,F,'toʊ niː,10,37,2
+Lindy,M,'lɪn diː,10,36,2
+Lino,M,'liː noʊ,10,36,2
+Lyn,M,'lɪn,1,36,1
+Pierce,M,'pɪrs,1,36,1
+Amie,F,'æ miː,10,36,2
+Una,F,'uː nʌ,10,36,2
+Zola,F,'zoʊ lə,10,36,2
+Renaldo,M,rɛ 'nɑl doʊ,010,36,3
+Rockey,M,'rɑ kiː,10,36,2
+Wendel,M,'wɛn dəl,10,36,2
+Andria,F,'æn driː ə,100,36,3
+Konrad,M,'kɑn rʌd,10,36,2
+Kay,M,'keɪ,1,36,1
+Henderson,M,'hɛn dɛː sən,100,36,3
+Girard,M,ʤɛː 'ɑrd,01,36,2
+Gill,M,'gɪl,1,36,1
+Arvin,M,'ɑr vɪn,10,36,2
+Allison,M,'æ lə sən,100,36,3
+Addison,M,'æ də sən,100,36,3
+Abram,M,ə 'bræm,01,36,2
+Margaret,M,'mɑr gɛː ɪt,100,36,3
+Walter,F,'wɔːl tɛː,10,36,2
+Valentino,M,`væ lən 'tiː noʊ,1010,36,4
+Rosalia,F,roʊ zʌ 'liː ə,0010,36,4
+Nadia,F,'næ djə,10,36,2
+Belen,F,'bɛ lən,10,36,2
+Bertie,F,'bɛː tiː,10,36,2
+Cher,F,'ʃɛr,1,36,1
+Clair,F,'klɛr,1,36,1
+Damaris,F,də 'mɑ rəs,010,36,3
+Dorie,F,'dɔː riː,10,36,2
+Fatima,F,'fæ θɪ mə,100,36,3
+Gertie,F,'ʤɛː tiː,10,36,2
+Jeffrey,F,'ʤɛ friː,10,36,2
+Leda,F,'liː də,10,36,2
+Leota,F,'lɛ tʌ,10,36,2
+Michel,F,mɪ 'ʃɛl,01,36,2
+Lore,F,'lɔːr,1,36,1
+Lisabeth,F,'lɪ sə bɛθ,100,36,3
+Lia,F,'liː ə,10,36,2
+Hipolito,M,'iː poʊ 'liː toʊ,1010,35,4
+Broderick,M,'brɑ dɛː ɪk,100,35,3
+Meredith,M,'mɛ rɪ dɪθ,100,35,3
+Ora,M,'ɔː rə,10,35,2
+Desi,M,'dɛ ziː,10,35,2
+Lazaro,M,lə 'zɑ roʊ,010,35,3
+Dicky,M,'dɪ kiː,10,35,2
+Ennis,M,'ɛ nɪs,10,35,2
+Garrick,M,'gɛ rɪk,10,35,2
+Lucky,M,'lə kiː,10,35,2
+Lew,M,'luː,1,35,1
+Hilary,M,'hɪ lɛː iː,100,35,3
+Nevin,M,'nɛ vɪn,10,35,2
+San,F,'sæn,1,35,1
+Rayfield,M,'reɪ `fiːld,11,35,2
+Rexford,M,'rɛk sfɛːd,10,35,2
+Alida,F,ɑ 'liː də,010,35,3
+Blanch,F,'blænʧ,1,35,1
+Evelina,F,`ɛ vɛ 'liː nʌ,1010,35,4
+Frederica,F,`frɛ dɛː 'iː kə,1010,35,4
+Henry,F,'hɛn riː,10,35,2
+Jennette,F,ʒɪ 'nɛt,01,35,2
+Joelle,F,ʤoʊ 'ɛl,01,35,2
+Linn,F,'lɪn,1,35,1
+Lorry,F,'lɔː riː,10,35,2
+Michal,F,'mɪ ʧəl,10,35,2
+Pinkie,F,'pɪŋ kiː,10,35,2
+Raymond,F,'reɪ mənd,10,35,2
+Shana,F,'ʃæ nʌ,10,35,2
+Thalia,F,'θeɪl jʌ,10,35,2
+Welton,M,'wɛl tən,10,35,2
+Marvel,F,'mɑr vəl,10,35,2
+Nickey,M,'nɪ kiː,10,34,2
+Alba,F,'æl bə,10,34,2
+Christy,M,'krɪ stiː,10,34,2
+Zita,F,'ziː tʌ,10,34,2
+Zora,F,'zɔː rə,10,34,2
+Nestor,M,'nɛ stɛː,10,34,2
+Turner,M,'tɛː nɛː,10,34,2
+Sampson,M,'sæmp sən,10,34,2
+Nils,M,'nɪlz,1,34,1
+Authur,M,'ɔː θʌ,10,34,2
+Darren,M,'dɑ rən,10,34,2
+Tommy,F,'tɑ miː,10,34,2
+Delwin,M,'dɛl wɪn,10,34,2
+Diego,M,diː 'eɪ goʊ,010,34,3
+Edmundo,M,`ɛd 'mən doʊ,110,34,3
+Jennings,M,'ʤɛ nɪŋz,10,34,2
+Jewel,M,'ʤuː əl,10,34,2
+Lindell,M,'lɪn dəl,10,34,2
+Marcelino,M,mɑr ʧɛ 'liː noʊ,0010,34,4
+Arlinda,F,`ɑr 'lɪn də,110,34,3
+Vina,F,'viː nʌ,10,34,2
+Stephen,F,'stiː vən,10,34,2
+Dorine,F,dɔː 'riː niː,010,34,3
+Arthur,F,'ɑr θɛː,10,34,2
+Autumn,F,'ɔː təm,10,34,2
+Birdie,F,'bɛː diː,10,34,2
+Bruce,F,'bruːs,1,34,1
+Cameron,F,'kæ mɛː ən,100,34,3
+Casey,F,'keɪ siː,10,34,2
+Christel,F,'krɪ stəl,10,34,2
+Denyse,F,'dɛ naɪs,10,34,2
+Edie,F,'ɛ diː,10,34,2
+Sheena,F,'ʃiː nʌ,10,34,2
+Fanny,F,'fæ niː,10,34,2
+Florinda,F,flɔː 'riːn də,010,34,3
+Kyra,F,'kaɪ rə,10,34,2
+Micaela,F,miː 'keɪ lə,010,34,3
+Ricky,F,'rɪ kiː,10,34,2
+Melvin,F,'mɛl vɪn,10,33,2
+Minda,F,'mɪn də,10,33,2
+Susannah,F,`suː 'sæ nʌ,110,33,3
+Misty,F,'mɪ stiː,10,33,2
+Jonnie,M,'dʒɑ ni,10,33,2
+Adelle,F,ə 'dɛl,01,33,2
+Alexandria,F,`æ ləg 'zæn driː ə,10100,33,5
+Arnette,F,ɑr 'nɛt,01,33,2
+Artie,F,'ɑr tiː,10,33,2
+Audry,F,'ɔː driː,10,33,2
+Jo,M,'ʤoʊ,1,33,1
+Bianca,F,biː 'ɑŋ kə,010,33,3
+Celine,F,sə 'liːn,01,33,2
+Chiquita,F,kɪ 'kwiː tʌ,010,33,3
+Delfina,F,`dɛl 'fiː nʌ,110,33,3
+Dorthea,F,'dɔːr ðiː ə,100,33,3
+Elaina,F,ɪ 'leɪ nʌ,010,33,3
+Esta,F,'ɛ stə,10,33,2
+Heide,F,'haɪd,1,33,1
+Jani,F,'jɑ niː,10,33,2
+Valeri,F,vɑ 'lɛ riː,010,33,3
+Margaretta,F,`mɑ ɡʌ 'ɹɛ tʌ,1010,33,4
+Prentiss,M,'prɛn tɪs,10,33,2
+Melany,F,'mɛ lə niː,100,33,3
+Titus,M,'taɪ təs,10,33,2
+Sal,M,'sæl,1,33,1
+Reinaldo,M,`reɪ 'nɑl doʊ,110,33,3
+Melvyn,M,'mɛl vɪn,10,33,2
+Lucas,M,'luː kəs,10,33,2
+Loy,M,'lɔɪ,1,33,1
+Kathy,M,'kæ θiː,10,33,2
+Kathleen,M,kæθ 'liːn,01,33,2
+Cornelious,M,'kɔːr nɪ liː ɪs,1000,33,4
+Denzil,M,'dɛn zəl,10,33,2
+Derick,M,'dɛ rɪk,10,33,2
+Farris,M,'fɛ rɪs,10,33,2
+Ferris,M,'fɛ rɪs,10,33,2
+Garey,M,'gæ riː,10,33,2
+Gustave,M,guː 'stɑ viː,010,33,3
+Henri,M,'hɛn riː,10,33,2
+Heyward,M,'heɪ wɛːd,10,33,2
+Valentin,M,vɑ leɪn 'tiːn,001,33,3
+Theo,M,'θiː oʊ,10,33,2
+Cheryl,M,'ʃɛ rəl,10,32,2
+Thor,M,'θɔːr,1,32,1
+Stafford,M,'stæ fɛːd,10,32,2
+Rayburn,M,'reɪ bɛːn,10,32,2
+Pascual,M,'pæ skuː əl,100,32,3
+Paris,M,'pɛ rɪs,10,32,2
+Orrin,M,'ɔː rɪn,10,32,2
+Alita,F,ɑ 'liː tʌ,010,32,3
+Andre,F,'ɑn `dreɪ,11,32,2
+Augusta,F,ə 'gə stə,010,32,3
+Carl,F,'kɑrl,1,32,1
+Cindie,F,'saɪn diː,10,32,2
+Clarinda,F,klɛː 'ɪn də,010,32,3
+Dean,F,'diːn,1,32,1
+Deb,F,'dɛb,1,32,1
+Gerald,F,'ʤɛ rəld,10,32,2
+Keith,F,'kiːθ,1,32,1
+Tex,M,'tɛks,1,32,1
+Wilber,M,'wɪl bɛː,10,32,2
+Cloyd,M,'klɔɪd,1,32,1
+Linn,M,'lɪn,1,32,1
+Ceasar,M,sə 'sɑr,01,32,2
+Carrol,M,'kæ rəl,10,32,2
+Burke,M,'bɛːk,1,32,1
+Boris,M,'bɔː rɪs,10,32,2
+Cortez,M,kɔːr 'tɛz,01,32,2
+Cy,M,'saɪ,1,32,1
+Wenda,F,'wɛn də,10,32,2
+Denise,M,dɪ 'niːs,01,32,2
+Durwin,M,'dɛː wɪn,10,32,2
+Morton,M,'mɔːr tən,10,32,2
+Furman,M,'fɛː `mæn,11,32,2
+Hobart,M,'hoʊ `bɑrt,11,32,2
+Kem,M,'kɛm,1,32,1
+Kendrick,M,'kɛn drɪk,10,32,2
+Kerwin,M,'kɛː wɪn,10,32,2
+Rubie,F,'ruː biː,10,32,2
+Newell,M,'nuː əl,10,32,2
+Lane,F,'leɪn,1,31,1
+Karma,F,'kɑr mə,10,31,2
+Antoine,M,ɑn 'twɑn,01,31,2
+Carolyn,M,'kɛ rə lɪn,100,31,3
+Conley,M,'kɑn liː,10,31,2
+Creighton,M,'kreɪ tən,10,31,2
+Delano,M,dɪ 'lɑ noʊ,010,31,3
+Dock,M,'dɑk,1,31,1
+Durward,M,'dɛː wɛːd,10,31,2
+Gloria,M,'glɔː riː ə,100,31,3
+Hamilton,M,'hæ məl tən,100,31,3
+Isadore,M,ɪ sɑ 'dɔː reɪ,0010,31,4
+Joan,M,'ʤoʊn,1,31,1
+Johnson,M,'ʤɑn sən,10,31,2
+Keenan,M,'kiː nən,10,31,2
+Linus,M,'laɪ nəs,10,31,2
+Lucio,M,'luː siː oʊ,100,31,3
+Rance,M,'ræns,1,31,1
+Randi,M,'ræn diː,10,31,2
+Rudolf,M,'ruː `dɑlf,11,31,2
+Wayland,M,'weɪ lənd,10,31,2
+Anson,M,'æn sən,10,31,2
+Watson,M,'wɑt sən,10,31,2
+Blenda,F,'blɛn də,10,31,2
+Francie,F,'fræŋ kiː,10,31,2
+Daun,F,'dɔːn,1,31,1
+Cookie,F,'kʊ kiː,10,31,2
+Coletta,F,koʊ 'lɛ tʌ,010,31,3
+Chari,F,'tʃɑ ɹi,10,31,2
+Candida,F,'kæn dɪ də,100,31,3
+Betti,F,'bɛ tiː,10,31,2
+Belle,F,'bɛl,1,31,1
+Alanna,F,ɑ 'lɑ nʌ,010,31,3
+Lin,F,'lɪn,1,31,1
+Mallory,F,'mæ lɛː iː,100,31,3
+Mazie,F,'meɪ ziː,10,31,2
+Piper,F,'paɪ pɛː,10,31,2
+Vivienne,F,'vɪ viː ən,100,31,3
+Hettie,F,'hɛ tiː,10,31,2
+Ines,F,'ɪ nɪs,10,31,2
+Dea,F,'diː,1,31,1
+Sanders,M,'sæn dɛːz,10,30,2
+Rey,M,'reɪ,1,30,1
+Quinn,M,'kwɪn,1,30,1
+Norwood,M,'nɔːr wʊd,10,30,2
+Sherrill,M,'ʃɛ rɪl,10,30,2
+Mcarthur,M,mə 'kɑr θɛː,010,30,3
+Lorne,M,'lɔːrn,1,30,1
+Linton,M,'lɪn tən,10,30,2
+Laurance,M,'lɔː rəns,10,30,2
+Kipp,M,'kɪp,1,30,1
+Charissa,F,kɑ 'riː sə,010,30,3
+Delisa,F,dɛ 'liː sə,010,30,3
+Tyree,M,taɪ 'riː,01,30,2
+Woodie,M,'wʊ diː,10,30,2
+Gabriela,F,gɑ briː 'ɛ lə,0010,30,4
+Helga,F,'hɛl gə,10,30,2
+Lenita,F,lɛ 'niː tʌ,010,30,3
+Letty,F,'lɛ tiː,10,30,2
+Lida,F,'liː də,10,30,2
+Mardi,F,'mɑr diː,10,30,2
+Sibyl,F,'sɪ bəl,10,30,2
+Tillie,F,'tɪ liː,10,30,2
+Vilma,F,'vɪl mə,10,30,2
+Francesco,M,fræn 'ʧɛ skoʊ,010,30,3
+Eusebio,M,`juː 'siː biː oʊ,1100,30,4
+Dorothy,M,'dɔː rə θiː,100,30,3
+Carolyne,F,'kɛ rə lɪn,100,30,3
+Delphia,F,'dɛl fiː ə,100,30,3
+Dixon,M,'dɪk sən,10,30,2
+Delta,F,'dɛl tʌ,10,30,2
+Aretha,F,ɛː 'iː θə,010,30,3
+Dotty,F,'dɑ tiː,10,30,2
+Alexis,M,ə 'lɛk sɪs,010,30,3
+Andrea,M,'æn driː ə,100,30,3
+Anibal,M,'æ nɪ bəl,100,30,3
+Anselmo,M,ɑn 'sɛl moʊ,010,30,3
+Baxter,M,'bæk stɛː,10,30,2
+Burnell,M,'bɛː nəl,10,30,2
+Clem,M,'klɛm,1,30,1
+Sabina,F,sə 'biː nʌ,010,29,3
+Tiny,F,'taɪ niː,10,29,2
+Soledad,F,'soʊl `dæd,11,29,2
+Peg,F,'pɛg,1,29,1
+Royce,F,'rɔɪs,1,29,1
+Romaine,F,roʊ 'meɪn,01,29,2
+Queenie,F,'kwiː niː,10,29,2
+Tillman,M,'tɪl mən,10,29,2
+Mariana,F,`mɛ riː 'æ nʌ,1010,29,4
+Lynna,F,'laɪ nʌ,10,29,2
+Laverna,F,'læ vʌ nʌ,100,29,3
+Tracey,M,'treɪ siː,10,29,2
+Wynne,F,'wɪn,1,29,1
+Thurston,M,'θɛː stən,10,29,2
+Roderic,M,ɹəʊ 'dɛ ɹɪ,010,29,3
+Price,M,'praɪs,1,29,1
+Glenwood,M,'glɛn `wʊd,11,29,2
+Jones,M,'ʤoʊnz,1,29,1
+Kenyon,M,'kɛ njən,10,29,2
+Layton,M,'leɪ tən,10,29,2
+Marlo,M,'mɑr loʊ,10,29,2
+Octavio,M,`ɑk 'teɪ viː oʊ,1100,29,4
+Omer,M,'oʊ mɛː,10,29,2
+Ozell,M,'əʊ zʌ,10,29,2
+Ozzie,M,'ɑ ziː,10,29,2
+Vester,M,'vɛ stɛː,10,29,2
+Holley,F,'hɑ liː,10,29,2
+Kimber,F,'kɪm bɛː,10,29,2
+Clemente,M,klʌ 'mɛn teɪ,010,29,3
+Gillian,F,'ʤɪ liː ən,100,29,3
+Albert,F,'æl bɛːt,10,29,2
+Genie,F,'ʤiː niː,10,29,2
+Author,M,'ɔː θɛː,10,29,2
+Constantine,M,'kɑn stən `tiːn,101,29,3
+Deane,M,'diːn,1,29,1
+Derry,M,'dɛ riː,10,29,2
+Dickey,M,'dɪ kiː,10,29,2
+Donato,M,də 'nɑ toʊ,010,29,3
+Enos,M,ɪ 'nəʊ,01,29,2
+Corwin,M,'kɔːr wɪn,10,29,2
+Bari,F,'bɑ riː,10,29,2
+Christeen,F,kɹɪ 'sti,01,29,2
+Delight,F,dɪ 'laɪt,01,29,2
+Florentino,M,flɔː rɛn 'tiː noʊ,0010,29,4
+Douglas,F,'də gləs,10,29,2
+Elmira,F,ɛl 'maɪ rə,010,29,3
+Emmy,F,'ɛ miː,10,29,2
+Cerise,F,sɛː 'iːs,01,29,2
+Floria,F,'flɔː riː ə,100,29,3
+Lawton,M,'lɔː tən,10,28,2
+Dion,M,'daɪ ən,10,28,2
+Eldred,M,'ɛl dɛːd,10,28,2
+Ferrell,M,'fɛ rɪl,10,28,2
+Gaston,M,'gæ stən,10,28,2
+Haskell,M,'hæ skəl,10,28,2
+Janet,M,'ʤæ nət,10,28,2
+Mauro,M,'mɔː roʊ,10,28,2
+Malvin,M,'mæl vɪn,10,28,2
+Markus,M,'mɑr kəs,10,28,2
+Neill,M,'niːl,1,28,1
+Pearl,M,'pɛːl,1,28,1
+Ransom,M,'ræn səm,10,28,2
+Cullen,M,'kə lən,10,28,2
+Delmas,M,'dɛl məz,10,28,2
+Harold,F,'hɛ rəld,10,28,2
+Cornel,M,'kɔːr nəl,10,28,2
+Chaim,M,'haɪ ɪm,10,28,2
+Baldemar,M,bɑl deɪ 'mɑr,001,28,3
+Bailey,M,'beɪ liː,10,28,2
+Aloysius,M,`æ loʊ 'ɪ ʃɪs,1010,28,4
+Allie,M,'æ liː,10,28,2
+Larue,F,lɛː 'uː,01,28,2
+Jona,F,'dʒəʊ nʌ,10,28,2
+Honey,F,'hə niː,10,28,2
+Fayette,F,'feɪ 'ɛt,11,28,2
+Deon,F,'diː ɑn,10,28,2
+Corby,F,'kɔːr biː,10,28,2
+Christopher,F,'krɪ stə fɛː,100,28,3
+Walt,M,'wɔːlt,1,28,1
+Timm,M,'tɪm,1,28,1
+Liana,F,liː 'ɑ nʌ,010,28,3
+Natalia,F,nʌ 'tɑl jʌ,010,28,3
+Wayne,F,'weɪn,1,28,1
+Sunday,F,'sən `deɪ,11,28,2
+Odette,F,`oʊ 'dɛt,11,28,2
+Wilhemina,F,'wɪl hɛ 'miː nʌ,1010,28,4
+Michell,F,'mɪ ʧəl,10,28,2
+Betsey,F,'bɛt siː,10,28,2
+Laury,F,'lɔː riː,10,28,2
+Alena,F,ɑ 'leɪ nʌ,010,28,3
+Candee,F,'kæn 'diː,11,28,2
+Carman,F,'kɑr mən,10,28,2
+Trish,F,'trɪʃ,1,28,1
+Norman,F,'nɔːr mən,10,27,2
+Nathalie,F,'næ tʌ liː,100,27,3
+Myrtice,F,'mɪr tɪs,10,27,2
+Monte,F,'mɑn tiː,10,27,2
+Marilu,F,'mɛ riː luː,100,27,3
+Loni,F,'lɑ niː,10,27,2
+Calvert,M,'kæl vɛːt,10,27,2
+Inga,F,'iːŋ gə,10,27,2
+Patience,F,'peɪ ʃəns,10,27,2
+Samantha,F,sə 'mæn θə,010,27,3
+Terrell,F,'tɛ rəl,10,27,2
+Van,F,'væn,1,27,1
+Veta,F,'vɛ tʌ,10,27,2
+Viva,F,'viː və,10,27,2
+Zena,F,'ziː nʌ,10,27,2
+Bartley,M,'bɑrt liː,10,27,2
+Lexie,F,'lɛk siː,10,27,2
+Jule,F,'ʤuːl,1,27,1
+Hampton,M,'hæmp tən,10,27,2
+Waverly,M,'weɪ vɛː liː,100,27,3
+Arnett,M,ɑr 'nɛt,01,27,2
+Abner,M,'æb nɛː,10,27,2
+Clare,M,'klɛr,1,27,1
+Earlie,M,'ɛː liː,10,27,2
+Gregoria,F,grɛ 'gɔː riː ə,0100,27,4
+Judy,M,'ʤuː diː,10,27,2
+Leandro,M,liː 'ɑn droʊ,010,27,3
+Vann,M,'væn,1,27,1
+Philippe,M,fɪ 'liː peɪ,010,27,3
+Willy,M,'wɪ liː,10,27,2
+Ardella,F,`ɑr 'dɛ lə,110,27,3
+Blair,F,'blɛr,1,27,1
+Brandy,F,'bræn diː,10,27,2
+Celesta,F,sɪ 'lɛ stə,010,27,3
+Charyl,F,'ʧæ rəl,10,27,2
+Danny,F,'dæ niː,10,27,2
+Dionne,F,'diː ɑn,10,27,2
+Caprice,F,kə 'priːs,01,26,2
+Eda,F,'iː də,10,26,2
+Dyan,F,daɪ 'æn,01,26,2
+Darryl,F,'dɛ rəl,10,26,2
+Dann,F,'dæn,1,26,1
+Filomena,F,`fɪ lə 'miː nʌ,1010,26,4
+Boni,F,'boʊ niː,10,26,2
+Bethel,F,'bɛ θəl,10,26,2
+Annabelle,F,'æ nʌ bəl,100,26,3
+Annabel,F,'æ nʌ `bɛl,101,26,3
+Alexia,F,ə 'lɛk siː ə,0100,26,4
+Erlene,F,'ɛː liːn,10,26,2
+Merna,F,'mɛr nʌ,10,26,2
+Gerrie,F,'ʤɛ riː,10,26,2
+Elgin,M,'ɛl ʤɪn,10,26,2
+Micah,M,'maɪ kə,10,26,2
+Landon,M,'læn dən,10,26,2
+Kieran,M,'kiː rən,10,26,2
+Kary,M,'kɛ riː,10,26,2
+Joyce,M,'ʤɔɪs,1,26,1
+Jacinto,M,ʤə 'sɪn toʊ,010,26,3
+Gifford,M,'gɪ fɛːd,10,26,2
+Ford,M,'fɔːrd,1,26,1
+Collins,M,'kɑ lɪnz,10,26,2
+Reece,M,'riːs,1,26,1
+Clive,M,'klaɪv,1,26,1
+Cleon,M,klɪ 'ɑ,01,26,2
+Candelario,M,kɑn dɛ 'lɑ riː oʊ,00100,26,5
+Brandt,M,'brænt,1,26,1
+Blas,M,'blɑs,1,26,1
+Basilio,M,bɑ 'siː liː oʊ,0100,26,4
+Barth,M,'bɑrθ,1,26,1
+Augustin,M,aʊ guː 'stiːn,001,26,3
+Nigel,M,'naɪ ʤəl,10,26,2
+Regan,M,'riː gən,10,26,2
+Jil,F,'ʤɪl,1,26,1
+Paris,F,'pɛ rɪs,10,26,2
+Joey,F,'ʤoʊ iː,10,26,2
+Lennie,F,'lɛ niː,10,26,2
+Lilli,F,'lɪ liː,10,26,2
+Lorenza,F,lɔː 'rɛn zʌ,010,26,3
+Magnolia,F,mæg 'noʊl jʌ,010,26,3
+Marshall,F,'mɑr ʃəl,10,26,2
+Monna,F,'mɑ nʌ,10,26,2
+Odilia,F,oʊ 'diː liː ə,0100,26,4
+Sharman,F,'ʃɑr mən,10,26,2
+Shelley,M,'ʃɛ liː,10,26,2
+Shawnee,F,'ʃɔː niː,10,26,2
+Sigrid,F,'sɪ grɪd,10,26,2
+Terrill,F,'tɛ rəl,10,26,2
+Trinidad,F,'trɪ nɪ `dæd,101,26,3
+Verona,F,vɛː 'oʊ nʌ,010,26,3
+Tyrus,M,'taɪ ɹʌ,10,26,2
+Stevenson,M,'stiː vən sən,100,26,3
+Laurie,M,'lɔː riː,10,26,2
+Glen,F,'glɛn,1,25,1
+Jesse,F,'ʤɛ siː,10,25,2
+Hortensia,F,hɔː 'tɛn seɪ ʌ,0100,25,4
+Donella,F,doʊ 'nɛ lə,010,25,3
+Vinnie,F,'vɪ niː,10,25,2
+Vivien,F,'vɪ viː ən,100,25,3
+Eugene,F,juː 'ʤiːn,01,25,2
+Elna,F,ɪl 'nɑ,01,25,2
+Dory,F,'dɔː riː,10,25,2
+Dorrie,F,'dɔː riː,10,25,2
+Donnell,F,'dɑ nɪl,10,25,2
+Desi,F,'dɛ ziː,10,25,2
+Idalia,F,ɪ 'dɑl jʌ,010,25,3
+Clorinda,F,klɔː 'riːn də,010,25,3
+Christianne,F,krɪ stiː 'ɑn,001,25,3
+Chloe,F,'kloʊ iː,10,25,2
+Celinda,F,ʧɛ 'liːn də,010,25,3
+Bernie,F,'bɛː niː,10,25,2
+Barbie,F,'bɑr biː,10,25,2
+Andrew,F,'æn druː,10,25,2
+Roger,F,'rɑ ʤɛː,10,25,2
+Randall,F,'ræn dəl,10,25,2
+Pilar,F,'paɪ lɛː,10,25,2
+Pier,F,'pɪr,1,25,1
+Irish,F,'aɪ rɪʃ,10,25,2
+Johnie,F,'ʤɑ niː,10,25,2
+Laural,F,'lɔː ɹʌ,10,25,2
+Lavinia,F,lə 'vɪ njə,010,25,3
+Lisette,F,lɪ 'sɛt,01,25,2
+Magda,F,'mæg də,10,25,2
+Maida,F,'meɪ də,10,25,2
+Malea,F,'meɪ leɪ ʌ,100,25,3
+Maribel,F,'mæ rɪ bɛl,100,25,3
+Marya,F,'mɑr jʌ,10,25,2
+Natasha,F,nʌ 'tɑ ʃə,010,25,3
+Norah,F,'nɔː rə,10,25,2
+Olinda,F,oʊ 'liːn də,010,25,3
+Perri,F,'pɛː riː,10,25,2
+Petrina,F,pɛ 'triː nʌ,010,25,3
+Mirna,F,'mɛː nʌ,10,25,2
+Gala,F,'gæ lə,10,25,2
+Percell,M,pɛː 'sɛl,01,25,2
+Hyman,M,'haɪ mən,10,25,2
+Teresa,M,tɛː 'iː sə,010,25,3
+Sol,M,'sɑl,1,25,1
+Roque,M,'roʊk,1,25,1
+Patricio,M,pə 'trɪ siː oʊ,0100,25,4
+Noland,M,'noʊ lənd,10,25,2
+Narciso,M,nɑr 'ʧiː soʊ,010,25,3
+Mart,M,'mɑrt,1,25,1
+Loyal,M,'lɔɪ əl,10,25,2
+Urban,M,'ɛː bən,10,25,2
+Kimble,M,'kɪm bəl,10,25,2
+Kendal,M,'kɛn dəl,10,25,2
+Ignatius,M,ɪg 'neɪ ʃəs,010,25,3
+Lindon,M,'lɪn dən,10,25,2
+Grayson,M,'greɪ sən,10,25,2
+Augusta,M,ə 'gə stə,010,25,3
+Gaile,F,'geɪl,1,25,1
+Gerhard,M,'gɛː `hɑrd,11,25,2
+Amador,M,'æ mə `dɔːr,101,25,3
+Arch,M,'ɑrʧ,1,25,1
+Algie,M,'ɔːl giː,10,25,2
+Burnett,M,bɛː 'nɛt,01,25,2
+Chadwick,M,'ʧæ dwɪk,10,25,2
+Colby,M,'koʊl biː,10,25,2
+Darrick,M,'dæ rɪk,10,25,2
+June,M,'ʤuːn,1,24,1
+Jock,M,'ʤɑk,1,24,1
+Neysa,F,'neɪ sə,10,24,2
+Mackie,M,'mæ kiː,10,24,2
+Manfred,M,'mæn frɪd,10,24,2
+Manley,M,'mæn liː,10,24,2
+Merl,M,'mɛːl,1,24,1
+Moshe,M,moʊ 'ʃɛ,01,24,2
+Nickie,M,'nɪ ki,10,24,2
+Renee,M,rə 'neɪ,01,24,2
+Laurel,M,'lɔː rəl,10,24,2
+Rennie,M,'rɛ niː,10,24,2
+Rich,M,'rɪʧ,1,24,1
+Roby,M,'roʊ biː,10,24,2
+Seymour,M,'siː mɔːr,10,24,2
+Silverio,M,siːl 'vɛ riː oʊ,0100,24,4
+Terrel,M,'tɛ rəl,10,24,2
+Theophilus,M,θi ʌ 'fɪ lʌ,0010,24,4
+Tino,M,'tiː noʊ,10,24,2
+Hayden,M,'heɪ dən,10,24,2
+Vidal,M,vaɪ 'dæl,01,24,2
+Jarrett,M,'ʤɛ rət,10,24,2
+Vienna,F,viː 'ɛ nʌ,010,24,3
+Halbert,M,'hæl bɛːt,10,24,2
+Patrick,F,'pæ trɪk,10,24,2
+Rilla,F,'rɪ lə,10,24,2
+Samuel,F,'sæ mjuːl,10,24,2
+Sandie,F,'sæn diː,10,24,2
+Shayne,F,'ʃeɪn,1,24,1
+Silvana,F,sɪl 'vɑ nʌ,010,24,3
+Stephani,F,'stɛ fə niː,100,24,3
+Stormy,F,'stɔːr miː,10,24,2
+Tori,F,'tɔː riː,10,24,2
+Audrey,M,'ɔː driː,10,24,2
+Griffin,M,'grɪ fɪn,10,24,2
+Benard,M,bɪ 'nɑrd,01,24,2
+Casimir,M,'kæ sɪ `miːr,101,24,3
+Catherine,M,'kæ θɛː ən,100,24,3
+Ephraim,M,'iː frʌm,10,24,2
+Farrel,M,'fɛ rəl,10,24,2
+Finley,M,'fɪn liː,10,24,2
+Gerome,M,'gɛ rʌm,10,24,2
+Graydon,M,'greɪ dən,10,24,2
+Zachery,M,'zæ kɛː iː,100,24,3
+Renate,F,rə 'nɑ tʌ,010,24,3
+Joel,F,'ʤoʊ əl,10,24,2
+Lorette,F,lɔː 'rɛt,01,24,2
+Emelda,F,ɛ 'mɛl də,010,24,3
+Era,F,'ɛ rə,10,24,2
+Fredericka,F,freɪ dɛ 'riː kə,0010,24,4
+Jannet,F,'dʒæ nɪ,10,24,2
+Jose,F,`hoʊ 'zeɪ,11,24,2
+Keitha,F,'ki θʌ,10,24,2
+Lorain,F,lɛː 'eɪn,01,24,2
+Jude,F,'ʤuːd,1,24,1
+Abbey,F,'æ biː,10,24,2
+Elvera,F,eɪl 'vɛ rə,010,24,3
+Doria,F,'dɔː riː ə,100,24,3
+Blondell,F,'blɑn dəl,10,24,2
+Bebe,F,'biː biː,10,24,2
+Arden,F,'ɑr dən,10,24,2
+Allen,F,'æ lən,10,24,2
+Alda,F,'ɑl də,10,24,2
+Tawny,F,'tɑ niː,10,23,2
+Sharry,F,'ʃɑ riː,10,23,2
+Sheridan,F,'ʃɛ rɪ dən,100,23,3
+Siri,F,'sɪ riː,10,23,2
+Susette,F,`suː 'zɛt,11,23,2
+Tama,F,'tɑ mə,10,23,2
+Barrie,M,'bæ riː,10,23,2
+Teddy,F,'tɛ diː,10,23,2
+Theo,F,'θiː oʊ,10,23,2
+Troy,F,'trɔɪ,1,23,1
+Arvel,M,ɑr 'vɛl,01,23,2
+Savannah,F,sə 'væ nʌ,010,23,3
+Ann,M,'æn,1,23,1
+Shan,F,'ʃæn,1,23,1
+Maretta,F,mɑ 'rɛ tʌ,010,23,3
+Nella,F,'nɛ lə,10,23,2
+Emmie,F,'ɛ miː,10,23,2
+Alyse,F,'æ laɪ,10,23,2
+Avon,F,'eɪ vɑn,10,23,2
+Bess,F,'bɛs,1,23,1
+Brian,F,'braɪ ən,10,23,2
+Bunnie,F,'bə niː,10,23,2
+Conchita,F,kən 'ʧiː tʌ,010,23,3
+Corrie,F,'kɔː riː,10,23,2
+Cyd,F,'sɪd,1,23,1
+Damita,F,dɑ 'miː tʌ,010,23,3
+Ethelyn,F,'ɛ θɪ lɪn,100,23,3
+Nance,F,'næns,1,23,1
+Frank,F,'fræŋk,1,23,1
+Gemma,F,'ʤɛ mə,10,23,2
+Ileana,F,`ɪ liː 'æ nʌ,1010,23,4
+Jenni,F,'ʤɛ niː,10,23,2
+Jerome,F,ʤɛː 'oʊm,01,23,2
+Karel,F,'kɛ rəl,10,23,2
+Lawrence,F,'lɔː rəns,10,23,2
+Chandler,M,'ʧænd lɛː,10,23,2
+Mariam,F,'mɛ riː æm,100,23,3
+Bernice,M,bɛː 'niːs,01,23,2
+Connell,M,'kɑ nəl,10,23,2
+Clovis,M,'kloʊ vɪs,10,23,2
+Dimitri,M,dɪ 'miː triː,010,23,3
+Roney,M,'roʊ niː,10,23,2
+Ronn,M,'ɹɑ,1,23,1
+Samson,M,'sæm sən,10,23,2
+Thurmond,M,'θɛː mənd,10,23,2
+Tyson,M,'taɪ sən,10,23,2
+Philbert,M,'fɪl bɛːt,10,23,2
+Niel,M,'niːl,1,23,1
+Modesto,M,moʊ 'dɛ stoʊ,010,23,3
+Kemp,M,'kɛmp,1,23,1
+Huston,M,'hə stən,10,23,2
+Hillary,M,'hɪ lɛː iː,100,23,3
+Duff,M,'dʌf,1,23,1
+Florian,M,'flɔː riː ən,100,23,3
+Debbie,M,'dɛ biː,10,23,2
+Daren,M,'dæ rɪn,10,23,2
+Nat,M,'næt,1,22,1
+Florida,F,'flɔː rə də,100,22,3
+Tito,M,'tiː toʊ,10,22,2
+Wane,M,'weɪn,1,22,1
+Avery,F,'eɪ vɛː iː,100,22,3
+Deane,F,'diːn,1,22,1
+Delane,F,'dɛ lən,10,22,2
+Dominique,F,dɔː mɪ 'niːk,001,22,3
+Doni,F,'dəʊ ni,10,22,2
+Howard,F,'haʊ ɛːd,10,22,2
+Michele,M,mɪ 'ʃɛl,01,22,2
+Janella,F,ʤə 'nɛ lə,010,22,3
+Kary,F,'kɛ riː,10,22,2
+Lanna,F,'læ nʌ,10,22,2
+Layne,F,'leɪn,1,22,1
+Madelene,F,mæ də 'liːn,001,22,3
+Margy,F,'mɑr ʤiː,10,22,2
+Maurita,F,mɔː 'riː tʌ,010,22,3
+Melaine,F,'mɛ leɪ,10,22,2
+Mozelle,F,mə 'zɛl,01,22,2
+Thornton,M,'θɔːrn tən,10,22,2
+Albin,M,'æl bɪn,10,22,2
+Thane,M,'θeɪn,1,22,1
+Stoney,M,'stoʊ niː,10,22,2
+Manny,M,'mæ niː,10,22,2
+Levy,M,'lɛ viː,10,22,2
+Jethro,M,'ʤɛ θroʊ,10,22,2
+Jayme,M,'ʤeɪ miː,10,22,2
+Horacio,M,hɔː 'reɪ siː oʊ,0100,22,4
+German,M,'ʤɛː mən,10,22,2
+General,M,'ʤɛ nɛː əl,100,22,3
+Corrie,M,'kɔː riː,10,22,2
+Corky,M,'kɔːr kiː,10,22,2
+Celestino,M,ʧɛ lɛ 'stiː noʊ,0010,22,4
+Braden,M,'breɪ dən,10,22,2
+Peyton,M,'peɪ tən,10,22,2
+Rahn,M,'ræn,1,22,1
+Perry,F,'pɛ riː,10,22,2
+Reynolds,M,'rɛ nəldz,10,22,2
+Rickard,M,'rɪ kɛːd,10,22,2
+Berton,M,'bɛː tən,10,22,2
+Silvester,M,sɪl 'vɛ stɛː,010,22,3
+Steward,M,'stuː ɛːd,10,22,2
+Narda,F,'nɑr də,10,22,2
+Santos,F,'sæn toʊs,10,22,2
+Summer,F,'sə mɛː,10,22,2
+Tamar,F,'tæ mʌ,10,22,2
+Vana,F,'væ nʌ,10,22,2
+Vena,F,'viː nʌ,10,22,2
+Stefani,F,'stɛ fə niː,100,22,3
+Fulton,M,'fʊl tən,10,21,2
+Kai,M,'kaɪ,1,21,1
+Ivey,M,'aɪ viː,10,21,2
+Jacque,M,'ʒeɪk,1,21,1
+Jayson,M,'ʤeɪ zən,10,21,2
+Jeb,M,'ʤɛb,1,21,1
+Lennard,M,'lɛ nɛːd,10,21,2
+Kirkland,M,'kɛː klənd,10,21,2
+Laddie,M,'læ di,10,21,2
+Gorge,M,'gɔːrʤ,1,21,1
+Merton,M,'mɛː tən,10,21,2
+Nolen,M,'nɑ lən,10,21,2
+Hudson,M,'hʌd sən,10,21,2
+Gardner,M,'gɑrd nɛː,10,21,2
+Glyn,M,'glɪn,1,21,1
+Rebecca,M,rə 'bɛ kə,010,21,3
+Arley,M,'ɑr liː,10,21,2
+Betty,M,'bɛ tiː,10,21,2
+Bishop,M,'bɪ ʃʌp,10,21,2
+Brenton,M,'brɛn tən,10,21,2
+Claudio,M,'klɔː diː `oʊ,101,21,3
+Corbin,M,'kɔːr bɪn,10,21,2
+Crispin,M,'krɪ spɪn,10,21,2
+Demetrio,M,dɪ 'mɛ triː oʊ,0100,21,4
+Dorman,M,'dɔːr mən,10,21,2
+Elston,M,ɪl 'stɑn,01,21,2
+Oswald,M,'ɔːz wɔːld,10,21,2
+Simeon,M,'sɪ miː ən,100,21,3
+Rose,M,'roʊz,1,21,1
+Shelly,M,'ʃɛ liː,10,21,2
+Alpha,F,'æl fə,10,21,2
+Dagmar,F,'dæg `mɑr,11,21,2
+Devona,F,'dɛ və nʌ,100,21,3
+Flo,F,'floʊ,1,21,1
+Ivey,F,'aɪ viː,10,21,2
+Jon,F,'ʤɑn,1,21,1
+Leone,F,liː 'oʊn,01,21,2
+Madelaine,F,'mæ dɪ leɪn,100,21,3
+Maxie,F,'mæk siː,10,21,2
+Nicky,F,'nɪ kiː,10,21,2
+Paulina,F,`pɔː 'liː nʌ,110,21,3
+Renna,F,'rɛ nʌ,10,21,2
+Rickey,F,'rɪ kiː,10,21,2
+Rosaria,F,roʊ 'zɑ riː ə,0100,21,4
+Shirl,F,'ʃɛːl,1,21,1
+Teddie,F,'tɛ diː,10,21,2
+Terrance,F,'tɛ rəns,10,21,2
+Willow,F,'wɪ `loʊ,11,21,2
+Fay,M,'feɪ,1,21,1
+Vivian,M,'vɪ viː ən,100,21,3
+Tucker,M,'tʌ kɛː,10,21,2
+Trenton,M,'trɛn tən,10,21,2
+Tobin,M,'toʊ bɪn,10,21,2
+Theresa,M,tɛː 'iː sə,010,21,3
+Frazier,M,'freɪ ʒɛː,10,21,2
+Zulema,F,'zjʊə lʌ mʌ,100,20,3
+Worth,M,'wɛːθ,1,20,1
+Tobias,M,tʌ 'baɪ əs,010,20,3
+Radford,M,'ræd fɛːd,10,20,2
+Lisa,M,'liː sə,10,20,2
+Loring,M,'lɔː rɪŋ,10,20,2
+Martha,M,'mɑr θə,10,20,2
+Mendel,M,'mɛn dəl,10,20,2
+Neville,M,'nɛ vɪl,10,20,2
+Niels,M,'niːlz,1,20,1
+Norm,M,'nɔːrm,1,20,1
+Ole,M,'oʊl,1,20,1
+Phyllis,M,'fɪ lɪs,10,20,2
+Randie,M,'ɹæn di,10,20,2
+Arnaldo,M,ɑr 'nɑl doʊ,010,20,3
+Riccardo,M,rɪ 'kɑr doʊ,010,20,3
+Rolfe,M,'roʊlf,1,20,1
+Sherry,M,'ʃɛ riː,10,20,2
+Sid,M,'sɪd,1,20,1
+Sigmund,M,'sɪg mənd,10,20,2
+Silvio,M,'sɪl viː oʊ,100,20,3
+Smith,M,'smɪθ,1,20,1
+Teddie,M,'tɛ diː,10,20,2
+Thom,M,'tɑm,1,20,1
+Lin,M,'lɪn,1,20,1
+Kennedy,M,'kɛ nʌ diː,100,20,3
+Judith,M,'ʤuː dəθ,10,20,2
+Judge,M,'ʤʌʤ,1,20,1
+Arnie,M,'ɑr niː,10,20,2
+Avon,M,'eɪ vɑn,10,20,2
+Bedford,M,'bɛd fɛːd,10,20,2
+Burley,M,'bɛː liː,10,20,2
+Christ,M,'kraɪst,1,20,1
+Clancy,M,'klæn siː,10,20,2
+Claudie,M,'klɔː diː,10,20,2
+Colonel,M,'kɛː nəl,10,20,2
+Darby,M,'dɑr biː,10,20,2
+Dayle,M,'deɪl,1,20,1
+Ewell,M,'juː əl,10,20,2
+Fenton,M,'fɛn tən,10,20,2
+Ferman,M,'fɛː mən,10,20,2
+Gareth,M,'gɛ rɪθ,10,20,2
+Gideon,M,'gɪ diː ən,100,20,3
+Gilford,M,'gɪl fɛːd,10,20,2
+Hayes,M,'heɪz,1,20,1
+Hughie,M,'hjuː iː,10,20,2
+Jerel,M,'ʤɛ rəl,10,20,2
+Herb,M,'ɛːb,1,20,1
+Vinita,F,viː 'niː tʌ,010,20,3
+Alise,F,æ 'laɪ,01,20,2
+Mignon,F,'mɪg nən,10,20,2
+Alix,F,'æ lɪks,10,20,2
+Theola,F,'θiː ə lə,100,20,3
+Tessa,F,'tɛ sə,10,20,2
+Tandy,F,'tæn diː,10,20,2
+September,F,sɛp 'tɛm bɛː,010,20,3
+Robinette,F,'rɑ bɪ `nɛt,101,20,3
+Reyna,F,'reɪ nʌ,10,20,2
+Regan,F,'riː gən,10,20,2
+Rea,F,'riː,1,20,1
+Ranee,F,'ræ 'niː,11,20,2
+Odelia,F,oʊ 'dɛ liː ə,0100,20,4
+Neda,F,'neɪ də,10,20,2
+Rozella,F,roʊ 'zɛ lə,010,20,3
+Michaeline,F,'maɪ kə laɪn,100,20,3
+Dimple,F,'dɪm pəl,10,20,2
+Martin,F,'mɑr tən,10,20,2
+Barrie,F,'bæ riː,10,20,2
+Chery,F,'ʧɛ riː,10,20,2
+Del,F,'dɛl,1,20,1
+Claudie,F,'klɔː diː,10,20,2
+Eden,F,'iː dən,10,20,2
+Eldora,F,ɛl 'dɔː rə,010,20,3
+Ena,F,'ɛ nʌ,10,20,2
+Leana,F,'liː nʌ,10,20,2
+Livia,F,'lɪ viː ə,100,20,3
+Glennon,M,'glɛ nən,10,19,2
+Cornelio,M,kɛː 'nɛ liː oʊ,0100,19,4
+Geno,M,'ʤiː noʊ,10,19,2
+Gaines,M,'geɪnz,1,19,1
+Ernst,M,'ɛːnst,1,19,1
+Emmet,M,'ɛ mɪt,10,19,2
+Drexel,M,'drɛk səl,10,19,2
+Donavan,M,'dɑ nʌ `væn,101,19,3
+Ansel,M,ən 'sɛl,01,19,2
+Corby,M,'kɔːr biː,10,19,2
+Collie,M,'kɑ liː,10,19,2
+Brooke,M,'brʊk,1,19,1
+Beau,M,'boʊ,1,19,1
+Auther,M,'ɔː θɛː,10,19,2
+Alvah,M,æl 'vɑ,01,19,2
+Harlin,M,'hɑr lɪn,10,19,2
+Greig,M,'griːg,1,19,1
+Natividad,M,nʌ tɪ vɪ 'dɑd,0001,19,4
+Herbie,M,'hɛː biː,10,19,2
+Hosie,M,'hoʊ ziː,10,19,2
+Randol,M,'ræn dəl,10,19,2
+Phillips,M,'fɪ lɪps,10,19,2
+Park,M,'pɑrk,1,19,1
+Orland,M,'ɔːr lənd,10,19,2
+Bonney,F,'bɑ niː,10,19,2
+Nate,M,'neɪt,1,19,1
+Matias,M,'mɑ ʃəz,10,19,2
+Marlow,M,'mɑr loʊ,10,19,2
+Marilyn,M,'mɛ rə lən,100,19,3
+Ludwig,M,'lə dwɪg,10,19,2
+Lamonte,M,lɑ 'mɑnt,01,19,2
+Kimm,M,'kɪm,1,19,1
+Kimberley,M,'kɪm bɛː liː,100,19,3
+Johny,M,'ʤɑ niː,10,19,2
+Jacqueline,M,'ʤæ kwə lɪn,100,19,3
+Barry,F,'bæ riː,10,19,2
+Gwynn,F,'gwɪn,1,19,1
+Calla,F,'kæ lə,10,19,2
+Maple,F,'meɪ pəl,10,19,2
+Meridith,F,'mɛ rɪ dɪθ,100,19,3
+Micky,F,'mɪ kiː,10,19,2
+Midge,F,'mɪʤ,1,19,1
+Monette,F,mə 'nɛt,01,19,2
+Peter,F,'piː tɛː,10,19,2
+Pia,F,'piː ə,10,19,2
+Reggie,F,'rɛ ʤiː,10,19,2
+Sammy,F,'sæ miː,10,19,2
+Stanley,F,'stæn liː,10,19,2
+Tacy,F,'teɪ siː,10,19,2
+Tempie,F,'tɛm paɪ,10,19,2
+Tilda,F,'tɪl də,10,19,2
+Toya,F,'tɔɪ ə,10,19,2
+Vallie,F,'vɔː liː,10,19,2
+Venice,F,'vɛ nəs,10,19,2
+Marry,F,'mɛ riː,10,19,2
+Lyda,F,'laɪ də,10,19,2
+Carlos,F,'kɑr loʊs,10,19,2
+Lulu,F,'luː `luː,11,19,2
+Carlyon,F,'kɑr liː ɑn,100,19,3
+Clarisse,F,'klæ rɪs,10,19,2
+Craig,F,'kreɪg,1,19,1
+Dannie,F,'dæ niː,10,19,2
+Delila,F,dɛ 'liː lə,010,19,3
+Dorice,F,'dɔː rɪs,10,19,2
+Earl,F,'ɛːl,1,19,1
+Flavia,F,'flæ viː ə,100,19,3
+Georgi,F,ʤiː 'ɑr ʤiː,010,19,3
+Glenn,F,'glɛn,1,19,1
+Sinclair,M,sɪn 'klɛr,01,19,2
+Janina,F,ʤə 'niː nʌ,010,19,3
+Laurey,F,'lɔː riː,10,19,2
+Loris,F,'lɔː rɪs,10,19,2
+Louis,F,'luː ɪs,10,19,2
+Robinson,M,'rɑ bən sən,100,19,3
+Hoover,M,'huː vɛː,10,19,2
+Christine,M,krɪ 'stiːn,01,18,2
+Wynn,F,'wɪn,1,18,1
+Maybelline,F,'meɪ bə `liːn,101,18,3
+Micheline,F,`mɪ ʃə lən,100,18,3
+Milagro,F,mɪ 'læ groʊ,010,18,3
+Myriam,F,'mɪ riː əm,100,18,3
+Precious,F,'prɛ ʃəs,10,18,2
+Reina,F,reɪ 'iː nʌ,010,18,3
+Riva,F,'riː və,10,18,2
+Rosey,F,'roʊ ziː,10,18,2
+Shane,F,'ʃeɪn,1,18,1
+Starlet,F,'stɑr lət,10,18,2
+Vangie,F,'væŋ iː,10,18,2
+Ace,M,'eɪs,1,18,1
+Luellen,F,'lʊ lən,10,18,2
+Arvid,M,'ɑr vɪd,10,18,2
+Barnett,M,bɑr 'nɛt,01,18,2
+Berkley,M,'bɛː kliː,10,18,2
+Britton,M,'brɪ tən,10,18,2
+Brook,M,'brʊk,1,18,1
+Bryson,M,'braɪ sən,10,18,2
+Chan,M,'ʧæn,1,18,1
+Damien,M,'deɪ miː ən,100,18,3
+Davin,M,'dæ vɪn,10,18,2
+Diana,M,daɪ 'æ nʌ,010,18,3
+Doris,M,'dɔː rəs,10,18,2
+Marcel,F,mɑr 'sɛl,01,18,2
+Loma,F,'loʊ mə,10,18,2
+Emmit,M,'ɛ mɪt,10,18,2
+Eleanora,F,`ɛ lə 'nɔː rə,1010,18,4
+Aretta,F,ɑ 'rɛ tʌ,010,18,3
+Berna,F,'bɛr nʌ,10,18,2
+Brigitte,F,'brɪ ʤɪt,10,18,2
+Carita,F,kɑ 'riː tʌ,010,18,3
+Charlotta,F,'tʃɑ lɑ tʌ,100,18,3
+Clemmie,F,'klɛ miː,10,18,2
+Dahlia,F,'dæl jʌ,10,18,2
+Darcey,F,'dɑr siː,10,18,2
+Darrell,F,'dɛ rəl,10,18,2
+Davina,F,dɑ 'viː nʌ,010,18,3
+Edra,F,'ɛ drə,10,18,2
+Emogene,F,'ɛ mə giːn,100,18,3
+Lilian,F,'lɪ liː ən,100,18,3
+Fairy,F,'fɛ riː,10,18,2
+Gae,F,'gaɪ,1,18,1
+Gardenia,F,gɑr 'diː njə,010,18,3
+Ginnie,F,'ʤɪ niː,10,18,2
+Hanna,F,'hæ nʌ,10,18,2
+Jacky,F,'ʤæ kiː,10,18,2
+Jade,F,'ʤeɪd,1,18,1
+Kathrin,F,'kæ θɹɪ,10,18,2
+Lacy,F,'leɪ siː,10,18,2
+Landa,F,'læn də,10,18,2
+Lara,F,'lɑ rə,10,18,2
+Duffy,M,'də fiː,10,18,2
+Alvin,F,'æl vɪn,10,18,2
+Evelyn,M,'ɛ və lən,100,18,3
+Julia,M,'ʤuːl jʌ,10,18,2
+Schuyler,M,'skaɪ lɛː,10,18,2
+Salomon,M,'sæ lə mən,100,18,3
+Ryland,M,'rɪ lənd,10,18,2
+Farron,M,'fɛ rən,10,18,2
+Pernell,M,'pɛː nəl,10,18,2
+Paige,M,'peɪʤ,1,18,1
+Otho,M,'ɑ θəʊ,10,18,2
+Marquis,M,`mɑr 'kiː,11,18,2
+Marie,M,mɛː 'iː,01,18,2
+Laura,M,'lɔː rə,10,18,2
+Kendell,M,'kɛn dəl,10,18,2
+Robyn,M,'rɑ bɪn,10,18,2
+Jarrell,M,jɑ 'reɪl,01,18,2
+Ivery,M,'aɪ vɛː iː,100,18,3
+Gabe,M,'geɪb,1,18,1
+Garvin,M,'gɑr vɪn,10,18,2
+Gennaro,M,ʤə 'nɑ roʊ,010,18,3
+Griffith,M,'grɪ fəθ,10,18,2
+Hazel,M,'heɪ zəl,10,18,2
+Helen,M,'hɛ lən,10,18,2
+Irby,M,'ɛː biː,10,18,2
+Hercules,M,'hɛː kjə `liːz,101,18,3
+Olympia,F,oʊ 'lɪm piː ə,0100,17,4
+Nana,F,'næ nʌ,10,17,2
+Jacinta,F,ʤə 'sɪn tʌ,010,17,3
+Jacquetta,F,ʤɑ 'kɛ tʌ,010,17,3
+Jyl,F,'dʒɪ,1,17,1
+Laurice,F,'lɔː rɪs,10,17,2
+Lavetta,F,lɑ 'vɛ tʌ,010,17,3
+Leanora,F,'li nɔː ɹʌ,100,17,3
+Leon,F,'liː ɑn,10,17,2
+Windy,F,'wɪn diː,10,17,2
+Tani,F,'tɑ niː,10,17,2
+Su,F,'suː,1,17,1
+Salley,F,'sæ liː,10,17,2
+Lurline,F,'lɛː laɪn,10,17,2
+Rosette,F,rə 'sɛt,01,17,2
+Rory,F,'rɔː riː,10,17,2
+Honora,F,ɔː 'nɔː rə,010,17,3
+Rella,F,'rɛ lə,10,17,2
+Parthenia,F,pɑr 'θɛ niː ə,0100,17,4
+Mala,F,'mɑ lə,10,17,2
+Margarete,F,'mɑr gɛː `iːt,101,17,3
+Irena,F,ɪ 'reɪ nʌ,010,17,3
+Floy,F,'flɔɪ,1,17,1
+Herbert,F,'hɛː bɛːt,10,17,2
+Golda,F,'goʊl də,10,17,2
+Corey,F,'kɔː riː,10,17,2
+Coralie,F,'kɔː rə liː,100,17,3
+Clarence,F,'klɛ rəns,10,17,2
+Charita,F,kɑ 'riː tʌ,010,17,3
+Chanda,F,'ʧæn də,10,17,2
+Chana,F,'ʧæ nʌ,10,17,2
+Carron,F,'kæ rən,10,17,2
+Bev,F,'bɛv,1,17,1
+Ave,F,'æ və nuː,100,17,3
+Almeda,F,ɑl 'meɪ də,010,17,3
+Alissa,F,ə 'lɪ sə,010,17,3
+Adina,F,ɑ 'diː nʌ,010,17,3
+Lennon,M,'lɛ nən,10,17,2
+Eveline,F,'ɛ və lɪn,100,17,3
+Felicitas,F,'fɛ lɪ `sɪ tʌ,1010,17,4
+Fleta,F,'fliː tʌ,10,17,2
+Elene,F,'ɛ liːn,10,17,2
+Gabriella,F,gɑ briː 'ɛ lə,0010,17,4
+Garnett,F,'gɑr nɪt,10,17,2
+Marcelo,M,mɑr 'ʧɛ loʊ,010,17,3
+Yolande,F,'joʊ lənd,10,17,2
+Terri,M,'tɛ riː,10,17,2
+Americo,M,ə 'mɛː ə koʊ,0100,17,4
+Alfonse,M,'æl fɑns,10,17,2
+Marko,M,'mɑr koʊ,10,17,2
+Marlowe,M,'mɑr `loʊ,11,17,2
+Mauricio,M,maʊ 'riː siː oʊ,0100,17,4
+Merrick,M,'mɛ rɪk,10,17,2
+Mikell,M,'mɪ kəl,10,17,2
+Nehemiah,M,`niː ə 'maɪ ə,1010,17,4
+Nino,M,'niː noʊ,10,17,2
+Oneil,M,oʊ 'niːl,01,17,2
+Pascal,M,pæ 'skæl,01,17,2
+Ramsey,M,'ræm ziː,10,17,2
+Rico,M,'riː koʊ,10,17,2
+Rita,M,'riː tʌ,10,17,2
+Roberta,M,rə 'bɛː tʌ,010,17,3
+Robie,M,'roʊ biː,10,17,2
+Young,M,'jʌŋ,1,17,1
+Webb,M,'wɛb,1,17,1
+Vergil,M,'vɛː ʤəl,10,17,2
+Vaughan,M,'vɔːn,1,17,1
+Toni,M,'toʊ niː,10,17,2
+Thompson,M,'tɑmp sən,10,17,2
+Rozell,M,'rɑ zəl,10,17,2
+Teri,M,'tɛ riː,10,17,2
+Spurgeon,M,'spɛː ʤɪn,10,17,2
+Ruth,M,'ruːθ,1,17,1
+Ali,M,'ɑ liː,10,17,2
+Berlin,M,bɛː 'lɪn,01,17,2
+Shedrick,M,'ʃɛ drɪk,10,17,2
+Bucky,M,'bə kiː,10,17,2
+Lavell,M,lɑ 'veɪl,01,17,2
+Landis,M,'læn dɪs,10,17,2
+Lambert,M,'læm bɛːt,10,17,2
+Lamarr,M,lɑ 'mɑr,01,17,2
+Kennon,M,'kɛ nən,10,17,2
+Julien,M,'ʤuː liː ən,100,17,3
+Jule,M,'ʤuːl,1,17,1
+Joy,M,'ʤɔɪ,1,17,1
+Josiah,M,ʤoʊ 'saɪ ə,010,17,3
+Jane,M,'ʤeɪn,1,17,1
+Hansel,M,'hæn səl,10,17,2
+Gunnar,M,'gə nɛː,10,17,2
+Gorden,M,'gɔːr dən,10,17,2
+Garrison,M,'gæ rɪ sən,100,17,3
+Gaetano,M,gaɪ 'tɑ noʊ,010,17,3
+Elza,M,'ɛl zʌ,10,17,2
+Earvin,M,'ɛː vɪn,10,17,2
+Delwyn,M,'dɛl wɪn,10,17,2
+Delma,M,'dɛl mə,10,17,2
+Dayne,M,'deɪn,1,17,1
+Cooper,M,'kuː pɛː,10,17,2
+Constantino,M,`kɑn stən 'tiː noʊ,1010,17,4
+Collis,M,'kɑ lɪs,10,17,2
+Candido,M,kæn 'diː doʊ,010,17,3
+Cam,M,'kæm,1,17,1
+Sim,M,'sɪm,1,17,1
+Kelsey,F,'kɛl siː,10,16,2
+Tish,F,'tɪʃ,1,16,1
+Calvin,F,'kæl vən,10,16,2
+Loy,F,'lɔɪ,1,16,1
+Lilla,F,'lɪ lə,10,16,2
+Ami,F,'ɑ miː,10,16,2
+Annis,F,'æ niːz,10,16,2
+Artis,F,'ɑr tɪs,10,16,2
+Blossom,F,'blɑ səm,10,16,2
+Blythe,F,'blaɪð,1,16,1
+Lacey,F,'leɪ siː,10,16,2
+Branda,F,'bræn də,10,16,2
+Danae,F,'dæ ni,10,16,2
+Madelon,F,mɑ deɪ 'lɔːn,001,16,3
+Diantha,F,`daɪ 'æn θə,110,16,3
+Dione,F,'diː ɑn,10,16,2
+Elane,F,ɪ 'leɪn,01,16,2
+Elvina,F,ɛl 'viː nʌ,010,16,3
+Estell,F,'ɛ stəl,10,16,2
+Glynnis,F,'glɪ nɪs,10,16,2
+Gracia,F,'grɑ ʧə,10,16,2
+Harry,F,'hɛ riː,10,16,2
+Jack,F,'ʤæk,1,16,1
+Luba,F,'luː bə,10,16,2
+Marvin,F,'mɑr vɪn,10,16,2
+Jetta,F,'ʤɛ tʌ,10,16,2
+Rheta,F,'riː tʌ,10,16,2
+Tess,F,'tɛs,1,16,1
+Steve,F,'stiːv,1,16,1
+Scottie,F,'skɑ tiː,10,16,2
+Sana,F,'sɑ nʌ,10,16,2
+Rosamond,F,'roʊ zʌ mənd,100,16,3
+Ronalda,F,roʊ 'nɑl də,010,16,3
+Robina,F,rə 'biː nʌ,010,16,3
+Rina,F,'riː nʌ,10,16,2
+Rikki,F,'rɪ kiː,10,16,2
+Ralph,F,'rælf,1,16,1
+Maurice,F,mɔː 'riːs,01,16,2
+Phillip,F,'fɪ lɪp,10,16,2
+Palmira,F,pɑl 'mɪ rə,010,16,3
+Oneida,F,oʊ 'naɪ də,010,16,3
+Odell,F,oʊ 'dɛl,01,16,2
+Morna,F,'mɔːr nʌ,10,16,2
+Alayne,F,ə 'leɪn,01,16,2
+Milly,F,'mɪ liː,10,16,2
+Micheal,F,'maɪ kəl,10,16,2
+Meda,F,'meɪ də,10,16,2
+Morgan,F,'mɔːr gən,10,16,2
+Stanly,M,'stæn liː,10,16,2
+Alaine,F,ə 'leɪn,01,16,2
+Kory,M,'kɔː riː,10,16,2
+Kimber,M,'kɪm bɛː,10,16,2
+Kelton,M,'kɛl tən,10,16,2
+Karry,M,'kɛ riː,10,16,2
+Jill,M,'ʤɪl,1,16,1
+Hubbard,M,'hə bɛːd,10,16,2
+Howie,M,'haʊ iː,10,16,2
+Hiawatha,M,`haɪ ə 'wɑ θə,1010,16,4
+Guido,M,'gwiː doʊ,10,16,2
+Geronimo,M,ʤə 'rɔː nɪ `moʊ,0101,16,4
+Foy,M,'fɔɪ,1,16,1
+Elie,M,'ɛ liː,10,16,2
+Edson,M,'ɛd sən,10,16,2
+Dolan,M,'doʊ lən,10,16,2
+Dawson,M,'dɔː sən,10,16,2
+Corry,M,'kɔː riː,10,16,2
+Cipriano,M,ʧiː priː 'ɑ noʊ,0010,16,4
+Chico,M,'ʧiː `koʊ,11,16,2
+Charleston,M,'ʧɑrl stən,10,16,2
+Celso,M,'sɛl soʊ,10,16,2
+Alger,M,'æl ʤɛː,10,16,2
+Vernon,F,'vɛː nən,10,16,2
+Knute,M,'nuːt,1,16,1
+Lacey,M,'leɪ siː,10,16,2
+Zackery,M,'zæ kɛː iː,100,16,3
+Landy,M,'læn diː,10,16,2
+West,M,'wɛst,1,16,1
+Virgilio,M,vɛː 'ʤɪ liː oʊ,0100,16,4
+Torrence,M,'tɔː rəns,10,16,2
+Terral,M,'tɛ rəl,10,16,2
+Serge,M,'sɛːʤ,1,16,1
+Sarah,M,'sɛ rə,10,16,2
+Sabino,M,sɑ 'biː noʊ,010,16,3
+Ruel,M,'ruːl,1,16,1
+Rodell,M,'rɑ dəl,10,16,2
+Presley,M,'prɛ sliː,10,16,2
+Paulo,M,'pɔː loʊ,10,16,2
+Parke,M,'pɑrk,1,16,1
+Osborne,M,'ɔːz `bɔːrn,11,16,2
+Nile,M,'naɪl,1,16,1
+Meyer,M,'maɪ ɛː,10,16,2
+Marian,M,'mɛ riː ən,100,16,3
+Marcial,M,mɑr siː 'ɑl,001,16,3
+Lavelle,M,lə 'vɛl,01,16,2
+Lauro,M,'lɔː roʊ,10,16,2
+Laurent,M,'lɔː rənt,10,16,2
+Larkin,M,'lɑr kɪn,10,16,2
+Vaughn,F,'vɔːn,1,16,1
+Hadley,M,'hæd liː,10,16,2
+Manual,M,'mæ njuː əl,100,15,3
+Alina,F,ə 'liː nʌ,010,15,3
+Diedre,F,'diː drə,10,15,2
+Dennie,F,'dɛ niː,10,15,2
+Clyde,F,'klaɪd,1,15,1
+Cinderella,F,`sɪn dɛː 'ɛ lə,1010,15,4
+Cheyenne,F,ʃaɪ 'æn,01,15,2
+Charmain,F,ʃɑr 'meɪn,01,15,2
+Carlita,F,kɑr 'liː tʌ,010,15,3
+Buff,F,'bʌf,1,15,1
+Brook,F,'brʊk,1,15,1
+Annett,F,ə 'nɛt,01,15,2
+America,F,ə 'mɛ rə kə,0100,15,4
+Alinda,F,eɪ 'lɪn dʌ,010,15,3
+Alan,F,'æ lən,10,15,2
+Velvet,F,'vɛl vət,10,15,2
+Adena,F,'æ dɪ nʌ,100,15,3
+Martyn,M,'mɑr tɪn,10,15,2
+Zenon,M,'ziː nən,10,15,2
+Winton,M,'wɪn tən,10,15,2
+Walden,M,'wɔːl dən,10,15,2
+Vicky,M,'vɪ kiː,10,15,2
+Vickie,M,'vɪ kiː,10,15,2
+Fred,F,'frɛd,1,15,1
+Thurmon,M,'θɛː mən,10,15,2
+Talbert,M,'tæl bɛːt,10,15,2
+Sven,M,'svɛn,1,15,1
+Sullivan,M,'sə lə vən,100,15,3
+Ernest,F,'ɛː nəst,10,15,2
+Ula,F,'juː lə,10,15,2
+Serafin,M,'sɛ rə fɪn,100,15,3
+Ninette,F,nɪ 'nɛt,01,15,2
+Glynn,F,'glɪn,1,15,1
+Hildy,F,'hɪl diː,10,15,2
+Jacquie,F,'ʤæ kwiː,10,15,2
+Jeffery,F,'ʤɛ fɛː iː,100,15,3
+Jodelle,F,'dʒəʊ dʌ,10,15,2
+Kimm,F,'kɪm,1,15,1
+Leonore,F,'liː ə nɔːr,100,15,3
+Leroy,F,'liː `rɔɪ,11,15,2
+Lester,F,'lɛ stɛː,10,15,2
+Margarite,F,`mɑ ɡʌ 'ɹaɪ,101,15,3
+Marjie,F,'mɑr ʤiː,10,15,2
+Nelia,F,'nɛ liː ə,100,15,3
+Omega,F,oʊ 'mɛ gə,010,15,3
+Tresia,F,'tɹi zi ʌ,100,15,3
+Paulita,F,pɔː 'liː tʌ,010,15,3
+Pearly,F,'pɛː liː,10,15,2
+Rana,F,'ræ nʌ,10,15,2
+Ria,F,'riː ə,10,15,2
+Rodney,F,'rɑd niː,10,15,2
+Russell,F,'rə səl,10,15,2
+Sanda,F,'sæn də,10,15,2
+Shara,F,'ʃɑ rə,10,15,2
+Shelagh,F,'ʃɛ lɑ,10,15,2
+Simona,F,sɪ 'moʊ nʌ,010,15,3
+Thais,F,'taɪz,1,15,1
+Toy,F,'tɔɪ,1,15,1
+Skipper,M,'skɪ pɛː,10,15,2
+Verner,M,'vɛː nɛː,10,15,2
+Rush,M,'rəʃ,1,15,1
+Delos,M,dɪ 'ləʊ,01,15,2
+Gillis,M,'gɪ lɪs,10,15,2
+Fredrich,M,'frɛ drɪk,10,15,2
+Flynn,M,'flɪn,1,15,1
+Evert,M,ɪ 'vɛːt,01,15,2
+Dionisio,M,`daɪ ə 'nɪ siː oʊ,10100,15,5
+Denzel,M,'dɛn zəl,10,15,2
+Darrow,M,'dɛ roʊ,10,15,2
+Humphrey,M,'hʌm fɹɪ,10,15,2
+Courtland,M,'kɔːrt lænd,10,15,2
+Cosmo,M,'kɔːz moʊ,10,15,2
+Conway,M,'kɑn `weɪ,11,15,2
+Clemmie,M,'klɛ miː,10,15,2
+Claiborne,M,'kleɪ bɛːn,10,15,2
+Chriss,M,'krɪs,1,15,1
+Holly,M,'hɑ liː,10,15,2
+Hurley,M,'hɛː liː,10,15,2
+Cathy,M,'kæ θiː,10,15,2
+Kenn,M,'kɛn,1,15,1
+Mallory,M,'mæ lɛː iː,100,15,3
+Luigi,M,luː 'iː ʤiː,010,15,3
+Louise,M,luː 'iːz,01,15,2
+Lamon,M,lɑ 'mɔːn,01,15,2
+Kriss,M,'krɪs,1,15,1
+Kervin,M,'kɛː vɪn,10,15,2
+Keneth,M,'ki nʌθ,10,15,2
+Isabel,M,'ɪ zʌ `bɛl,101,15,3
+Katherine,M,'kæ θɛː ɪn,100,15,3
+Josephus,M,ʤoʊ 'siː fəs,010,15,3
+Johnathon,M,'ʤɑ nʌ θʌn,100,15,3
+Jens,M,'ʤɛnz,1,15,1
+Isidore,M,'ɪ zɪ `dɔːr,101,15,3
+Ishmael,M,'ɪ ʃmiːl,10,15,2
+Cephus,M,'sɛ fəs,10,15,2
+Casper,M,'kæ spɛː,10,15,2
+Rome,M,'roʊm,1,15,1
+Mcdonald,M,mək 'dɑ nəld,010,15,3
+Rolla,M,'rɑ lə,10,15,2
+Rodman,M,'rɑd mən,10,15,2
+Rhys,M,'ɹi,1,15,1
+Reagan,M,'reɪ gən,10,15,2
+Powell,M,'paʊ əl,10,15,2
+Page,M,'peɪʤ,1,15,1
+Olaf,M,'oʊ lɑf,10,15,2
+Norvin,M,'nɔːr vɪn,10,15,2
+Minor,M,'maɪ nɛː,10,15,2
+Carman,M,'kɑr mən,10,15,2
+Gisela,F,'giː zʌ lə,100,15,3
+Carlis,M,'kɑ li,10,15,2
+Blase,M,'bleɪz,1,15,1
+Blain,M,'bleɪn,1,15,1
+Bernhard,M,'bɛːn hɑrd,10,15,2
+Belton,M,'bɛl tən,10,15,2
+Anna,M,'æ nʌ,10,15,2
+Adell,M,ə 'dɛl,01,15,2
+Mathias,M,mə 'θaɪ əs,010,15,3
+Mayo,M,'meɪ oʊ,10,15,2
+Natividad,F,nʌ tɪ vɪ 'dɑd,0001,14,4
+Nathaniel,F,nʌ 'θæ njəl,010,14,3
+Wynette,F,wɪ 'nɛt,01,14,2
+Violeta,F,`viː oʊ 'lɛ tʌ,1010,14,4
+Valentine,F,'væ lən `taɪn,101,14,3
+Tobie,F,'toʊ biː,10,14,2
+Thyra,F,'θaɪ rə,10,14,2
+Tabitha,F,'tæ bɪ θə,100,14,3
+Sona,F,'səʊ nʌ,10,14,2
+Modesta,F,moʊ 'dɛ stə,010,14,3
+Richie,F,'rɪ ʧiː,10,14,2
+Philippa,F,fɪ 'lɪ pə,010,14,3
+Rosslyn,F,'rɑ slɪn,10,14,2
+Kem,F,'kɛm,1,14,1
+Adair,F,ə 'dɛr,01,14,2
+Aleda,F,ɑ 'leɪ də,010,14,3
+Mathilda,F,mə 'tɪl də,010,14,3
+Martie,F,'mɑr tiː,10,14,2
+Mariette,F,`mɛ riː 'ɛt,101,14,3
+Manette,F,mə 'nɛt,01,14,2
+Magdalen,F,'mæg də lən,100,14,3
+Luane,F,'luː ən,10,14,2
+Louanna,F,laʊ 'ɑ nʌ,010,14,3
+Lorean,F,'lɔː riː ən,100,14,3
+Kyna,F,'kɪ nʌ,10,14,2
+Kenya,F,'kɛ njə,10,14,2
+Katha,F,'kæ θə,10,14,2
+Juan,F,'wɑn,1,14,1
+Greer,F,'grɪr,1,14,1
+Glennie,F,'glɛ niː,10,14,2
+Fae,F,'faɪ,1,14,1
+Eudora,F,juː 'dɔː rə,010,14,3
+Ernie,F,'ɛː niː,10,14,2
+Echo,F,'ɛ koʊ,10,14,2
+Dwan,F,'dwɑn,1,14,1
+Cristal,F,'krɪ stəl,10,14,2
+Colby,F,'koʊl biː,10,14,2
+Clover,F,'kloʊ vɛː,10,14,2
+Catherina,F,kɑ θɛː 'iː nʌ,0010,14,4
+Blondie,F,'blɑn diː,10,14,2
+Benny,F,'bɛ niː,10,14,2
+Arvis,F,'ɑ vɪ,10,14,2
+Annabell,F,'æ nʌ `bɛ,101,14,3
+Yetta,F,'jɛ tʌ,10,14,2
+Medina,F,mə 'daɪ nʌ,010,14,3
+Standley,M,'stænd liː,10,14,2
+Winifred,M,'wɪ nɪ frɪd,100,14,3
+Holland,M,'hɑ lənd,10,14,2
+Jeri,M,'ʤɛ riː,10,14,2
+Justo,M,'ʤə stoʊ,10,14,2
+Kathryn,M,'kæ θrɪn,10,14,2
+Kerby,M,'kɛː biː,10,14,2
+Ladd,M,'læd,1,14,1
+Little,M,'lɪ təl,10,14,2
+Merrily,F,'mɛ rə liː,100,14,3
+Lorenz,M,lɛː 'ɛnts,01,14,2
+Luster,M,'lə stɛː,10,14,2
+Marcell,M,mɑr 'seɪl,01,14,2
+Marsha,M,'mɑr ʃə,10,14,2
+Wheeler,M,'wiː lɛː,10,14,2
+Hillard,M,'hɪ lɛːd,10,14,2
+Virginia,M,vɛː 'ʤɪ njə,010,14,3
+Vernal,M,'vɛː nəl,10,14,2
+Trey,M,'treɪ,1,14,1
+Taft,M,'tæft,1,14,1
+Stevens,M,'stiː vənz,10,14,2
+Mateo,M,mɑ 'teɪ oʊ,010,14,3
+Shan,M,'ʃæn,1,14,1
+Selwyn,M,'sɛl wɪn,10,14,2
+Ruby,M,'ruː biː,10,14,2
+Rawn,M,'ɹɔː,1,14,1
+Purvis,M,'pɛː vɪs,10,14,2
+Peggy,M,'pɛ giː,10,14,2
+Hilliard,M,'hɪl jɑrd,10,14,2
+Hervey,M,hɛː 'veɪ,01,14,2
+Nash,M,'næʃ,1,14,1
+Bonifacio,M,`bɑ nɪ 'feɪ siː oʊ,10100,14,5
+Alain,M,ə 'leɪn,01,14,2
+Alma,M,'æl mə,10,14,2
+Amadeo,M,ɑ 'mɑ diː oʊ,0100,14,4
+Ambrosio,M,`æm 'broʊ siː oʊ,1100,14,4
+Amon,M,ɑ 'mɔːn,01,14,2
+Andreas,M,ɑn 'dreɪ əs,010,14,3
+Antonia,M,æn 'toʊ niː ə,0100,14,4
+Archer,M,'ɑr ʧɛː,10,14,2
+Ardis,M,'ɑr dɪs,10,14,2
+Arlington,M,'ɑr lɪŋ tən,100,14,3
+Autry,M,'ɔː triː,10,14,2
+Bennet,M,'bɛ nɪt,10,14,2
+Chesley,M,'ʧɛ sliː,10,14,2
+Henery,M,'hɛ nɛː iː,100,14,3
+Cicero,M,'sɪ sɛː `oʊ,101,14,3
+Clemens,M,'klɛ mənz,10,14,2
+Cliffton,M,'klɪf tʌ,10,14,2
+Coley,M,'koʊ liː,10,14,2
+Delfino,M,`dɛl 'fiː noʊ,110,14,3
+Erie,M,'ɪ riː,10,14,2
+Erskin,M,'ɛː skɪn,10,14,2
+Estil,M,'ɛ stɪ,10,14,2
+Gay,M,'geɪ,1,14,1
+Gilmore,M,'gɪl mɔːr,10,14,2
+Giovanni,M,`ʤiː oʊ 'vɑ niː,1010,14,4
+Gordy,M,'gɔːr diː,10,14,2
+Parnell,M,'pɑr nəl,10,14,2
+Edyth,F,'ɛ dɪθ,10,13,2
+Diahann,F,`daɪ 'æn,11,13,2
+Ever,F,'ɛ vɛː,10,13,2
+Leonard,F,'lɛ nɛːd,10,13,2
+Lei,F,'leɪ,1,13,1
+Le,F,lə,0,13,1
+Karry,F,'kɛ riː,10,13,2
+Jimi,F,'ʤɪ miː,10,13,2
+Jae,F,'ʤeɪ,1,13,1
+Glee,F,'gliː,1,13,1
+Flor,F,'flɔːr,1,13,1
+Adel,F,ə 'dɛl,01,13,2
+Madie,F,'meɪ di,10,13,2
+Anamaria,F,`æ nʌ mə 'riː ə,10010,13,5
+Archie,F,'ɑr ʧiː,10,13,2
+Burnette,F,'bɛː 'nɛt,11,13,2
+Clementina,F,`klɛ mɪn 'ti nʌ,1010,13,4
+Coretta,F,kɔː 'rɛ tʌ,010,13,3
+Cosette,F,kə 'sɛt,01,13,2
+Demetrius,F,dɪ 'miː triː əs,0100,13,4
+Deneen,F,dɪ 'niːn,01,13,2
+Lindell,F,'lɪn dəl,10,13,2
+Marcell,F,mɑr 'seɪl,01,13,2
+Trilby,F,'trɪl biː,10,13,2
+Phebe,F,'fiː biː,10,13,2
+Toi,F,'tɔɪ,1,13,1
+Tiffany,F,'tɪ fə niː,100,13,3
+Sherra,F,'ʃɛ ɹʌ,10,13,2
+Samella,F,sə 'mɛ lə,010,13,3
+Rufina,F,ruː 'fiː nʌ,010,13,3
+Reyne,F,'ɹeɪ,1,13,1
+Rennie,F,'rɛ niː,10,13,2
+Reginald,F,'rɛ ʤə nəld,100,13,3
+Otha,F,ə 'ðɑ,01,13,2
+Marcelline,F,mɑr ʧɛ 'liː niː,0010,13,4
+Netta,F,'nɛ tʌ,10,13,2
+Monda,F,'mɑn də,10,13,2
+Minette,F,mɪ 'nɛt,01,13,2
+Merideth,F,'mɛ rɪ dɪθ,100,13,3
+Memory,F,'mɛ mɛː iː,100,13,3
+Melina,F,mɛ 'liː nʌ,010,13,3
+Martine,F,mɑr 'tiːn,01,13,2
+Mario,F,'mɑ riː oʊ,100,13,3
+Sanna,F,'sæ nʌ,10,13,2
+Linville,M,'liːn vɪl,10,13,2
+Winslow,M,'wɪnz loʊ,10,13,2
+Cort,M,'kɔːrt,1,13,1
+Gerrit,M,'ʤɛ rɪt,10,13,2
+Geoff,M,'ʤɛf,1,13,1
+Garnet,M,'gɑr nət,10,13,2
+Frederico,M,frɛ dɛː 'iː koʊ,0010,13,4
+Estel,M,'ɛ stəl,10,13,2
+Esau,M,'iː `sɔː,11,13,2
+Erling,M,'ɛː lɪŋ,10,13,2
+Eduard,M,'ɛ dwɛːd,10,13,2
+Dru,M,'druː,1,13,1
+Deon,M,'diː ɑn,10,13,2
+Cristobal,M,'krɪ stə bəl,100,13,3
+Cosme,M,'koʊzm,1,13,1
+Corbett,M,'kɔːr bɪt,10,13,2
+Jakie,M,'ʤæ kiː,10,13,2
+Colon,M,'koʊ lən,10,13,2
+Charlene,M,ʃɑr 'liːn,01,13,2
+Charle,M,'ʧɑrl,1,13,1
+Burrell,M,bɛː 'ɛl,01,13,2
+Bubba,M,'bə bə,10,13,2
+Breck,M,'brɛk,1,13,1
+Biff,M,'bɪf,1,13,1
+Beryl,M,'bɛ rəl,10,13,2
+Bentley,M,'bɛnt liː,10,13,2
+Baltazar,M,bɑl tɑ 'zɑr,001,13,3
+Arno,M,'ɑr noʊ,10,13,2
+Annie,M,'æ niː,10,13,2
+Golden,M,'goʊl dən,10,13,2
+Kean,M,'kiːn,1,13,1
+Thoms,M,'θɑmz,1,13,1
+Newman,M,'nuː mən,10,13,2
+Theodor,M,'θiː ə dɛː,100,13,3
+Thayne,M,'θeɪn,1,13,1
+Talmage,M,'tæl mɪʤ,10,13,2
+Siegfried,M,'siːg `friːd,11,13,2
+Royden,M,'rɔɪ dən,10,13,2
+Rohn,M,'rɑn,1,13,1
+Rhonda,M,'rɑn də,10,13,2
+Rachel,M,'reɪ ʧəl,10,13,2
+Purcell,M,pɛː 'sɛl,01,13,2
+Paulino,M,pɔː 'liː noʊ,010,13,3
+Paula,M,'pɔː lə,10,13,2
+Norvell,M,'nɔːr vəl,10,13,2
+Natale,M,nɑ 'tɑ liː,010,13,3
+Kee,M,'kiː,1,13,1
+Mikael,M,mə 'keɪl,01,13,2
+Michell,M,'mɪ ʧəl,10,13,2
+Marland,M,'mɑr lənd,10,13,2
+Malachi,M,'mæ lʌ `kaɪ,101,13,3
+Mace,M,'meɪs,1,13,1
+Lynden,M,'lɪn dən,10,13,2
+Lowry,M,'laʊ riː,10,13,2
+Livingston,M,'lɪ vɪŋ stən,100,13,3
+Leopold,M,'liː ə `poʊld,101,13,3
+Larue,M,lɛː 'uː,01,13,2
+Laron,M,'læ ɹʌ,10,13,2
+Kelsey,M,'kɛl siː,10,13,2
+Velina,F,vɛ 'li nʌ,010,13,3
+Jory,M,'ʤɔː riː,10,13,2
+Mariel,F,'mɛ riː əl,100,12,3
+Sena,F,'sɛ nʌ,10,12,2
+Philip,F,'fɪ ləp,10,12,2
+Pinkey,F,'pɪŋ kɪ,10,12,2
+Raina,F,'reɪ nʌ,10,12,2
+Raul,F,'rɔːl,1,12,1
+Robie,F,'roʊ biː,10,12,2
+Rusty,F,'rə stiː,10,12,2
+Ruta,F,'ruː tʌ,10,12,2
+Scott,F,'skɑt,1,12,1
+Leoma,F,lɪ 'oʊ mə,010,12,3
+Senora,F,`siː 'njɔː rə,110,12,3
+Tolbert,M,'toʊl bɛːt,10,12,2
+Sherley,F,'ʃɛː liː,10,12,2
+Sylvie,F,'sɪl viː,10,12,2
+Tam,F,'tæm,1,12,1
+Tere,F,'teɪ ʌ ʌ,100,12,3
+Tory,F,'tɔː riː,10,12,2
+Vallery,F,'væ lɛː iː,100,12,3
+Victor,F,'vɪk tɛː,10,12,2
+Victorine,F,viːk tɔː 'riː niː,0010,12,4
+Von,F,'vɔːn,1,12,1
+Perla,F,'pɛː lə,10,12,2
+Otis,F,'oʊ tɪs,10,12,2
+Nonie,F,'nɑ niː,10,12,2
+Nieves,F,niː 'ɛ vɛs,010,12,3
+Umberto,M,əm 'bɛr `toʊ,011,12,3
+Valdemar,M,vɑl deɪ 'mɑr,001,12,3
+Valerie,M,'væ lɛː iː,100,12,3
+Vicki,M,'vɪ kiː,10,12,2
+Wells,M,'wɛlz,1,12,1
+Wendy,M,'wɛn diː,10,12,2
+Wilhelm,M,'wɪl `hɛlm,11,12,2
+Winthrop,M,'wɪn θrəp,10,12,2
+Wray,M,'reɪ,1,12,1
+Wright,M,'raɪt,1,12,1
+Yolanda,M,joʊ 'lɑn də,010,12,3
+Maris,F,'mɛ rɪs,10,12,2
+Mauri,F,'mɔː riː,10,12,2
+Mayme,F,'meɪm,1,12,1
+Michela,F,mɪ 'keɪ lə,010,12,3
+Michelina,F,mɪ kə 'liː nʌ,0010,12,4
+Minna,F,'mɪ nʌ,10,12,2
+Myron,F,'maɪ rən,10,12,2
+Nevada,F,nʌ 'vɑ də,010,12,3
+Wendell,F,'wɛn dəl,10,12,2
+Luwana,F,lə 'wæ nʌ,010,12,3
+Mahala,F,'mæ hə lə,100,12,3
+Consuela,F,kən 'sweɪ lə,010,12,3
+Danella,F,də 'nɛ lə,010,12,3
+Devin,F,'dɛ vɪn,10,12,2
+Dorise,F,'dɔː raɪz,10,12,2
+Edwin,F,'ɛ dwən,10,12,2
+Faustina,F,`fɔː 'stiː nʌ,110,12,3
+Florance,F,'flɔː rəns,10,12,2
+Florrie,F,'flɔː riː,10,12,2
+France,F,'fræns,1,12,1
+Gael,F,'geɪl,1,12,1
+Gretel,F,'grɛ təl,10,12,2
+Helane,F,hə 'leɪn,01,12,2
+Hilma,F,'hɪl mə,10,12,2
+Inge,F,'ɪnʤ,1,12,1
+Jaimie,F,'ʤeɪ miː,10,12,2
+Karis,F,'kɛ riːz,10,12,2
+Kendall,F,'kɛn dəl,10,12,2
+Koren,F,'kɔː rən,10,12,2
+Kriss,F,'krɪs,1,12,1
+Larissa,F,lɑ 'riː sə,010,12,3
+Curley,F,'kɛː liː,10,12,2
+Conny,F,'kɑ niː,10,12,2
+Lloyd,F,'lɔɪd,1,12,1
+Cody,F,'koʊ diː,10,12,2
+Liliana,F,`lɪ liː 'æ nʌ,1010,12,4
+Lethia,F,'lɛ θiː ə,100,12,3
+Leonarda,F,lɛ 'nɑr də,010,12,3
+Albertina,F,ɑl bɛː 'tiː nʌ,0010,12,4
+Aloha,F,ə 'loʊ hɑ,010,12,3
+Alysia,F,ə 'lɪ siː ə,0100,12,4
+Anda,F,æn 'deɪ,01,12,2
+Arlena,F,'ɑr lɪ nʌ,100,12,3
+Arminda,F,ɑ 'mɪn dʌ,010,12,3
+Aura,F,'ɔː rə,10,12,2
+Belvia,F,'bɛl viː ə,100,12,3
+Brooks,F,'brʊks,1,12,1
+Buffy,F,'bə fiː,10,12,2
+Cammie,F,'kæ miː,10,12,2
+Carlin,F,'kɑr lɪn,10,12,2
+Carmine,F,'kɑr mən,10,12,2
+Carnell,F,'kɑr nəl,10,12,2
+Clarine,F,'klɛ riːn,10,12,2
+Clarita,F,klɑ 'riː tʌ,010,12,3
+Tyron,M,'taɪ ɹɑ,10,12,2
+Sean,F,'ʃɔːn,1,12,1
+Sylvia,M,'sɪl viː ə,100,12,3
+Fleming,M,'flɛ mɪŋ,10,12,2
+Dianne,M,daɪ 'æn,01,12,2
+Doren,M,'dɔː rən,10,12,2
+Dov,M,'dɑv,1,12,1
+Dylan,M,'dɪ lən,10,12,2
+Eben,M,'ɛ bən,10,12,2
+Essie,M,'ɛ siː,10,12,2
+Ewing,M,'juː ɪŋ,10,12,2
+Feliciano,M,fə liː siː 'ɑ noʊ,00010,12,5
+Finis,M,'fɪ ni,10,12,2
+Flint,M,'flɪnt,1,12,1
+Delane,M,'dɛ lən,10,12,2
+Garcia,M,`gɑr 'siː ə,110,12,3
+Garlan,M,'gɑr lən,10,12,2
+Gaspar,M,'gæ spɛː,10,12,2
+Gasper,M,'gæ spɛː,10,12,2
+Gentry,M,'ʤɛn triː,10,12,2
+Geraldine,M,ʤɛ rəl 'diːn,001,12,3
+Gibson,M,'gɪb sən,10,12,2
+Glover,M,'glʌ vɛː,10,12,2
+Gordie,M,'gɔːr diː,10,12,2
+Derk,M,'dɛːk,1,12,1
+Darin,M,'dæ rɪn,10,12,2
+Gregor,M,'grɛ gɛː,10,12,2
+Budd,M,'bʌd,1,12,1
+Adlai,M,ɑd 'lɑ iː,010,12,3
+Andrei,M,'æn `dreɪ,11,12,2
+Armstead,M,'ɑrm `stɛd,11,12,2
+Ashby,M,'æʃ biː,10,12,2
+Aubry,M,'ɔː briː,10,12,2
+Augusto,M,`ɔː 'gə stoʊ,110,12,3
+Benigno,M,`bɛ 'niː njoʊ,110,12,3
+Bernabe,M,'bɛː nəb,10,12,2
+Braxton,M,'bræk stən,10,12,2
+Burgess,M,'bɛː ʤəs,10,12,2
+Conan,M,'koʊ nən,10,12,2
+Buzz,M,'bəz,1,12,1
+Camillo,M,kə 'mɪ loʊ,010,12,3
+Carlin,M,'kɑr lɪn,10,12,2
+Carmon,M,'kɑr mən,10,12,2
+Cass,M,'kæs,1,12,1
+Chalmers,M,'ʧɑ mɛːz,10,12,2
+Charlotte,M,'ʃɑr lət,10,12,2
+Coby,M,'koʊ biː,10,12,2
+Collier,M,'kɑl jɛː,10,12,2
+Sumner,M,'səm nɛː,10,12,2
+Laveda,F,lɑ 'veɪ də,010,12,3
+Lehman,M,'liː mən,10,12,2
+Loye,M,'lɔɪ,1,12,1
+Liam,M,'liː əm,10,12,2
+Levert,M,'lɛ vɛːt,10,12,2
+Legrand,M,'lɛ grænd,10,12,2
+Lanier,M,lə 'nɪr,01,12,2
+Kym,M,'kɪm,1,12,1
+Kristen,M,'krɪ sən,10,12,2
+Kern,M,'kɛːn,1,12,1
+Keary,M,'kɪ riː,10,12,2
+Kane,M,'keɪn,1,12,1
+Jonothan,M,'ʤɑ nʌ θʌn,100,12,3
+Job,M,'ʤɑb,1,12,1
+Joanne,M,`ʤoʊ 'æn,11,12,2
+Jaye,M,'ʤeɪ,1,12,1
+Jac,M,'ʤæk,1,12,1
+Isom,M,'aɪ səm,10,12,2
+Hilbert,M,'hɪl bɛːt,10,12,2
+Hermann,M,'hɛː mən,10,12,2
+Herald,M,'hɛ rəld,10,12,2
+Harlow,M,'hɑr loʊ,10,12,2
+Lois,M,'loʊ əs,10,12,2
+Lindbergh,M,'lɪnd bɛːg,10,12,2
+Manford,M,'mæn fɛːd,10,12,2
+Parley,M,'pɑr liː,10,12,2
+Silvestre,M,siːl 'veɪ streɪ,010,12,3
+Sheridan,M,'ʃɛ rɪ dən,100,12,3
+Roni,M,'roʊ niː,10,12,2
+Roch,M,'rɑk,1,12,1
+Renwick,M,'rɛn wɪk,10,12,2
+Renato,M,rɛ 'nɑ toʊ,010,12,3
+Remy,M,'rɛ miː,10,12,2
+Perrin,M,'pɛ rɪn,10,12,2
+Payton,M,'peɪ tən,10,12,2
+Patterson,M,'pæ tɛː sən,100,12,3
+Nunzio,M,'nən ziː oʊ,100,12,3
+Norton,M,'nɔːr tən,10,12,2
+Mont,M,'mɑnt,1,12,1
+Milburn,M,'mɪl `bɛːn,11,12,2
+Mickie,M,'mɪ kiː,10,12,2
+Michelle,M,mɪ 'ʃɛl,01,12,2
+Merrell,M,'mɛ rəl,10,12,2
+Melville,M,'mɛl vɪl,10,12,2
+Vella,F,'vɛ lə,10,11,2
+Sylvana,F,sɪl 'væ nʌ,010,11,3
+Sylvester,F,sɪl 'vɛ stɛː,010,11,3
+Terrence,F,'tɛ rəns,10,11,2
+Vanna,F,'væ nʌ,10,11,2
+Ammie,F,'æ mi,10,11,2
+Vennie,F,'vɛ ni,10,11,2
+Violetta,F,viː oʊ 'lɛ tʌ,0010,11,4
+Vona,F,'voʊ nʌ,10,11,2
+Sharline,F,'ʃɑr `laɪn,11,11,2
+Shirlie,F,'ʃɛː liː,10,11,2
+Scotty,F,'skɑ tiː,10,11,2
+Anette,F,ə 'nɛt,01,11,2
+Dalila,F,də 'laɪ lə,010,11,3
+Hedwig,F,'hɛ dwɪg,10,11,2
+Garland,F,'gɑr lənd,10,11,2
+Frederick,F,'frɛ drɪk,10,11,2
+Emeline,F,'ɛ mɪ `laɪn,101,11,3
+Ellena,F,ɛ 'lɛ nʌ,010,11,3
+Early,F,'ɛː liː,10,11,2
+Duane,F,'dweɪn,1,11,1
+Drew,F,'druː,1,11,1
+Don,F,'dɑn,1,11,1
+Desma,F,'diː smʌ,10,11,2
+Delphina,F,dɛl 'fiː nʌ,010,11,3
+Cleopatra,F,`kliː ə 'pæ trə,1010,11,4
+Sam,F,'sæm,1,11,1
+Christen,F,'krɪ sən,10,11,2
+Almira,F,ɑl 'mɪ rə,010,11,3
+Charlet,F,'ʧɑr lɪt,10,11,2
+Char,F,'ʧɑr,1,11,1
+Carlis,F,'kɑ li,10,11,2
+Buena,F,'buː nʌ,10,11,2
+Astrid,F,'æ strɪd,10,11,2
+Arma,F,'ɑ mʌ,10,11,2
+Arleta,F,'ɑr lɪ tʌ,100,11,3
+Arie,F,'ɛ riː,10,11,2
+Ardelia,F,ɑr 'dɛ liː ə,0100,11,4
+Ivery,F,'aɪ vɛː iː,100,11,3
+Johann,F,'joʊ hɑn,10,11,2
+Joletta,F,ʤoʊ 'lɛ tʌ,010,11,3
+Jonathan,F,'ʤɑ nʌ θʌn,100,11,3
+Ruben,F,'ruː bən,10,11,2
+Rossie,F,'rɔː siː,10,11,2
+Rosellen,F,'roʊ zʌ lən,100,11,3
+Roanna,F,'roʊ nʌ,10,11,2
+Paddy,F,'pæ diː,10,11,2
+Nelle,F,'nɛl,1,11,1
+Myrta,F,'mɛː tʌ,10,11,2
+Milton,F,'mɪl tən,10,11,2
+Maud,F,'mɔːd,1,11,1
+Marthe,F,'mɑrð,1,11,1
+Marcela,F,mɑr 'ʧɛ lə,010,11,3
+Manda,F,'mæn də,10,11,2
+Maire,F,'mɛr,1,11,1
+Mai,F,'maɪ,1,11,1
+Macy,F,'meɪ siː,10,11,2
+Aaron,F,'ɛ rən,10,11,2
+Machell,F,'mæ ʃɛ,10,11,2
+Loretto,F,lɔː 'rɛ toʊ,010,11,3
+Lewis,F,'luː ɪs,10,11,2
+Laurena,F,lɔː 'rɛ nʌ,010,11,3
+Kismet,F,'kɪz mɪt,10,11,2
+Julieta,F,juː 'liː tʌ,010,11,3
+Aggie,F,'æ giː,10,11,2
+Josephina,F,ʤɑ sɪ 'faɪ nʌ,0010,11,4
+Charon,F,'kɛ rən,10,11,2
+Lash,M,'læʃ,1,11,1
+Langston,M,'læŋ stən,10,11,2
+Erin,M,'ɛ rɪn,10,11,2
+Erving,M,'ɛː vɪŋ,10,11,2
+Esaw,M,'ɛ sɔː,10,11,2
+Estill,M,eɪ 'stiːl,01,11,2
+Eustace,M,'juː stəs,10,11,2
+Filbert,M,'fɪl bɛːt,10,11,2
+French,M,'frɛnʧ,1,11,1
+Gilman,M,'gɪl mən,10,11,2
+Gilmer,M,'gɪl mɛː,10,11,2
+Glade,M,'gleɪd,1,11,1
+Glenda,M,'glɛn də,10,11,2
+Grafton,M,'græf tən,10,11,2
+Green,M,'griːn,1,11,1
+Hale,M,'heɪl,1,11,1
+Hebert,M,'hɛ bɛːt,10,11,2
+Helmut,M,'hɛl mət,10,11,2
+Hulon,M,'hjuː lən,10,11,2
+Jervis,M,'ʤɛː vɪs,10,11,2
+Jessee,M,'ʤɛ 'siː,11,11,2
+Jiles,M,'ʤaɪlz,1,11,1
+Josie,M,'ʤoʊ ziː,10,11,2
+Kalman,M,'kæl mən,10,11,2
+Kennan,M,'kɛ nən,10,11,2
+Ellwood,M,'ɛl `wʊd,11,11,2
+Eileen,M,aɪ 'liːn,01,11,2
+Doyal,M,dɔɪ 'ɑl,01,11,2
+Camille,M,kə 'miːl,01,11,2
+Adonis,M,æ 'dəʊ ni,010,11,3
+Albino,M,æl 'baɪ `noʊ,011,11,3
+Alice,M,'æ ləs,10,11,2
+Anders,M,'æn dɛːz,10,11,2
+Anne,M,'æn,1,11,1
+Antoni,M,ɑn 'toʊ niː,010,11,3
+Archibald,M,'ɑr ʧə `bɔːld,101,11,3
+Blayne,M,'bleɪn,1,11,1
+Buckley,M,'bə kliː,10,11,2
+Burney,M,'bɛː niː,10,11,2
+Carlisle,M,'kɑr `laɪl,11,11,2
+Donley,M,'dɑn liː,10,11,2
+Carney,M,'kɑr niː,10,11,2
+Caster,M,'kæ stɛː,10,11,2
+Chase,M,'ʧeɪs,1,11,1
+Colvin,M,'koʊl vɪn,10,11,2
+Conard,M,'kɑ nɛːd,10,11,2
+Cranston,M,'kræn stən,10,11,2
+Crist,M,'krɪst,1,11,1
+Delaney,M,də 'leɪ niː,010,11,3
+Dermot,M,'dɛː mət,10,11,2
+Dimas,M,'daɪ məz,10,11,2
+Laine,M,'leɪn,1,11,1
+Renny,M,'rɛ niː,10,11,2
+Saint,M,'seɪnt,1,11,1
+Redmond,M,'rɛd mənd,10,11,2
+Rolin,M,'roʊ lɪn,10,11,2
+Rossie,M,'rɔː siː,10,11,2
+Lawyer,M,'lɔː jɛː,10,11,2
+Salvadore,M,sɑl vɑ 'dɔː reɪ,0010,11,4
+Stratton,M,'stræ tən,10,11,2
+Sylvan,M,'sɪl vən,10,11,2
+Thelma,M,'θɛl mə,10,11,2
+Tory,M,'tɔː riː,10,11,2
+Ventura,M,vɛn 'ʧɛː ə,010,11,3
+Vick,M,'vɪk,1,11,1
+Vinny,M,'vɪ niː,10,11,2
+Waddell,M,wɑ 'dɛl,01,11,2
+Wanda,M,'wɑn də,10,11,2
+Washington,M,'wɑ ʃɪŋ tən,100,11,3
+Waylon,M,'weɪ `lɑn,11,11,2
+Winn,M,'wɪn,1,11,1
+Yale,M,'jeɪl,1,11,1
+Rikki,M,'rɪ kiː,10,11,2
+Reo,M,'riː oʊ,10,11,2
+Rae,M,'reɪ,1,11,1
+Marti,M,'mɑr tiː,10,11,2
+Lebron,M,'lɛ brən,10,11,2
+Lenton,M,'lɛn tən,10,11,2
+Lindley,M,'lɪnd liː,10,11,2
+Linsey,M,'lɪn ziː,10,11,2
+Loretta,M,lɛː 'ɛ tʌ,010,11,3
+Lorn,M,'lɔː,1,11,1
+Mare,M,'mɛr,1,11,1
+Marlen,M,'mɑr lən,10,11,2
+Marius,M,'mɛ riː əs,100,11,3
+Menachem,M,mə 'nɑ hʌm,010,11,3
+Nicola,M,nɪ 'koʊ lə,010,11,3
+Okey,M,'oʊ kiː,10,11,2
+Parris,M,'pɛ rɪs,10,11,2
+Perfecto,M,pʌ 'fɛk təʊ,010,11,3
+Perley,M,'pɛː liː,10,11,2
+Phill,M,'fɪ,1,11,1
+Purnell,M,'pɛː nəl,10,11,2
+Lemon,M,'lɛ mən,10,10,2
+Marino,M,mɛː 'iː noʊ,010,10,3
+Mackey,M,'mæ kiː,10,10,2
+Macarthur,M,mə 'kɑr θɛː,010,10,3
+Luiz,M,'luːz,1,10,1
+Markham,M,'mɑr kəm,10,10,2
+Lemmie,M,'lɛ miː,10,10,2
+Le,M,lə,0,10,1
+Laymon,M,'leɪ mən,10,10,2
+Lander,M,'læn dɛː,10,10,2
+Kenan,M,'kiː nən,10,10,2
+Martinez,M,mɑr 'tiː nɛz,010,10,3
+Arsenio,M,`ɑr 'siː niː oʊ,1100,10,4
+Matthews,M,'mæ θjuːz,10,10,2
+Barkley,M,'bɑr kliː,10,10,2
+Velma,M,'vɛl mə,10,10,2
+Verna,M,'vɛː nʌ,10,10,2
+Victoria,M,vɪk 'tɔː riː ə,0100,10,4
+Vonnie,M,'vɑ niː,10,10,2
+Wash,M,'wɑʃ,1,10,1
+Wellington,M,'wɛ lɪŋ tən,100,10,3
+Wolfgang,M,'wʊlf `gæŋ,11,10,2
+Yosef,M,'joʊ səf,10,10,2
+Garner,M,'gɑr nɛː,10,10,2
+Bartlett,M,'bɑrt lɪt,10,10,2
+Barrington,M,'bæ rɪŋ tən,100,10,3
+Barnard,M,'bɑr nɛːrd,10,10,2
+Ashton,M,'æʃ tən,10,10,2
+Valente,M,vɑ 'lɛn tiː,010,10,3
+Arvis,M,'ɑ vɪ,10,10,2
+Keefe,M,'kiːf,1,10,1
+Armon,M,'ɑr mən,10,10,2
+Aric,M,'æ rɪk,10,10,2
+Anita,M,ə 'niː tʌ,010,10,3
+Alwyn,M,'æl wɪn,10,10,2
+Alvino,M,ɑl 'viː noʊ,010,10,3
+Alpheus,M,'æl fɪ ʌ,100,10,3
+Almon,M,'ɑl mən,10,10,2
+Algernon,M,'æl ʤɛː nɑn,100,10,3
+Ahmed,M,'ɑ məd,10,10,2
+Adolf,M,'eɪ dɑlf,10,10,2
+Valerio,M,və 'liː riː oʊ,0100,10,4
+Tye,M,'taɪ,1,10,1
+Mervyn,M,'mɛː vɪn,10,10,2
+Roe,M,'roʊ,1,10,1
+Merwin,M,'mɛː wɪn,10,10,2
+Mick,M,'mɪk,1,10,1
+Mildred,M,'mɪl drɪd,10,10,2
+Moss,M,'mɔːs,1,10,1
+Neale,M,'niːl,1,10,1
+Odus,M,'əʊ dʌ,10,10,2
+Ovid,M,'əʊ vɪ,10,10,2
+Remo,M,'rɛ moʊ,10,10,2
+Ricard,M,rɪ 'kɑrd,01,10,2
+Roark,M,'rɔːrk,1,10,1
+Roc,M,'rɑk,1,10,1
+Rockne,M,'rɑk niː,10,10,2
+Ronda,M,'rɑn də,10,10,2
+Truett,M,'truːt,1,10,1
+Rosa,M,'roʊ zʌ,10,10,2
+Sally,M,'sæ liː,10,10,2
+Shayne,M,'ʃeɪn,1,10,1
+Shepard,M,'ʃɛ pɛːd,10,10,2
+Shon,M,'ʃɑn,1,10,1
+Sisto,M,'sɪ stoʊ,10,10,2
+Spero,M,'spɛ roʊ,10,10,2
+Spiro,M,'spɪ roʊ,10,10,2
+Stanely,M,'steɪn li,10,10,2
+Stephens,M,'stiː vənz,10,10,2
+Tandy,M,'tæn diː,10,10,2
+Terre,M,'tɛ rə,10,10,2
+Kemper,M,'kɛm pɛː,10,10,2
+Gilles,M,'ʒiːl,1,10,1
+Juanita,M,wɑ 'niː tʌ,010,10,3
+Mike,F,'maɪk,1,10,1
+Montie,F,'mɑn tiː,10,10,2
+Oksana,F,`ɑk 'sæ nʌ,110,10,3
+Orlanda,F,ɔːr 'lɑn də,010,10,3
+Panda,F,'pæn də,10,10,2
+Ree,F,'riː,1,10,1
+Renne,F,'rɛn,1,10,1
+Rochel,F,'ɹɑ tʃʌ,10,10,2
+Roe,F,'roʊ,1,10,1
+Rosary,F,'roʊ zɛː iː,100,10,3
+Rozelle,F,rə 'zɛl,01,10,2
+Salome,F,sə 'loʊ miː,010,10,3
+Samara,F,'sæ mɛː ə,100,10,3
+Selene,F,sə 'liːn,01,10,2
+Shasta,F,'ʃæ stə,10,10,2
+Sheba,F,'ʃiː bə,10,10,2
+Sherman,F,'ʃɛː mən,10,10,2
+Silver,F,'sɪl vɛː,10,10,2
+Steffi,F,'stɛ fiː,10,10,2
+Stevie,F,'stiː viː,10,10,2
+Susa,F,'suː sə,10,10,2
+Susy,F,'suː ziː,10,10,2
+Sylvania,F,sɪl 'veɪ niː ə,0100,10,4
+Tamie,F,'tæ mi,10,10,2
+Minta,F,'mɪn tʌ,10,10,2
+Merrell,F,'mɛ rəl,10,10,2
+Tobey,F,'toʊ biː,10,10,2
+Mella,F,'mɛ lə,10,10,2
+Haidee,F,'heɪ diː,10,10,2
+Holiday,F,'hɑ lə `deɪ,101,10,3
+Jacklin,F,'ʤæ klɪn,10,10,2
+Janny,F,'dʒæ ni,10,10,2
+Jaqueline,F,'dʒæ kwɪ `laɪ,101,10,3
+Karoline,F,'kɛ rə `laɪn,101,10,3
+Kathline,F,'kæθ `laɪn,11,10,2
+Keren,F,'kɛ ɹʌ,10,10,2
+Keven,F,'kiː vən,10,10,2
+Kip,F,'kɪp,1,10,1
+Lamar,F,lə 'mɑr,01,10,2
+Latonia,F,lɑ 'toʊ niː ə,0100,10,4
+Lavelle,F,lə 'vɛl,01,10,2
+Linden,F,'lɪn dən,10,10,2
+Lolly,F,'lɑ liː,10,10,2
+Lotus,F,'loʊ təs,10,10,2
+Lovely,F,'lʌv liː,10,10,2
+Mallie,F,'mɔː liː,10,10,2
+Malva,F,'mɑl və,10,10,2
+Mar,F,'mɑr,1,10,1
+Marlin,F,'mɑr lən,10,10,2
+Maryland,F,'mɛ rə lənd,100,10,3
+Maybelle,F,`meɪ 'bɛl,11,10,2
+Thora,F,'θɔː rə,10,10,2
+Tula,F,'tuː lə,10,10,2
+Gari,F,'gɑ riː,10,10,2
+Cindy,M,'sɪn diː,10,10,2
+Cleven,M,'kliː vən,10,10,2
+Clif,M,'klɪf,1,10,1
+Colbert,M,'koʊl bɛːt,10,10,2
+Curry,M,'kə riː,10,10,2
+Darlene,M,'dɑr `liːn,11,10,2
+Deno,M,'diː noʊ,10,10,2
+Derik,M,'dɛ rɪk,10,10,2
+Devan,M,'dɛ vən,10,10,2
+Devere,M,deɪ 'vɛ reɪ,010,10,3
+Dickson,M,'dɪk sən,10,10,2
+Dieter,M,'diː tɛː,10,10,2
+Doc,M,'dɑk,1,10,1
+Domenico,M,doʊ 'meɪ niː koʊ,0100,10,4
+Dow,M,'daʊ,1,10,1
+Durrell,M,'dɔː rəl,10,10,2
+Egbert,M,'ɛg bɛːt,10,10,2
+Elam,M,'ɛ ləm,10,10,2
+Elgie,M,'ɛl ʤiː,10,10,2
+Elson,M,'ɛl sən,10,10,2
+Erol,M,'ɛ rəl,10,10,2
+Farren,M,'fɛ rən,10,10,2
+Gaither,M,'geɪ θɛː,10,10,2
+Gar,M,'gɑr,1,10,1
+Clell,M,'klɛl,1,10,1
+Chucky,M,'tʃʌ ki,10,10,2
+Tyrone,F,`taɪ 'roʊn,11,10,2
+Chuckie,M,'ʧə kiː,10,10,2
+Vali,F,'vɑ li,10,10,2
+Vee,F,'viː,1,10,1
+Veronique,F,`vɛ rɑ 'niːk,101,10,3
+Virgil,F,'vɛː ʤəl,10,10,2
+Wallace,F,'wɔː ləs,10,10,2
+Wesley,F,'wɛ sliː,10,10,2
+Whitney,F,'wɪt niː,10,10,2
+Zenaida,F,zɪ 'neɪ də,010,10,3
+Jimi,M,'ʤɪ miː,10,10,2
+Bartolo,M,bɑr 'toʊ loʊ,010,10,3
+Beecher,M,'biː ʧɛː,10,10,2
+Bertha,M,'bɛː θə,10,10,2
+Blaze,M,'bleɪz,1,10,1
+Bo,M,'boʊ,1,10,1
+Brennan,M,'brɛ nən,10,10,2
+Broadus,M,'broʊ dəs,10,10,2
+Brown,M,'braʊn,1,10,1
+Campbell,M,'kæm bəl,10,10,2
+Carmel,M,kɑr 'mɛl,01,10,2
+Carvin,M,'kɑr vɪn,10,10,2
+Cesario,M,ʧɛ 'sɑ riː oʊ,0100,10,4
+Chancey,M,'ʧæn siː,10,10,2
+Christen,M,'krɪ sən,10,10,2
+Glady,F,'ɡleɪ di,10,10,2
+Zev,M,'zɛv,1,10,1
+Benjamin,F,'bɛn ʤə mən,100,10,3
+Janis,M,'ʤæ nɪs,10,10,2
+Anise,F,'æ nəs,10,10,2
+Aldora,F,ɑl 'dɔː rə,010,10,3
+Gust,M,'gəst,1,10,1
+Harper,M,'hɑr pɛː,10,10,2
+Harvard,M,'hɑr vɛːd,10,10,2
+Harvie,M,'hɑr viː,10,10,2
+Heath,M,'hiːθ,1,10,1
+Heber,M,'hiː bɛː,10,10,2
+Heinz,M,'haɪnz,1,10,1
+Donalda,F,doʊ 'nɑl də,010,10,3
+Dulcie,F,'dəl kiː,10,10,2
+Dwana,F,'dwɑ nʌ,10,10,2
+Earnest,F,'ɛː nɪst,10,10,2
+Erminia,F,ɛː 'miː niː ə,0100,10,4
+Evan,F,'ɛ vən,10,10,2
+Eydie,F,'eɪ diː,10,10,2
+Felicity,F,fɪ 'lɪ sə tiː,0100,10,4
+Fernanda,F,fɛː 'næn də,010,10,3
+Francies,F,frən 'siːz,01,10,2
+Hernando,M,hɛː 'nɑn doʊ,010,10,3
+Hodges,M,'hɑ ʤɪz,10,10,2
+Hoyle,M,'hɔɪl,1,10,1
+Inez,M,ɪ 'nɛz,01,10,2
+Ardath,F,'ɑr dəθ,10,10,2
+Arlana,F,ɑr 'læ nʌ,010,10,3
+Arlyne,F,'ɑr `laɪn,11,10,2
+Cordie,F,'kɔːr diː,10,10,2
+Devera,F,deɪ 'vɛ rə,010,10,3
+Deva,F,'deɪ və,10,10,2
+Denny,F,'dɛ niː,10,10,2
+Demaris,F,'dɛ mɛː ɪs,100,10,3
+Delise,F,'dɛ laɪz,10,10,2
+Day,F,'deɪ,1,10,1
+Darien,F,'dɛ riː ən,100,10,3
+Dan,F,'dæn,1,10,1
+Daisey,F,'deɪ siː,10,10,2
+Dail,F,'deɪl,1,10,1
+Clifford,F,'klɪ fɛːd,10,10,2
+Asta,F,'ɑ stə,10,10,2
+Christian,F,'krɪs ʧən,10,10,2
+Charis,F,kʌ 'ɹɪ,01,10,2
+Celestina,F,ʧɛ lɛ 'stiː nʌ,0010,10,4
+Celene,F,'ʧɛ liːn,10,10,2
+Carlon,F,'kɑr lən,10,10,2
+Cam,F,'kæm,1,10,1
+Burnell,F,'bɛː nəl,10,10,2
+Bryna,F,'brɪ nʌ,10,10,2
+Bobbette,F,'bɑ 'bɛt,11,10,2
+Barri,F,'bæ ɹi,10,10,2
+Irene,M,aɪ 'riːn,01,10,2
+Eleni,F,ɪ 'lɛ ni,010,10,3
+Mae,M,'meɪ,1,9,1
+Sterling,F,'stɛː lɪŋ,10,9,2
+Tijuana,F,tɪ 'wɑ nʌ,010,9,3
+Tira,F,'teɪ ʌ ɹʌ,100,9,3
+Treasure,F,'trɛ ʒɛː,10,9,2
+Trixie,F,'trɪk siː,10,9,2
+Valera,F,və 'lɛ rə,010,9,3
+Wander,F,'wɑn dɛː,10,9,2
+Willis,F,'wɪ lɪs,10,9,2
+Yevette,F,jɪ 'vɛt,01,9,2
+Zara,F,'zæ rə,10,9,2
+Zenia,F,'zeɪ niː ə,100,9,3
+Weyman,M,'weɪ mən,10,9,2
+Wallis,M,'wɔː lɪs,10,9,2
+Waldemar,M,'vɑl də mɑr,100,9,3
+Vinnie,M,'vɪ niː,10,9,2
+Uriah,M,jʊə 'ɹaɪ ʌ,010,9,3
+Tristan,M,'trɪ `stæn,11,9,2
+Toy,M,'tɔɪ,1,9,1
+Tilford,M,'tɪl fɛːd,10,9,2
+Taras,M,'tɑ rəz,10,9,2
+Stonewall,M,'stoʊn `wɔːl,11,9,2
+Spence,M,'spɛns,1,9,1
+Tatiana,F,`tæ `tiː 'æ nʌ,1110,9,4
+Stephania,F,stɪ 'fæ niː ə,0100,9,4
+Lundy,M,'lən diː,10,9,2
+Stephana,F,stɛ 'fɑ nʌ,010,9,3
+Meghan,F,'mɛ gən,10,9,2
+Windsor,M,'wɪn zɛː,10,9,2
+Micah,F,'maɪ kə,10,9,2
+Moreen,F,mɔː 'riːn,01,9,2
+Neal,F,'niːl,1,9,1
+Neoma,F,neɪ 'oʊ mə,010,9,3
+Oliva,F,oʊ 'liː və,010,9,3
+Ozzie,F,'ɑ ziː,10,9,2
+Poppy,F,'pɑ piː,10,9,2
+Prince,F,'prɪns,1,9,1
+Racine,F,rə 'siːn,01,9,2
+Rama,F,'rɑ mə,10,9,2
+Ricardo,F,rɪ 'kɑr doʊ,010,9,3
+Rima,F,'riː mə,10,9,2
+Robby,F,'rɑ biː,10,9,2
+Roosevelt,F,'roʊ zʌ `vɛlt,101,9,3
+Rudy,F,'ruː diː,10,9,2
+Selinda,F,sɛ 'liːn də,010,9,3
+Shearon,F,'ʃɪ rən,10,9,2
+Shira,F,'ʃɪ rə,10,9,2
+Silva,F,'sɪl və,10,9,2
+Skippy,M,'skɪ piː,10,9,2
+Rudell,M,'rə dəl,10,9,2
+Roswell,M,'rɑ swɛl,10,9,2
+Rommel,M,'rɑ məl,10,9,2
+Marvella,F,`mɑr 'vɛ lə,110,9,3
+Morrison,M,'mɔː rɪ sən,100,9,3
+Montez,M,moʊn 'tɛz,01,9,2
+Meryl,M,'mɛ rəl,10,9,2
+Melchor,M,'mɛl ʧɛː,10,9,2
+Melburn,M,'mɛl bɛːn,10,9,2
+Meade,M,'miːd,1,9,1
+Mccoy,M,mə 'kɔɪ,01,9,2
+Maximiliano,M,`mæk sɪ mɪ 'leɪ ʌ nəʊ,100100,9,6
+Martie,M,'mɑr tiː,10,9,2
+Marsh,M,'mɑrʃ,1,9,1
+Mar,M,'mɑr,1,9,1
+Mansfield,M,'mænz `fiːld,11,9,2
+Lavan,M,'leɪ vən,10,9,2
+Lemar,M,lɪ 'mɑr,01,9,2
+Leonidas,M,'leɪ ʌ nɪ dʌ,1000,9,4
+Lesly,M,'lɛz li,10,9,2
+Levell,M,leɪ 'veɪl,01,9,2
+Levin,M,'lɛ vɪn,10,9,2
+Lowery,M,'laʊ ɛː iː,100,9,3
+Loyce,M,'lɔɪs,1,9,1
+Nixon,M,'nɪk sən,10,9,2
+Oakley,M,'oʊ kliː,10,9,2
+Obed,M,'əʊb,1,9,1
+Rinaldo,M,rɪ 'nɑl doʊ,010,9,3
+Rolly,M,'roʊ liː,10,9,2
+Rollins,M,'rɑ lɪnz,10,9,2
+Rodd,M,'rɑd,1,9,1
+Rocklin,M,'rɑ klɪn,10,9,2
+Rockford,M,'rɑk fɛːd,10,9,2
+Harrold,M,'hɛ rəld,10,9,2
+Rochester,M,'rɑ `ʧɛ stɛː,110,9,3
+Rochelle,M,roʊ 'ʃɛl,01,9,2
+Rip,M,'rɪp,1,9,1
+Ricke,M,'rɪk,1,9,1
+Obert,M,'ɑ bɛːt,10,9,2
+Rexall,M,'rɛk `sɔːl,11,9,2
+Ren,M,'rɛn,1,9,1
+Remus,M,'riː məs,10,9,2
+Regina,M,rɪ 'ʤiː nʌ,010,9,3
+Raven,M,'reɪ vən,10,9,2
+Pressley,M,'prɛ sliː,10,9,2
+Philemon,M,'faɪl mʌ,10,9,2
+Orvin,M,'ɔːr vɪn,10,9,2
+Orlan,M,'ɔːr lən,10,9,2
+Maya,F,'maɪ ə,10,9,2
+Hardie,M,'hɑr diː,10,9,2
+Marquerite,F,mɑr gɛː 'iːt,001,9,3
+Carle,M,'kɑ rəl,10,9,2
+Bland,M,'blænd,1,9,1
+Brantley,M,'brænt liː,10,9,2
+Briant,M,'braɪ ənt,10,9,2
+Brodie,M,'broʊ tiː,10,9,2
+Burr,M,'bɛː,1,9,1
+Butler,M,'bət lɛː,10,9,2
+Christophel,M,'krɪ stə fɛl,100,9,3
+Devaughn,M,'dɛ vɔːn,10,9,2
+Claudius,M,'klɔː diː əs,100,9,3
+Cline,M,'klaɪn,1,9,1
+Connor,M,'kɑ nɛː,10,9,2
+Dail,M,'deɪl,1,9,1
+Danford,M,'dæn fɛːd,10,9,2
+Darrin,M,'dæ ɹɪ,10,9,2
+Bing,M,'bɪŋ,1,9,1
+Billey,M,'bɪ lɪ,10,9,2
+Bevan,M,'bɛ vən,10,9,2
+Bethel,M,'bɛ θəl,10,9,2
+Benn,M,'bɛn,1,9,1
+Benjy,M,'bɛn ʤiː,10,9,2
+Belvin,M,'bɛl vɪn,10,9,2
+Beatrice,M,'biː ə trəs,100,9,3
+Barre,M,'bɛ riː,10,9,2
+Baird,M,'bɛrd,1,9,1
+Audley,M,'ɔːd lɪ,10,9,2
+Ames,M,'eɪmz,1,9,1
+Alroy,M,əl 'rɔɪ,01,9,2
+Alonso,M,ə 'lɑn soʊ,010,9,3
+Alois,M,ɑ 'lɔɪs,01,9,2
+Aldwin,M,'ɔːl dwɪn,10,9,2
+Aldrich,M,'ɔːl drɪʧ,10,9,2
+Dawn,M,'dɔːn,1,9,1
+Dirck,M,'dəː,1,9,1
+Albina,F,ɑl 'biː nʌ,010,9,3
+Jaycee,M,'ʤeɪ 'siː,11,9,2
+Laval,M,lə 'vɑl,01,9,2
+Kreg,M,'krɛg,1,9,1
+Karol,M,'kɛ rɔːl,10,9,2
+Kal,M,'kæl,1,9,1
+Judah,M,'ʤuː də,10,9,2
+Johan,M,joʊ 'hɑn,01,9,2
+Marlo,F,'mɑr loʊ,10,9,2
+Doak,M,'doʊk,1,9,1
+Hollie,M,'hɑ liː,10,9,2
+Herschell,M,'hɛː ʃəl,10,9,2
+Hernan,M,'hɛː nən,10,9,2
+Hendrik,M,'hɛn drɪk,10,9,2
+Harvest,M,'hɑr vəst,10,9,2
+Hartley,M,'hɑrt liː,10,9,2
+Harald,M,'hɑ rəld,10,9,2
+Hamp,M,'hæmp,1,9,1
+Gurney,M,'gɛː niː,10,9,2
+Governor,M,'gə vɛː nɛː,100,9,3
+Gerhardt,M,'gɛː hɑrt,10,9,2
+Georgie,M,'ʤɔːr ʤiː,10,9,2
+Geoffry,M,'dʒɛ fɹi,10,9,2
+Francois,M,frɑn 'swɑ,01,9,2
+Flavio,M,'flɑ viː oʊ,100,9,3
+Fate,M,'feɪt,1,9,1
+Ethel,M,'ɛ θəl,10,9,2
+Erle,M,'ɔː rəl,10,9,2
+Encarnacion,M,ɪn kɑr nɑ siː 'ɔːn,00001,9,5
+Ellen,M,'ɛ lən,10,9,2
+Einar,M,'aɪ nɛː,10,9,2
+Edna,M,'ɛd nʌ,10,9,2
+Duran,M,dɛː 'æn,01,9,2
+Adelbert,M,ə 'dɛl bɛːt,010,9,3
+Horatio,M,hɛː 'eɪ ʃoʊ,010,9,3
+Allegra,F,ɑ 'lɛ grə,010,9,3
+Ilsa,F,'ɪl sə,10,9,2
+Juline,F,'ʤuː laɪn,10,9,2
+Julian,F,'ʤuː liː ən,100,9,3
+Jone,F,'ʤoʊn,1,9,1
+Joice,F,'ʤɔɪs,1,9,1
+Jocelyne,F,'ʤɔː `slɪn,11,9,2
+Janeane,F,'ʤeɪ `næn,11,9,2
+Icy,F,'aɪ siː,10,9,2
+Kerin,F,'kɛ rɪn,10,9,2
+Hilde,F,'hɪld,1,9,1
+Hermine,F,'hɛː mɪn,10,9,2
+Henri,F,'hɛn riː,10,9,2
+Harvey,F,'hɑr viː,10,9,2
+Gioia,F,'ʤoʊ jʌ,10,9,2
+Garnette,F,gɑr 'nɛt,01,9,2
+Katharina,F,`kæ θɛ 'riː nʌ,1010,9,4
+Kitt,F,'kɪt,1,9,1
+Fancy,F,'fæn siː,10,9,2
+Loria,F,'lɔː riː ə,100,9,3
+Angeles,F,'æn ʤə lɪs,100,9,3
+Marinda,F,mʌ 'ɹɪn dʌ,010,9,3
+Lucina,F,'lʉː sɪ nʌ,100,9,3
+Lourie,F,'laʊ riː,10,9,2
+Louie,F,luː 'iː,01,9,2
+Lorin,F,'lɔː rɪn,10,9,2
+Lil,F,'lɪl,1,9,1
+Lala,F,'lɑ lə,10,9,2
+Leo,F,'liː oʊ,10,9,2
+Lawrie,F,'lɔː riː,10,9,2
+Laurin,F,'lɔː rɪn,10,9,2
+Lauria,F,'lɔː riː ə,100,9,3
+Lassie,F,'læ siː,10,9,2
+Larena,F,lɑ 'rɛ nʌ,010,9,3
+Floyd,F,'flɔɪd,1,9,1
+Melisse,F,'mɛ lɪs,10,9,2
+Ether,F,'iː θɛː,10,9,2
+Calista,F,kə 'lɪ stə,010,9,3
+Carter,F,'kɑr tɛː,10,9,2
+Carlen,F,'kɑr lən,10,9,2
+Carissa,F,kɑ 'riː sə,010,9,3
+Carie,F,'kɛ riː,10,9,2
+Candia,F,'kæn diː ə,100,9,3
+Cammy,F,'kæ miː,10,9,2
+Bonne,F,'bɑn,1,9,1
+Charlott,F,'tʃɑ lɑ,10,9,2
+Bina,F,'biː nʌ,10,9,2
+Bea,F,'biː,1,9,1
+Audrie,F,'ɔː dɛː iː,100,9,3
+Ara,F,'æ rə,10,9,2
+Ellice,F,'ɛ lɪs,10,9,2
+Antonio,F,æn 'toʊ niː oʊ,0100,9,4
+Charlot,F,'ʧɑr lət,10,9,2
+Arliss,F,'ɑ lɪ,10,9,2
+China,F,'ʧaɪ nʌ,10,9,2
+Donis,F,'doʊ nɪs,10,9,2
+Concha,F,'kɑn ʧə,10,9,2
+Edina,F,ə 'diː nʌ,010,9,3
+Earlie,F,'ɛː liː,10,9,2
+Dusty,F,'də stiː,10,9,2
+Duana,F,duː 'æ nʌ,010,9,3
+Elberta,F,ɛl 'bɛr tʌ,010,9,3
+Donia,F,'doʊ niː ə,100,9,3
+Daren,F,'dæ rɪn,10,9,2
+Dacia,F,'deɪ ʃiː ə,100,9,3
+Doe,F,'doʊ,1,9,1
+Elfreda,F,ɛl 'frɛ də,010,9,3
+De,F,'diː,1,9,1
+Diamantina,F,`daɪ ʌ mɑn 'ti nʌ,10010,9,5
+Gussie,M,'gə siː,10,8,2
+Ivar,M,'ɪ vɛː,10,8,2
+Knox,M,'nɑks,1,8,1
+Kinney,M,'kɪ niː,10,8,2
+Kingsley,M,'kɪŋz liː,10,8,2
+Johann,M,'joʊ hɑn,10,8,2
+Joachim,M,`joʊ 'ɑ kɪm,110,8,3
+Jessy,M,'ʤɛ siː,10,8,2
+Jensen,M,'ʤɛn sən,10,8,2
+Jenny,M,'ʤɛ niː,10,8,2
+Jamison,M,'ʤeɪ mɪ sən,100,8,3
+Jae,M,'ʤeɪ,1,8,1
+Jade,M,'ʤeɪd,1,8,1
+Justino,M,ʤə 'stiː noʊ,010,8,3
+Hersey,M,'hɛː siː,10,8,2
+Irvine,M,'ɛː vaɪn,10,8,2
+Hy,M,'haɪ,1,8,1
+Hunt,M,'hʌnt,1,8,1
+Holmes,M,'hoʊmz,1,8,1
+Holden,M,'hoʊl dən,10,8,2
+Hinton,M,'hɪn tən,10,8,2
+Haven,M,'heɪ vən,10,8,2
+Harve,M,'hɑrv,1,8,1
+Hartwell,M,'hɑr `twɛl,11,8,2
+Harden,M,'hɑr dən,10,8,2
+Hanson,M,'hæn sən,10,8,2
+Gwendolyn,M,'gwɛn də lɪn,100,8,3
+Gustav,M,'gʊ stɑf,10,8,2
+Lasalle,M,lə 'sæl,01,8,2
+Lansing,M,'læn sɪŋ,10,8,2
+Mauri,M,'mɔː riː,10,8,2
+Laurens,M,'lɔː rənz,10,8,2
+Mayfield,M,'meɪ `fiːld,11,8,2
+Pal,M,'pæl,1,8,1
+Orvis,M,'ɔːr vɪs,10,8,2
+Orson,M,'ɔːr sən,10,8,2
+Myers,M,'maɪ ɛːz,10,8,2
+Murrell,M,'mɔː rəl,10,8,2
+Morrie,M,'mɔː riː,10,8,2
+Morey,M,'mɔː riː,10,8,2
+Milledge,M,'mɪ lɪʤ,10,8,2
+Mikey,M,'maɪ kiː,10,8,2
+Mikal,M,'miː kəl,10,8,2
+Mickle,M,'mɪ kəl,10,8,2
+Merwyn,M,'mɛː wɪn,10,8,2
+Merril,M,'mɛ ɹʌ,10,8,2
+Maxey,M,'mæk siː,10,8,2
+Layman,M,'leɪ mən,10,8,2
+Gordan,M,'gɔːr dən,10,8,2
+Mathis,M,'mæ θɪs,10,8,2
+Marvel,M,'mɑr vəl,10,8,2
+Marquette,M,mɑr 'kɛt,01,8,2
+Marciano,M,mɑr ʧiː 'ɑ noʊ,0010,8,4
+Manning,M,'mæ nɪŋ,10,8,2
+Mandell,M,'mæn dəl,10,8,2
+Magdaleno,M,mɑg dɑ 'leɪ noʊ,0010,8,4
+Lynne,M,'lɪn,1,8,1
+Lillian,M,'lɪ liː ən,100,8,3
+Lendon,M,'lɛn dʌ,10,8,2
+Leith,M,'liːθ,1,8,1
+Lazarus,M,'læ zɛː əs,100,8,3
+Gorman,M,'gɔːr mən,10,8,2
+Dillon,M,'dɪ lən,10,8,2
+Giulio,M,'ʤuː liː oʊ,100,8,3
+Beth,M,'bɛθ,1,8,1
+Cassius,M,'kæ sɪ ʌ,100,8,3
+Casimiro,M,kɑ siː 'mɪ roʊ,0010,8,4
+Carver,M,'kɑr vɛː,10,8,2
+Carry,M,'kæ riː,10,8,2
+Carlon,M,'kɑr lən,10,8,2
+Byrd,M,'bɛːd,1,8,1
+Burleigh,M,'bɛː lə,10,8,2
+Burdette,M,bɛː 'dɛt,01,8,2
+Burdell,M,bɛː 'dɛl,01,8,2
+Buel,M,'bjuːl,1,8,1
+Buddie,M,'bə diː,10,8,2
+Bryn,M,'brɪn,1,8,1
+Brownie,M,'braʊ niː,10,8,2
+Berwyn,M,'bɛː wɪn,10,8,2
+Channing,M,'ʧæ nɪŋ,10,8,2
+Berkeley,M,'bɛː kliː,10,8,2
+Barnell,M,'bɑr nəl,10,8,2
+Bard,M,'bɑrd,1,8,1
+Ballard,M,'bæ lɛːd,10,8,2
+Artist,M,'ɑr təst,10,8,2
+Armin,M,'ɑr mən,10,8,2
+Alwin,M,'æl wɪn,10,8,2
+Alvan,M,'æl vən,10,8,2
+Alpha,M,'æl fə,10,8,2
+Alicia,M,ə 'lɪ ʃə,010,8,3
+Admiral,M,'æd mɛː əl,100,8,3
+Adams,M,'æ dəmz,10,8,2
+Philipp,M,'fɪ lɪp,10,8,2
+Cephas,M,'sɛ fəz,10,8,2
+Charls,M,'ʧɑrlz,1,8,1
+Giacomo,M,'ʤɑ kə moʊ,100,8,3
+Dmitri,M,də 'miː triː,010,8,3
+Georgia,M,'ʤɔːr ʤə,10,8,2
+Gean,M,'ʤiːn,1,8,1
+Friedrich,M,'friː drɪk,10,8,2
+Finn,M,'fɪn,1,8,1
+Festus,M,'fɛ stəs,10,8,2
+Fausto,M,'fɔː stoʊ,10,8,2
+Evander,M,`iː 'væn dɛː,110,8,3
+Eugen,M,'jʉː dʒʌ,10,8,2
+Essex,M,'ɛ sɪks,10,8,2
+English,M,'ɪŋ glɪʃ,10,8,2
+Edrick,M,'ɛ dɹɪ,10,8,2
+Edric,M,'ɛ drɪk,10,8,2
+Dyke,M,'daɪk,1,8,1
+Dietrich,M,'diː trɪk,10,8,2
+Claire,M,'klɛr,1,8,1
+Dene,M,'di,1,8,1
+Delta,M,'dɛl tʌ,10,8,2
+Deland,M,dɪ 'lænd,01,8,2
+Danna,M,'dæ nʌ,10,8,2
+Dalen,M,'dæ lən,10,8,2
+Dal,M,'dæl,1,8,1
+Curly,M,'kɛː liː,10,8,2
+Cregg,M,'krɛg,1,8,1
+Creed,M,'kriːd,1,8,1
+Cosimo,M,kʌ 'sɪ məʊ,010,8,3
+Con,M,'kɑn,1,8,1
+Clearance,M,'klɪ rəns,10,8,2
+Claus,M,'klɔːz,1,8,1
+Champ,M,'ʧæmp,1,8,1
+Parks,M,'pɑrks,1,8,1
+Plummer,M,'plə mɛː,10,8,2
+Gean,F,'ʤiːn,1,8,1
+Devita,F,dɪ 'viː tʌ,010,8,3
+Dia,F,'diː ə,10,8,2
+Doloris,F,'dɑ lɔː `ɹɪ,101,8,3
+Dorena,F,'dɔː rɪ nʌ,100,8,3
+Dyana,F,daɪ 'æ nʌ,010,8,3
+Dyane,F,daɪ 'æn,01,8,2
+Elenore,F,'ɛ lɪ nɛː,100,8,3
+Elinore,F,ɛ liː 'nɔː riː,0010,8,4
+Emelie,F,'ɛ mə liː,100,8,3
+Emely,F,ɪ 'mɛ li,010,8,3
+Francoise,F,fræn 'swɑz,01,8,2
+Fritzi,F,'friːt ziː,10,8,2
+Garry,F,'gæ riː,10,8,2
+Gerda,F,'gɛː də,10,8,2
+Deloria,F,dɛ 'lɔː riː ə,0100,8,4
+Grady,F,'greɪ diː,10,8,2
+Honor,F,'ɑ nɛː,10,8,2
+Horace,F,'hɔː rəs,10,8,2
+Huberta,F,huː 'bɛr tʌ,010,8,3
+Hyacinth,F,'haɪ ə `sɪnθ,101,8,3
+Jackelyn,F,'ʤæ kɪ lɪn,100,8,3
+Jarvis,F,'ʤɑr vəs,10,8,2
+Jen,F,'ʤɛn,1,8,1
+Jermaine,F,ʤɛː 'meɪn,01,8,2
+Jesus,F,'ʤiː zəs,10,8,2
+Jolly,F,'ʤɑ liː,10,8,2
+Juel,F,'ʤuːl,1,8,1
+Julius,F,'ʤuːl jəs,10,8,2
+Despina,F,dɪ 'spɪ nʌ,010,8,3
+Dane,F,'deɪn,1,8,1
+Kam,F,'kæm,1,8,1
+Burdette,F,bɛː 'dɛt,01,8,2
+Alessandra,F,`æ lɛ 'sæn drə,1010,8,4
+Alicea,F,ə 'lɪ siː ə,0100,8,4
+Alonzo,F,ə 'lɑn zoʊ,010,8,3
+Andy,F,'æn diː,10,8,2
+Angelo,F,'æn ʤə `loʊ,101,8,3
+Raiford,M,'reɪ fɛːd,10,8,2
+Arva,F,'ɑr və,10,8,2
+Ashley,F,'æ ʃliː,10,8,2
+Aubrey,F,'ɔː briː,10,8,2
+Aurea,F,aʊ 'reɪ ɑ,010,8,3
+Avril,F,'æv rɪl,10,8,2
+Brandon,F,'bræn dən,10,8,2
+Bryce,F,'braɪs,1,8,1
+Candelaria,F,kɑn dɛ 'lɑ riː ə,00100,8,5
+Correne,F,'kɔː riːn,10,8,2
+Carmon,F,'kɑr mən,10,8,2
+Chriss,F,'krɪs,1,8,1
+Chrissie,F,'krɪ siː,10,8,2
+Christe,F,'kɹɪs,1,8,1
+Christiana,F,`krɪ stiː 'æ nʌ,1010,8,4
+Claude,F,'klɔːd,1,8,1
+Clovis,F,'kloʊ vɪs,10,8,2
+Collen,F,'kɑ lən,10,8,2
+Colletta,F,koʊ 'lɛ tʌ,010,8,3
+Conception,F,kən 'sɛp ʃən,010,8,3
+Cordy,F,'kɔːr diː,10,8,2
+Corinna,F,`kɔː 'rɪ nʌ,110,8,3
+Cornelius,F,kɔːr 'niːl jəs,010,8,3
+Jung,F,'jʊŋ,1,8,1
+Karn,F,'kɑrn,1,8,1
+Percival,M,'pɛː sɪ vəl,100,8,3
+Sunni,F,'suː niː,10,8,2
+Roland,F,'roʊ lənd,10,8,2
+Romana,F,ɹəʊ 'mɑ nʌ,010,8,3
+Rosalinde,F,'ɹəʊ sæ `lɪn,101,8,3
+Rosy,F,'roʊ ziː,10,8,2
+Serene,F,sɛː 'iːn,01,8,2
+Shea,F,'ʃeɪ,1,8,1
+Sierra,F,siː 'ɛ rə,010,8,3
+Sina,F,'si nʌ,10,8,2
+Sissy,F,'sɪ siː,10,8,2
+Slyvia,F,'slaɪ vi ʌ,100,8,3
+Sophronia,F,soʊ 'froʊ niː ə,0100,8,4
+Stasia,F,'stæ zeɪ ʌ,100,8,3
+Sun,F,'sən,1,8,1
+Susi,F,'suː siː,10,8,2
+Roberto,F,rə 'bɛr toʊ,010,8,3
+Talitha,F,'tæ lɪ ðə,100,8,3
+Tarry,F,'tɛ riː,10,8,2
+Toma,F,'toʊ mə,10,8,2
+Toye,F,'tɔɪ,1,8,1
+Valeda,F,vɑ 'leɪ də,010,8,3
+Vashti,F,'væʃ tiː,10,8,2
+Vendetta,F,vɛn 'dɛ tʌ,010,8,3
+Verba,F,'vɛr bə,10,8,2
+Verena,F,vɛː 'eɪ nʌ,010,8,3
+Verma,F,'vɛr mə,10,8,2
+Violette,F,`viː oʊ 'lɛt,101,8,3
+Warren,F,'wɔː rən,10,8,2
+Zelia,F,'zɛ liː ə,100,8,3
+Rocky,F,'rɑ kiː,10,8,2
+Quintina,F,kwiːn 'tiː nʌ,010,8,3
+Kathalene,F,kæ θə 'liːn,001,8,3
+Marchetta,F,mɑr 'kɛ tʌ,010,8,3
+Kimba,F,'kɪm bə,10,8,2
+Lalita,F,lə 'liː tʌ,010,8,3
+Leanore,F,'li nɔː,10,8,2
+Leonie,F,'lɛ niː,10,8,2
+Lesly,F,'lɛz li,10,8,2
+Lilliana,F,lɪ liː 'æ nʌ,0010,8,4
+Linde,F,'lɪnd,1,8,1
+Linder,F,'lɪn dɛː,10,8,2
+Lyle,F,'laɪl,1,8,1
+Mahalia,F,mə 'hæ liː ə,0100,8,4
+Malvina,F,mɑl 'viː nʌ,010,8,3
+Manon,F,mɑ 'nɔːn,01,8,2
+Marc,F,'mɑrk,1,8,1
+Mariah,F,mɛː 'aɪ ə,010,8,3
+Pinky,F,'pɪŋ kiː,10,8,2
+Marica,F,'mæ ɹɪ kʌ,100,8,3
+Marlon,F,'mɑr lən,10,8,2
+Marnell,F,'mɑr nəl,10,8,2
+Meegan,F,'miː gən,10,8,2
+Mel,F,'mɛl,1,8,1
+Mitchell,F,'mɪ ʧəl,10,8,2
+Modestine,F,moʊ dɛ 'stiː niː,0010,8,4
+Mora,F,'mɔː rə,10,8,2
+Moya,F,'mɔɪ ə,10,8,2
+Naoma,F,nɑ 'oʊ mə,010,8,3
+Olivette,F,'ɑ lɪ 'vɛt,101,8,3
+Perdita,F,pɛː 'diː tʌ,010,8,3
+Philis,F,'fɪ li,10,8,2
+Adora,F,ɑ 'dɔː rə,010,8,3
+Arabella,F,`æ rə 'bɛ lə,1010,8,4
+Shepherd,M,'ʃɛ pɛːd,10,8,2
+Sunny,M,'sə niː,10,8,2
+Rulon,M,'ruː lən,10,8,2
+Rutherford,M,'rə θɛː fɛːd,100,8,3
+Sandford,M,'sænd fɛːd,10,8,2
+Santana,M,sæn 'tæ nʌ,010,8,3
+Zeno,M,'zeɪ noʊ,10,8,2
+Smiley,M,'smaɪ liː,10,8,2
+Solon,M,'soʊ lən,10,8,2
+Starling,M,'stɑr lɪŋ,10,8,2
+Sue,M,'suː,1,8,1
+Tarry,M,'tɛ riː,10,8,2
+Rowan,M,'roʊ ən,10,8,2
+Terrace,M,'tɛ rəs,10,8,2
+Terris,M,'tɛ rɪs,10,8,2
+Tilman,M,'tɪl mən,10,8,2
+Tobey,M,'toʊ biː,10,8,2
+Torrance,M,'tɔː rəns,10,8,2
+Tully,M,'tʌ liː,10,8,2
+Vander,M,'væn dɛː,10,8,2
+Vincente,M,vɪn 'ʧɛn tiː,010,8,3
+Warden,M,'wɔːr dən,10,8,2
+Roxie,M,'rɑk siː,10,8,2
+Romero,M,roʊ 'mɛ roʊ,010,8,3
+Yancy,M,'jæn siː,10,8,2
+Reinhard,M,'raɪn `hɑrd,11,8,2
+Romas,M,'roʊ məz,10,8,2
+Rankin,M,'ræŋ kɪn,10,8,2
+Real,M,'riːl,1,8,1
+Redell,M,'rɛ dəl,10,8,2
+Ramona,M,rə 'moʊ nʌ,010,8,3
+Remigio,M,rɪ 'mɪ ʤiː oʊ,0100,8,4
+Robertson,M,'rɑ bɛːt sən,100,8,3
+Rockland,M,'rɑ klənd,10,8,2
+Rodriquez,M,rɑ 'driː kɛz,010,8,3
+Rollo,M,'rɑ loʊ,10,8,2
+Wille,M,'wɪl,1,8,1
+Abbie,M,'æ biː,10,7,2
+Ahmad,M,'ɑ mɑd,10,7,2
+Alcide,M,'æl `saɪd,11,7,2
+Alston,M,'ɔːl stən,10,7,2
+Alto,M,'æl toʊ,10,7,2
+Ammon,M,'æ mən,10,7,2
+Amy,M,'eɪ miː,10,7,2
+Anastasio,M,ɑ nɑ 'stɑ siː oʊ,00100,7,5
+Aram,M,'æ ɹæ,10,7,2
+Audwin,M,'ɔː dwɪn,10,7,2
+Kitt,M,'kɪt,1,7,1
+Banks,M,'bæŋks,1,7,1
+Albertine,F,'æl bɛː `tiːn,101,7,3
+Alexander,F,`æ ləg 'zæn dɛː,1010,7,4
+Alyne,F,'æ laɪ,10,7,2
+Amelie,F,æ 'mi li,010,7,3
+Amey,F,'eɪ miː,10,7,2
+An,F,æn,0,7,1
+Angelika,F,æn 'ʤɛ `lɪ kə,0110,7,4
+Aprile,F,'ɑ prəl,10,7,2
+Ardene,F,'ɑr `diːn,11,7,2
+Arnold,F,'ɑr nəld,10,7,2
+Baldwin,M,'bɔːl dwən,10,7,2
+Barclay,M,'bɑr `kleɪ,11,7,2
+Azalia,F,ɑ 'zɑ liː ə,0100,7,4
+Bela,M,'bɛ lə,10,7,2
+Delray,M,`dɛl 'reɪ,11,7,2
+Dennison,M,'dɛ nɪ sən,100,7,3
+Dohn,M,'dɑn,1,7,1
+Dorris,M,'dɔː rɪs,10,7,2
+Durant,M,'dʊ rənt,10,7,2
+Duval,M,duː 'væl,01,7,2
+Ector,M,'ɛk tɛː,10,7,2
+Elder,M,'ɛl dɛː,10,7,2
+Elihu,M,'ɛ lɪ huː,100,7,3
+Ellie,M,'ɛ liː,10,7,2
+Ellison,M,'ɛ lɪ sən,100,7,3
+Erby,M,'ɛː biː,10,7,2
+Ester,M,'ɛ stɛː,10,7,2
+Estle,M,'ɛ səl,10,7,2
+Fernand,M,fɛː 'nænd,01,7,2
+Ferrel,M,fɛ 'rɛl,01,7,2
+Fiore,M,fiː 'ɔː riː,010,7,3
+Franco,M,'fræŋ koʊ,10,7,2
+Gilliam,M,'gɪ liː əm,100,7,3
+Glendale,M,'glɛn `deɪl,11,7,2
+Guilford,M,'gɪl fɛːd,10,7,2
+Hallie,M,'hɔː liː,10,7,2
+Handy,M,'hæn diː,10,7,2
+Harrel,M,'hæ rəl,10,7,2
+Harrie,M,'hæ ɹi,10,7,2
+Hassan,M,hə 'sɑn,01,7,2
+Haynes,M,'heɪnz,1,7,1
+Davide,M,`də 'viː `deɪ,111,7,3
+Darien,M,'dɛ riː ən,100,7,3
+Dabney,M,'dæb niː,10,7,2
+Carvel,M,kɑr 'vɛl,01,7,2
+Benjimen,M,'bɛn ʤə mɪn,100,7,3
+Berman,M,'bɛː mən,10,7,2
+Bern,M,'bɛːn,1,7,1
+Laban,M,'leɪ bən,10,7,2
+Buff,M,'bʌf,1,7,1
+Buren,M,'bjʊ rən,10,7,2
+Calbert,M,'kæl bɛːt,10,7,2
+Camden,M,'kæm dən,10,7,2
+Carla,M,'kɑr lə,10,7,2
+Carlson,M,'kɑrl sən,10,7,2
+Carmichael,M,'kɑr `maɪ kəl,110,7,3
+Carrie,M,'kɛ riː,10,7,2
+Caswell,M,'kæz `wɛl,11,7,2
+Curlee,M,'kɛː 'liː,11,7,2
+Ceaser,M,'siː sɛː,10,7,2
+Christie,M,'krɪ stiː,10,7,2
+Christoph,M,'krɪ stɔːf,10,7,2
+Christos,M,'kɹɪ stəʊ,10,7,2
+Claxton,M,'klæk stən,10,7,2
+Clayborn,M,'kleɪ bɛːn,10,7,2
+Cluster,M,'klʌ stɛː,10,7,2
+Comer,M,'kə mɛː,10,7,2
+Constance,M,'kɑn stəns,10,7,2
+Cosby,M,'kɔːz biː,10,7,2
+Crespin,M,'krɛ spɪn,10,7,2
+Criss,M,'krɪs,1,7,1
+Atha,F,'æ θə,10,7,2
+Belvin,F,'bɛl vɪn,10,7,2
+Herndon,M,'hɛːn dən,10,7,2
+Loran,F,'lɔː `ræn,11,7,2
+Ricci,F,'riː ʧiː,10,7,2
+Rheda,F,'ɹɛ dʌ,10,7,2
+Rayne,F,'reɪn,1,7,1
+Quincy,F,'kwɪn siː,10,7,2
+Pepper,F,'pɛ pɛː,10,7,2
+Oscar,F,'ɔː skɛː,10,7,2
+Orlena,F,'ɔːr lɪ nʌ,100,7,3
+Orlean,F,'ɔːr liː ən,100,7,3
+Orelia,F,ɔː 'rɛ liː ə,0100,7,4
+Norris,F,'nɔː rɪs,10,7,2
+Norberta,F,nɔːr 'bɛr tʌ,010,7,3
+Nicoletta,F,`nɪ kə 'lɛ tʌ,1010,7,4
+Nicolet,F,`nɪ kə 'lɛt,101,7,3
+Nicholas,F,'nɪ kə ləs,100,7,3
+Nichola,F,nɪ 'hoʊ lə,010,7,3
+Nadja,F,'næ djə,10,7,2
+Morris,F,'mɔː rəs,10,7,2
+Missouri,F,mə 'zʊ riː,010,7,3
+Mirella,F,mɪ 'rɛ lə,010,7,3
+Mica,F,'maɪ kə,10,7,2
+Mellie,F,'mɛ liː,10,7,2
+Mell,F,'mɛl,1,7,1
+Margareta,F,mɑr gɑ 'rɛ tʌ,0010,7,4
+Malina,F,mɑ 'liː nʌ,010,7,3
+Maile,F,'meɪl,1,7,1
+Mackie,F,'mæ kiː,10,7,2
+Lurlene,F,'lɛː liːn,10,7,2
+Robben,F,'rɑ bən,10,7,2
+Rosalynn,F,'roʊ zʌ `lɪn,101,7,3
+Rudolph,F,'ruː dɔːlf,10,7,2
+Unita,F,`juː 'niː tʌ,110,7,3
+Zeta,F,'zeɪ tʌ,10,7,2
+Young,F,'jʌŋ,1,7,1
+Xenia,F,'ziː niː ə,100,7,3
+Wenona,F,'wɛ nʌ nʌ,100,7,3
+Waver,F,'weɪ vɛː,10,7,2
+Viviana,F,vɪ viː 'æ nʌ,0010,7,4
+Victory,F,'vɪk tɛː iː,100,7,3
+Viana,F,viː 'æ nʌ,010,7,3
+Vester,F,'vɛ stɛː,10,7,2
+Versa,F,'vɛː sə,10,7,2
+Verne,F,'vɛːn,1,7,1
+Vannie,F,'væ niː,10,7,2
+Trude,F,'truːd,1,7,1
+Salina,F,sə 'liː nʌ,010,7,3
+Trease,F,'triːz,1,7,1
+Theodore,F,'θiː ə `dɔːr,101,7,3
+Terris,F,'tɛ rɪs,10,7,2
+Temple,F,'tɛm pəl,10,7,2
+Tassie,F,'tæ si,10,7,2
+Tanis,F,'tæ nɪs,10,7,2
+Stephane,F,stɛ 'fɑn,01,7,2
+Sioux,F,'suː,1,7,1
+Selia,F,'sɛ liː ə,100,7,3
+Saran,F,sɛː 'æn,01,7,2
+Samra,F,'sæm rə,10,7,2
+Sallee,F,'sæ liː,10,7,2
+Lucette,F,'luː 'sɛt,11,7,2
+Loleta,F,loʊ 'lɛ tʌ,010,7,3
+Bena,F,'bɛ nʌ,10,7,2
+Loise,F,'luː əs,10,7,2
+Eleonore,F,ɛ liː ə 'nɔː riː,00010,7,5
+Durene,F,'djuː riːn,10,7,2
+Dulce,F,'dʌls,1,7,1
+Dorsey,F,'dɔːr siː,10,7,2
+Donata,F,də 'nɑ tʌ,010,7,3
+Dineen,F,dɪ 'niːn,01,7,2
+Dene,F,'di,1,7,1
+Delaney,F,də 'leɪ niː,010,7,3
+Davia,F,'dɑ viː ə,100,7,3
+Daniela,F,dæ 'njɛ lə,010,7,3
+Costella,F,`kɔː 'stɛ lə,110,7,3
+Cornell,F,kɔːr 'nɛl,01,7,2
+Cina,F,'ʧiː nʌ,10,7,2
+Cherokee,F,'ʧɛ rə `kiː,101,7,3
+Charley,F,'ʧɑr liː,10,7,2
+Chanel,F,ʃə 'nɛl,01,7,2
+Celie,F,'sɛ liː,10,7,2
+Celena,F,ʧɛ 'lɛ nʌ,010,7,3
+Cece,F,'siːs,1,7,1
+Carra,F,'kɑ rə,10,7,2
+Brunette,F,bruː 'nɛt,01,7,2
+Brunetta,F,bruː 'nɛ tʌ,010,7,3
+Brita,F,'briː tʌ,10,7,2
+Briana,F,briː 'æ nʌ,010,7,3
+Brett,F,'brɛt,1,7,1
+Berneice,F,bɛː 'naɪs,01,7,2
+Beri,F,bɪ 'ɹi,01,7,2
+Elly,F,'ɛ liː,10,7,2
+Elmer,F,'ɛl mɛː,10,7,2
+Elvie,F,'ɛl viː,10,7,2
+Ivan,F,'aɪ vən,10,7,2
+Lexine,F,'lɛk saɪn,10,7,2
+Lavora,F,'læ vɔː ɹʌ,100,7,3
+Lady,F,'leɪ diː,10,7,2
+Kyong,F,'kjɔːŋ,1,7,1
+Kimble,F,'kɪm bəl,10,7,2
+Keena,F,'kiː nʌ,10,7,2
+Katrine,F,'kæ tɹi,10,7,2
+Karlen,F,'kɑr lən,10,7,2
+Karl,F,'kɑrl,1,7,1
+Jim,F,'ʤɪm,1,7,1
+Jillian,F,'ʤɪ liː ən,100,7,3
+Jasmin,F,'ʤæz mɪn,10,7,2
+Inger,F,'ɪŋ ɛː,10,7,2
+Eric,F,'ɛ rɪk,10,7,2
+Ilse,F,'ɪls,1,7,1
+Idona,F,ɪ 'doʊ nʌ,010,7,3
+Icie,F,'aɪ si,10,7,2
+Hildegarde,F,'hɪl dɪ `gɑrd,101,7,3
+Herman,F,'hɛː mən,10,7,2
+Hally,F,'hæ liː,10,7,2
+Gypsy,F,'ʤɪp siː,10,7,2
+Glori,F,'glɔː riː,10,7,2
+Francyne,F,'fræn `saɪn,11,7,2
+Francy,F,'fræn siː,10,7,2
+Forrest,F,'fɔː rəst,10,7,2
+Erie,F,'ɪ riː,10,7,2
+Hendrick,M,'hɛn drɪk,10,7,2
+Brannon,M,'bræ nən,10,7,2
+Heywood,M,'heɪ `wʊd,11,7,2
+Kenrick,M,'kɛn rɪk,10,7,2
+Sherlock,M,'ʃɛː `lɑk,11,7,2
+Sheppard,M,'ʃɛ pɛːd,10,7,2
+Sheila,M,'ʃiː lə,10,7,2
+Seward,M,'suː ɛːd,10,7,2
+Hillery,M,'hɪ lɛː iː,100,7,3
+Ruston,M,'rə stən,10,7,2
+Rudi,M,'ruː diː,10,7,2
+Romaine,M,roʊ 'meɪn,01,7,2
+Roddie,M,'rɑ diː,10,7,2
+Rocke,M,'rɑk,1,7,1
+Robley,M,'rɑ bliː,10,7,2
+Rion,M,'raɪ ən,10,7,2
+Richerd,M,'rɪ ʧɛːd,10,7,2
+Revis,M,'rɛ vɪs,10,7,2
+Reggy,M,'rɛ giː,10,7,2
+Read,M,'rɛd,1,7,1
+Ransome,M,'ræn səm,10,7,2
+Rainer,M,'reɪ nɛː,10,7,2
+Rad,M,'ræd,1,7,1
+Quincey,M,'kwɪn siː,10,7,2
+Quince,M,'kwɪns,1,7,1
+Sherrell,M,'ʃɛ rəl,10,7,2
+Shimon,M,'ʃiː moʊn,10,7,2
+Simpson,M,'sɪmp sən,10,7,2
+Vanessa,M,və 'nɛ sə,010,7,3
+Yves,M,'iːv,1,7,1
+Williard,M,'wɪl jɑrd,10,7,2
+Willi,M,'wɪ liː,10,7,2
+Whitfield,M,'wɪt fiːld,10,7,2
+Wetzel,M,'wɛt zəl,10,7,2
+Warnell,M,'wɔːr nəl,10,7,2
+Virgie,M,'vɛː giː,10,7,2
+Vickey,M,'vɪ kiː,10,7,2
+Venson,M,'vɛn sən,10,7,2
+Valerian,M,və 'lɪ riː ən,0100,7,4
+Spike,M,'spaɪk,1,7,1
+Usher,M,'ə ʃɛː,10,7,2
+Toribio,M,tɔː 'riː biː oʊ,0100,7,4
+Tina,M,'tiː nʌ,10,7,2
+Tilden,M,'tɪl dən,10,7,2
+Thurlow,M,'θɛː loʊ,10,7,2
+Tennis,M,'tɛ nəs,10,7,2
+Telford,M,'tɛl fɛːd,10,7,2
+Tammy,M,'tæ miː,10,7,2
+Stephanie,M,'stɛ fə niː,100,7,3
+Press,M,'prɛs,1,7,1
+Pleas,M,'pliːz,1,7,1
+Placido,M,'plɑ ʧɪ doʊ,100,7,3
+Liston,M,'lɪ stən,10,7,2
+Marcia,M,'mɑr ʃə,10,7,2
+Mannie,M,'mæ niː,10,7,2
+Macon,M,'meɪ kən,10,7,2
+Lovelace,M,'lʌv `leɪs,11,7,2
+Lorry,M,'lɔː riː,10,7,2
+Lorraine,M,lɛː 'eɪn,01,7,2
+Loreto,M,lɔː 'rɛ toʊ,010,7,3
+Lorance,M,'lɔː rəns,10,7,2
+London,M,'lən dən,10,7,2
+Linzy,M,'lɪn ziː,10,7,2
+Marx,M,'mɑrks,1,7,1
+Linford,M,'lɪn fɛːd,10,7,2
+Lindberg,M,'laɪnd bɛːg,10,7,2
+Levie,M,'liː viː,10,7,2
+Levan,M,'lɛ vən,10,7,2
+Lemont,M,lə 'mɑnt,01,7,2
+Leary,M,'lɪ riː,10,7,2
+Laurin,M,'lɔː rɪn,10,7,2
+Lathan,M,'læ θʌn,10,7,2
+Lan,M,'læn,1,7,1
+Marten,M,'mɑr tən,10,7,2
+Maryland,M,'mɛ rə lənd,100,7,3
+Peterson,M,'piː tɛː sən,100,7,3
+Nichols,M,'nɪ kəlz,10,7,2
+Patton,M,'pæ tən,10,7,2
+Pastor,M,'pæ stɛː,10,7,2
+Parry,M,'pɛ riː,10,7,2
+Owens,M,'oʊ ənz,10,7,2
+Othello,M,ə 'θɛ loʊ,010,7,3
+Onofre,M,oʊ 'nɔː friː,010,7,3
+Ollis,M,'ɔː liːz,10,7,2
+Olden,M,'oʊl dən,10,7,2
+Nieves,M,niː 'ɛ vɛs,010,7,3
+Nicanor,M,'nɪ kæ nʌ,100,7,3
+Matthias,M,mə 'θaɪ əs,010,7,3
+Nathanael,M,'næ θə `neɪl,101,7,3
+Morse,M,'mɔːrs,1,7,1
+Mordechai,M,'mɔːr də `kaɪ,101,7,3
+Monico,M,moʊ 'niː koʊ,010,7,3
+Merrit,M,'mɛ rɪt,10,7,2
+Merlon,M,'məː lɑ,10,7,2
+Meldon,M,'mɛl dən,10,7,2
+Mayer,M,'meɪ ɛː,10,7,2
+May,M,meɪ,0,7,1
+Yvonne,M,ɪ 'vɑn,01,7,2
+Selby,M,'sɛl biː,10,7,2
+Inocencio,M,ɪ noʊ 'ʧɛn ʧiː oʊ,00100,7,5
+Johannes,M,ʤoʊ 'hæ nəs,010,7,3
+Hillman,M,'hɪl `mæn,11,7,2
+Hoy,M,'hɔɪ,1,7,1
+Hughes,M,'hjuːz,1,7,1
+Iven,M,'aɪ vən,10,7,2
+Jami,M,'ʤeɪ miː,10,7,2
+Jermaine,M,ʤɛː 'meɪn,01,7,2
+Juvenal,M,'dʒʉː vi nʌ,100,7,3
+Karel,M,'kɛ rəl,10,7,2
+Karon,M,'kɛ rən,10,7,2
+Kasey,M,'kæ siː,10,7,2
+Kenley,M,'kɛn liː,10,7,2
+Mohammed,M,moʊ 'hæ mɪd,010,6,3
+Nace,M,'neɪs,1,6,1
+Nimrod,M,'nɪm rɑd,10,6,2
+Muriel,M,'mjʊ riː əl,100,6,3
+Monti,M,'mɑn tiː,10,6,2
+Dara,M,'dæ rə,10,6,2
+Milas,M,'maɪ ləz,10,6,2
+Melbourne,M,'mɛl bɛːn,10,6,2
+Medford,M,'mɛd fɛːd,10,6,2
+Norah,M,'nɔː rə,10,6,2
+Maurie,M,'mɔː riː,10,6,2
+Nora,M,'nɔː rə,10,6,2
+Pepper,M,'pɛ pɛː,10,6,2
+Obadiah,M,`oʊ bə 'daɪ ə,1010,6,4
+Olivier,M,`oʊ 'lɪ `viː `eɪ,1111,6,4
+Orman,M,'ɔːr mən,10,6,2
+Overton,M,'oʊ vɛː tən,100,6,3
+Paulette,M,pɔː 'lɛt,01,6,2
+Penny,M,'pɛ niː,10,6,2
+Matteo,M,mɑ 'teɪ oʊ,010,6,3
+Perez,M,'pɛ rɛz,10,6,2
+Philo,M,'fiː loʊ,10,6,2
+Pietro,M,piː 'ɛ troʊ,010,6,3
+Prescott,M,'prɛ skɑt,10,6,2
+Mattie,M,'mæ tiː,10,6,2
+Marley,M,'mɑr liː,10,6,2
+Mathieu,M,'mæ θjuː,10,6,2
+Lyall,M,'laɪ əl,10,6,2
+Landry,M,'læn driː,10,6,2
+Laney,M,'leɪ niː,10,6,2
+Lani,M,'lɑ niː,10,6,2
+Larson,M,'lɑr sən,10,6,2
+Lem,M,'lɛm,1,6,1
+Levander,M,'lɛ vən dɛː,100,6,3
+Lofton,M,'lɑf tən,10,6,2
+Longino,M,loʊŋ 'giː noʊ,010,6,3
+Loris,M,'lɔː rɪs,10,6,2
+Luz,M,'ləz,1,6,1
+Lynford,M,'lɪn fɛːd,10,6,2
+Marvell,M,mɑr 'vɛl,01,6,2
+Lysander,M,`laɪ 'sæn dɛː,110,6,3
+Madeline,M,'mæ də lɪn,100,6,3
+Mallie,M,'mɔː liː,10,6,2
+Markel,M,'mɑr kəl,10,6,2
+Marlene,M,'mɑr `liːn,11,6,2
+Kreig,M,'kriːg,1,6,1
+Maron,M,mɑ 'rɔːn,01,6,2
+Martell,M,'mɑr `tɛl,11,6,2
+Martis,M,'mɑr tɪs,10,6,2
+Marton,M,'mɑr tən,10,6,2
+Princeton,M,'prɪn stən,10,6,2
+Quay,M,'kiː,1,6,1
+Rabon,M,rɑ 'bɔːn,01,6,2
+Valeriano,M,vɑ lɛː iː 'ɑ noʊ,00010,6,5
+Tay,M,'teɪ,1,6,1
+Tennyson,M,'tɛ nɪ sən,100,6,3
+Terrie,M,'tɛ riː,10,6,2
+Thamas,M,'θɑ mʌ,10,6,2
+Thedford,M,'θɛd fɛːd,10,6,2
+Tor,M,'tɔːr,1,6,1
+Torrey,M,'tɔː riː,10,6,2
+Turk,M,'tɛːk,1,6,1
+Tyrell,M,'taɪ rəl,10,6,2
+Ural,M,'jʊ rəl,10,6,2
+Urbano,M,ɛː 'bɑ noʊ,010,6,3
+Uriel,M,'jʊə ɹi ʌ,100,6,3
+Vaden,M,'veɪ dən,10,6,2
+Valery,M,'væ lɛː iː,100,6,3
+Sy,M,'saɪ,1,6,1
+Vane,M,'veɪn,1,6,1
+Venice,M,'vɛ nəs,10,6,2
+Veron,M,'vɛ rən,10,6,2
+Vinton,M,'vɪn tən,10,6,2
+Waldon,M,'wɔːl dən,10,6,2
+Welford,M,'wɛl fɛːd,10,6,2
+Wess,M,'wɛs,1,6,1
+Wick,M,'wɪk,1,6,1
+Wilgus,M,'wɪl gəs,10,6,2
+Wm,M,'wɪl jəm,10,6,2
+Woodford,M,'wʊd fɛːd,10,6,2
+Wynne,M,'wɪn,1,6,1
+Zenas,M,'ziː nəz,10,6,2
+Tadd,M,'tæd,1,6,1
+Suzanne,M,suː 'zæn,01,6,2
+Race,M,'reɪs,1,6,1
+Ronne,M,'rɑn,1,6,1
+Rafe,M,'reɪf,1,6,1
+Ralf,M,'rɑlf,1,6,1
+Raymund,M,'reɪ mənd,10,6,2
+Reedy,M,'riː diː,10,6,2
+Reinhold,M,'raɪn hoʊlt,10,6,2
+Richardson,M,'rɪ ʧɛːd sən,100,6,3
+Richey,M,'rɪ ʧiː,10,6,2
+Ridgely,M,'rɪʤ liː,10,6,2
+Ripley,M,'rɪ pliː,10,6,2
+Rodgers,M,'rɑ ʤɛːz,10,6,2
+Rodriguez,M,rɑ 'driː gɛz,010,6,3
+Rolan,M,'roʊ lən,10,6,2
+Romulo,M,ɹʌ 'mjʊə ləʊ,010,6,3
+Rube,M,'ruːb,1,6,1
+Sterlin,M,'stəː lɪ,10,6,2
+Rubert,M,'ruː bɛːt,10,6,2
+Ruddy,M,'rə diː,10,6,2
+Rudie,M,'ruː diː,10,6,2
+Rustin,M,'rə stɪn,10,6,2
+Rutledge,M,'rət lɪʤ,10,6,2
+Sander,M,'sæn dɛː,10,6,2
+Sandor,M,'sæn dɛː,10,6,2
+Seaborn,M,'siː bɛːn,10,6,2
+Seldon,M,'sɛl dən,10,6,2
+Shirl,M,'ʃɛːl,1,6,1
+Smitty,M,'smɪ tiː,10,6,2
+Soloman,M,soʊ loʊ 'mæn,001,6,3
+Steffen,M,'stɛ fʌn,10,6,2
+Lancelot,M,'læn sə `lɑt,101,6,3
+Korey,M,'kɔː riː,10,6,2
+Daney,M,'deɪ niː,10,6,2
+Knut,M,'nət,1,6,1
+Beauford,M,boʊ 'fɔːrd,01,6,2
+Baker,M,'beɪ kɛː,10,6,2
+Axel,M,'æk səl,10,6,2
+Avram,M,'eɪv rʌm,10,6,2
+Audry,M,'ɔː driː,10,6,2
+Armen,M,'ɑr mən,10,6,2
+Ariel,M,'ɛ riː əl,100,6,3
+Anthonio,M,æn 'θəʊ nɪ `əʊ,0101,6,4
+Andie,M,'æn diː,10,6,2
+Amir,M,ə 'mɪr,01,6,2
+Allard,M,'æ lɛːd,10,6,2
+Alejo,M,ɑ 'leɪ joʊ,010,6,3
+Aldric,M,'æl drɪk,10,6,2
+Agostino,M,ɑ gɔː 'stiː noʊ,0010,6,4
+Delmont,M,'deɪl moʊnt,10,6,2
+Able,M,'eɪ bəl,10,6,2
+Abie,M,'æ biː,10,6,2
+Delores,M,də 'lɔː rɪs,010,6,3
+Denney,M,'dɛ niː,10,6,2
+Diamond,M,'daɪ mənd,10,6,2
+Dimitrios,M,dɪ 'miː triː oʊs,0100,6,4
+Dolph,M,'doʊlf,1,6,1
+Dominique,M,dɔː mɪ 'niːk,001,6,3
+Donne,M,'dən,1,6,1
+Doral,M,dɔː 'ræl,01,6,2
+Dorn,M,'dɔːrn,1,6,1
+Drayton,M,'dreɪ tən,10,6,2
+Dub,M,'dʌb,1,6,1
+Dugan,M,'də gən,10,6,2
+Bernardino,M,bɛː nʌ 'diː noʊ,0010,6,4
+Berney,M,'bɛː niː,10,6,2
+Bernhardt,M,'bɛːn hɑrt,10,6,2
+Cavin,M,'kæ vɪn,10,6,2
+Daisy,M,'deɪ ziː,10,6,2
+Cuthbert,M,'kʌθ bɛːt,10,6,2
+Crayton,M,'kreɪ tən,10,6,2
+Craven,M,'kreɪ vən,10,6,2
+Cortland,M,'kɔːrt lənd,10,6,2
+Corliss,M,'kɔːr lɪs,10,6,2
+Coral,M,'kɔː rəl,10,6,2
+Concepcion,M,kən `sɛp siː 'oʊn,0101,6,4
+Colan,M,'koʊ lən,10,6,2
+Claudis,M,'klɔː dɪ,10,6,2
+Claudia,M,'klɔː diː ə,100,6,3
+Christain,M,'kɹɪ steɪ,10,6,2
+Chipper,M,'ʧɪ pɛː,10,6,2
+Carley,M,'kɑr liː,10,6,2
+Blakely,M,'bleɪ kliː,10,6,2
+Calton,M,'kæl tən,10,6,2
+Caldwell,M,'kɔːl dwɛl,10,6,2
+Cain,M,'keɪn,1,6,1
+Burnette,M,'bɛː 'nɛt,11,6,2
+Buell,M,'bjuː əl,10,6,2
+Bronson,M,'brɑn sən,10,6,2
+Brinson,M,'brɪn sən,10,6,2
+Branson,M,'bræn sən,10,6,2
+Brando,M,'bræn doʊ,10,6,2
+Bradlee,M,'bræd `liː,11,6,2
+Boyde,M,'bɔɪd,1,6,1
+Bonita,M,boʊ 'niː tʌ,010,6,3
+Blanchard,M,'blæn ʧɛːd,10,6,2
+Dupree,M,də 'priː,01,6,2
+Dwan,M,'dwɑn,1,6,1
+Earley,M,'ɛː liː,10,6,2
+Iris,M,'aɪ rəs,10,6,2
+Harman,M,'hɑr mən,10,6,2
+Hart,M,'hɑrt,1,6,1
+Hassel,M,'hæ səl,10,6,2
+Hermes,M,'hɛː miːz,10,6,2
+Herold,M,'hɛ rəld,10,6,2
+Herve,M,'hɛːv,1,6,1
+Hester,M,'hɛ stɛː,10,6,2
+Hillel,M,`hɪ 'lɛl,11,6,2
+Hobson,M,'hɑb sən,10,6,2
+Hughey,M,'hə giː,10,6,2
+Hulen,M,'hə lən,10,6,2
+Ikey,M,'ɪ kiː,10,6,2
+Ikie,M,'ɪ kiː,10,6,2
+Irma,M,'ɛː mə,10,6,2
+Hammond,M,'hæ mənd,10,6,2
+Iver,M,'aɪ vɛː,10,6,2
+Javan,M,ʤə 'vɑn,01,6,2
+Jeffey,M,'ʤɛ fiː,10,6,2
+Jennie,M,'ʤɛ niː,10,6,2
+Jerri,M,'ʤɛ riː,10,6,2
+Josephine,M,'ʤoʊ sə `fiːn,101,6,3
+Julie,M,'ʤuː liː,10,6,2
+Keene,M,'kiːn,1,6,1
+Kenzie,M,'kɛn ziː,10,6,2
+Kimsey,M,'kɪm ziː,10,6,2
+Kinnie,M,'kɪ niː,10,6,2
+Kipling,M,'kɪ plɪŋ,10,6,2
+Klaus,M,'klaʊs,1,6,1
+Harding,M,'hɑr dɪŋ,10,6,2
+Haig,M,'heɪg,1,6,1
+Easton,M,'iː stən,10,6,2
+Eunice,M,'juː nəs,10,6,2
+Eden,M,'iː dən,10,6,2
+Edger,M,'ɛ ʤɛː,10,6,2
+Edwards,M,'ɛ dwɛːdz,10,6,2
+Edwyn,M,'ɛ dwɪ,10,6,2
+Egon,M,'iː gən,10,6,2
+Elaine,M,ɪ 'leɪn,01,6,2
+Eldwin,M,ɪl 'dwɪn,01,6,2
+Elia,M,ə 'laɪ ə,010,6,3
+Elvie,M,'ɛl viː,10,6,2
+Ely,M,'iː laɪ,10,6,2
+Erven,M,'ɛː vən,10,6,2
+Esco,M,'ɛ skoʊ,10,6,2
+Etienne,M,'ɛ tiː ɛn,100,6,3
+Evin,M,'ɛ vɪn,10,6,2
+Gwyn,M,'gwɪn,1,6,1
+Ewald,M,'juː əld,10,6,2
+Excell,M,ɛk 'sɛ,01,6,2
+Fidelio,M,fɪ 'dɛ lɪ `əʊ,0101,6,4
+Filmore,M,'fɪl `mɔːr,11,6,2
+Foley,M,'foʊ liː,10,6,2
+Franciso,M,fræn 'siː soʊ,010,6,3
+Garris,M,'gæ rɪs,10,6,2
+Gershon,M,'gɛː ʃən,10,6,2
+Gladys,M,'glæ dɪs,10,6,2
+Grace,M,'greɪs,1,6,1
+Grey,M,'greɪ,1,6,1
+Gustavus,M,'ɡʌ stæ vʌ,100,6,3
+Gwen,M,'gwɛn,1,6,1
+Addis,M,'ɑ dɪs,10,6,2
+Latina,F,lɑ 'tiː nʌ,010,6,3
+Landy,F,'læn diː,10,6,2
+Merril,F,'mɛ ɹʌ,10,6,2
+Maddalena,F,mɑ dɑ 'lɛ nʌ,0010,6,4
+Madel,F,'mæ dəl,10,6,2
+Madora,F,mə 'dɔː rə,010,6,3
+Manuel,F,mɑn 'wɛl,01,6,2
+Maranda,F,mɛː 'æn də,010,6,3
+Marella,F,mɛː 'ɛ lə,010,6,3
+Marga,F,'mɑr gə,10,6,2
+Marlette,F,`mɑr 'lɛt,11,6,2
+Marne,F,'mɑ,1,6,1
+Marquette,F,mɑr 'kɛt,01,6,2
+Martita,F,mɑr 'tiː tʌ,010,6,3
+Maryruth,F,'mæ rɪ ruːθ,100,6,3
+Matthew,F,'mæ θjuː,10,6,2
+Maurie,F,'mɔː riː,10,6,2
+Mayda,F,'meɪ də,10,6,2
+Melrose,F,'mɛl `roʊz,11,6,2
+Melvie,F,'mɛl viː,10,6,2
+Melvine,F,'mɛl `vaɪn,11,6,2
+Mena,F,'miː nʌ,10,6,2
+Merlin,F,'mɛː lɪn,10,6,2
+Merline,F,'mɛː laɪn,10,6,2
+Mack,F,'mæk,1,6,1
+Lyne,F,'laɪn,1,6,1
+Luther,F,'luː θɛː,10,6,2
+Alden,F,'ɑl dən,10,6,2
+Ariane,F,`ɛ riː 'æn,101,6,3
+Aquila,F,'æ kwə lə,100,6,3
+Anthea,F,'æn θiː ə,100,6,3
+Annabella,F,`æ nʌ 'bɛ lə,1010,6,4
+Alvis,F,'ɑl vɪs,10,6,2
+Alla,F,'ɑ lə,10,6,2
+Alfred,F,'æl frəd,10,6,2
+Alex,F,'æ ləks,10,6,2
+Aleen,F,ə 'liːn,01,6,2
+Aide,F,'eɪd,1,6,1
+Ludmilla,F,ləd 'mɪ lə,010,6,3
+Adah,F,'æ dɑ,10,6,2
+Abra,F,'ɑ brə,10,6,2
+Leontyne,F,'liː ɑn taɪn,100,6,3
+Lillis,F,'lɪ lɪs,10,6,2
+Lorey,F,'lɔː riː,10,6,2
+Lovette,F,'lə 'vɛt,11,6,2
+Lucienne,F,luː 'ʧiː ɛn,010,6,3
+Lucrecia,F,luː 'kriː ʃə,010,6,3
+Ludmila,F,ləd 'maɪ lə,010,6,3
+Merriam,F,'mɛ riː əm,100,6,3
+Michaella,F,`maɪ 'kɛ lə,110,6,3
+Zera,F,'zɛ rə,10,6,2
+Miguel,F,mɪ 'gɛl,01,6,2
+Selby,F,'sɛl biː,10,6,2
+Severa,F,seɪ 'vɛ rə,010,6,3
+Sharell,F,ʃə 'rɛl,01,6,2
+Sharma,F,'ʃɑr mə,10,6,2
+Sher,F,'ʃɛː,1,6,1
+Signa,F,'sɪg nʌ,10,6,2
+Sofie,F,'sɑ fiː,10,6,2
+Sunshine,F,'sən `ʃaɪn,11,6,2
+Tacey,F,'teɪ siː,10,6,2
+Tallulah,F,`tæ 'luː lə,110,6,3
+Tally,F,'tæ liː,10,6,2
+Timmie,F,'tɪ miː,10,6,2
+Todd,F,'tɑd,1,6,1
+Tom,F,'tɑm,1,6,1
+Trevia,F,'tɹɛ vi ʌ,100,6,3
+Valere,F,'væ lʌ,10,6,2
+Vanilla,F,və 'nɪ lə,010,6,3
+Vincent,F,'vɪn sənt,10,6,2
+Wallis,F,'wɔː lɪs,10,6,2
+Waverly,F,'weɪ vɛː liː,100,6,3
+Wren,F,'rɛn,1,6,1
+Sandia,F,'sæn diː ə,100,6,3
+Saida,F,'sɛ dʌ,10,6,2
+Ruther,F,'ruː θɛː,10,6,2
+Pedro,F,'peɪ droʊ,10,6,2
+Mika,F,'miː kə,10,6,2
+Nani,F,'næ ni,10,6,2
+Nathan,F,'neɪ θʌn,10,6,2
+Nedda,F,'nɛ də,10,6,2
+Nisa,F,'ni sʌ,10,6,2
+Ofilia,F,oʊ 'fiː liː ə,0100,6,4
+Olean,F,oʊ 'liːn,01,6,2
+Para,F,'pɛ rə,10,6,2
+Pasty,F,'pɑ sti,10,6,2
+Rachal,F,'ræ kəl,10,6,2
+Rufus,F,'ruː fəs,10,6,2
+Ramon,F,rə 'moʊn,01,6,2
+Rani,F,'rɑ niː,10,6,2
+Regis,F,'riː ʤɪs,10,6,2
+Retia,F,'ɹɛ ʃʌ,10,6,2
+Rick,F,'rɪk,1,6,1
+Rosan,F,'roʊ zən,10,6,2
+Roseline,F,'roʊz `laɪn,11,6,2
+Royal,F,'rɔɪ əl,10,6,2
+Rue,F,'ruː,1,6,1
+Arlie,F,'ɑr liː,10,6,2
+Armando,F,ɑr 'mɑn doʊ,010,6,3
+Arrie,F,æ 'ɹaɪ,01,6,2
+Azalea,F,ə 'zeɪl jʌ,010,6,3
+Gilbert,F,'gɪl bɛːt,10,6,2
+Geraldina,F,ʤɛː ɑl 'diː nʌ,0010,6,4
+Georgian,F,'ʤɔːr ʤən,10,6,2
+Gara,F,'gæ rə,10,6,2
+Gabriel,F,'geɪ briː əl,100,6,3
+Frida,F,'friː də,10,6,2
+Franklin,F,'fræŋ klɪn,10,6,2
+Francia,F,'frɑn ʧə,10,6,2
+Floris,F,'flɔː rɪs,10,6,2
+Fiona,F,fiː 'oʊ nʌ,010,6,3
+Fidelia,F,fɪ 'diːl jʌ,010,6,3
+Ferris,F,'fɛ rɪs,10,6,2
+Fedora,F,fɪ 'dɔː rə,010,6,3
+Faun,F,'fɔː,1,6,1
+Farris,F,'fɛ rɪs,10,6,2
+Fara,F,'fɑ ɹʌ,10,6,2
+Euphemia,F,juː 'fiː miː ə,0100,6,4
+Ethyl,F,'ɛ θəl,10,6,2
+Estrella,F,`ɛ 'strɛ lə,110,6,3
+Erline,F,'ɛː laɪn,10,6,2
+Ericka,F,'ɛ rɪ kə,100,6,3
+Gilberta,F,ʤiːl 'bɛr tʌ,010,6,3
+Gill,F,'gɪl,1,6,1
+Ginia,F,'dʒɪ ni ʌ,100,6,3
+Jenne,F,'ʤɛn,1,6,1
+Kyung,F,'kjʌŋ,1,6,1
+Kirk,F,'kɛːk,1,6,1
+Kent,F,'kɛnt,1,6,1
+Kasey,F,'kæ siː,10,6,2
+Julio,F,'ʤuː liː oʊ,100,6,3
+Jetty,F,'ʤɛ tiː,10,6,2
+Jeremy,F,'ʤɛ rə miː,100,6,3
+Jerald,F,'ʤɛ rəld,10,6,2
+Jennet,F,'dʒɛ nɪ,10,6,2
+Ivie,F,'aɪ viː,10,6,2
+Gordon,F,'gɔːr dən,10,6,2
+Isa,F,'iː sə,10,6,2
+Iretta,F,ɪ 'rɛ tʌ,010,6,3
+Indy,F,'ɪn diː,10,6,2
+Inda,F,'iːn də,10,6,2
+Ilka,F,'ɪl kə,10,6,2
+Iantha,F,iː 'ɑn θə,010,6,3
+Hildegard,F,'hɪl də `gɑrd,101,6,3
+Hertha,F,'hɛː θə,10,6,2
+Hadassah,F,'hæ dæ sʌ,100,6,3
+Emory,F,'ɛ mɛː iː,100,6,3
+Emmeline,F,'ɛ mə `laɪn,101,6,3
+Emmaline,F,ɛ mɑ 'liː niː,0010,6,4
+Brigitta,F,'bɹɪ dʒɪ tʌ,100,6,3
+Carolan,F,'kɛ rə læn,100,6,3
+Carley,F,'kɑr liː,10,6,2
+Capri,F,'kæ priː,10,6,2
+Candies,F,'kæn diːz,10,6,2
+Cami,F,'kɑ mi,10,6,2
+Cally,F,'kæ liː,10,6,2
+Callista,F,'kæ lɪ stʌ,100,6,3
+Brunella,F,`bruː 'nɛ lə,110,6,3
+Bruna,F,'bruː nʌ,10,6,2
+Brandi,F,'bræn diː,10,6,2
+Cinder,F,'sɪn dɛː,10,6,2
+Bradley,F,'bræd liː,10,6,2
+Bob,F,'bɑb,1,6,1
+Bibi,F,bɪ 'biː,01,6,2
+Berry,F,'bɛ riː,10,6,2
+Bernard,F,bɛː 'nɑrd,01,6,2
+Bennetta,F,bɛ 'nɛ tʌ,010,6,3
+Bathsheba,F,bæθ 'ʃiː bə,010,6,3
+Barbette,F,bɑr 'bɛt,01,6,2
+Baby,F,'beɪ biː,10,6,2
+Celestia,F,sʌ 'lɛs tʃʌ,010,6,3
+Claudina,F,'klɔː dɪ nʌ,100,6,3
+Emerald,F,'ɛm rəld,10,6,2
+Dion,F,'daɪ ən,10,6,2
+Ema,F,'iː mə,10,6,2
+Elza,F,'ɛl zʌ,10,6,2
+Ellan,F,'ɛ lən,10,6,2
+Elice,F,ɪ lɪ 'sɛ,001,6,3
+Electra,F,ɪ 'lɛk trə,010,6,3
+Ebba,F,'ɛ bə,10,6,2
+Dwight,F,'dwaɪt,1,6,1
+Dorna,F,'dɔː nʌ,10,6,2
+Dorette,F,dɛː 'ɛt,01,6,2
+Desire,F,dɪ 'zaɪ ɛː,010,6,3
+Cleone,F,klɪ 'əʊ,01,6,2
+Derry,F,'dɛ riː,10,6,2
+Darrah,F,'dæ rə,10,6,2
+Darling,F,'dɑr lɪŋ,10,6,2
+Daniele,F,dæ 'njɛl,01,6,2
+Cyrena,F,kɪ 'riː nʌ,010,6,3
+Criss,F,'krɪs,1,6,1
+Corinn,F,'kɔː rɪn,10,6,2
+Corin,F,'kɑ ɹɪ,10,6,2
+Clifton,F,'klɪf tən,10,6,2
+Yasmine,F,'jæz mɪn,10,6,2
+Bona,F,'boʊ nʌ,10,6,2
+Disa,F,'dɪ sə,10,5,2
+Hance,M,'hæns,1,5,1
+Graeme,M,'greɪm,1,5,1
+Grier,M,'graɪ ɛː,10,5,2
+Griff,M,'grɪf,1,5,1
+Guerry,M,gɛː 'iː,01,5,2
+Guilbert,M,'gɪl bɛːt,10,5,2
+Halton,M,'hæl tən,10,5,2
+Hanford,M,'hæn fɛːd,10,5,2
+Glennie,M,'glɛ niː,10,5,2
+Happy,M,'hæ piː,10,5,2
+Hardin,M,'hɑr dɪn,10,5,2
+Hartman,M,'hɑrt mən,10,5,2
+Harvel,M,'hɑr vəl,10,5,2
+Haymond,M,'heɪ mənd,10,5,2
+Helmer,M,'hɛl mɛː,10,5,2
+Graden,M,'greɪ dən,10,5,2
+Gilroy,M,'gɪl `rɔɪ,11,5,2
+Hill,M,'hɪl,1,5,1
+Gage,M,'geɪʤ,1,5,1
+Fitzgerald,M,fɪts 'ʤɛ rəld,010,5,3
+Fleet,M,'fliːt,1,5,1
+Fortunato,M,fɔːr tuː 'nɑ toʊ,0010,5,4
+France,M,'fræns,1,5,1
+Franke,M,'fræŋk,1,5,1
+Fraser,M,'freɪ zɛː,10,5,2
+Garrell,M,gɑ 'reɪl,01,5,2
+Gib,M,'gɪb,1,5,1
+Garrie,M,'ɡæ ɹi,10,5,2
+Garron,M,'gæ rən,10,5,2
+Georg,M,'geɪ ɔːrg,10,5,2
+Georges,M,'ʤɔːr ʤəz,10,5,2
+Gerrard,M,'dʒɛ ɹʌ,10,5,2
+Gerson,M,'ʤɛː sən,10,5,2
+Hewitt,M,'hjuː ɪt,10,5,2
+Hoke,M,'hoʊk,1,5,1
+Ferd,M,'fɛːd,1,5,1
+Lea,M,'liː,1,5,1
+Kinley,M,'kɪn liː,10,5,2
+Kinsey,M,'kɪn ziː,10,5,2
+Kipper,M,'kɪ pɛː,10,5,2
+Kline,M,'klaɪn,1,5,1
+Kolin,M,'koʊ lɪn,10,5,2
+Kyler,M,'kaɪ lɛː,10,5,2
+Leavy,M,'liː viː,10,5,2
+Kellen,M,'kɛ lən,10,5,2
+Leeman,M,'liː mən,10,5,2
+Leman,M,'liː mən,10,5,2
+Lenox,M,'lɛ nəks,10,5,2
+Libby,M,'lɪ biː,10,5,2
+Lief,M,'liːf,1,5,1
+Lieutenant,M,luː 'tɛ nənt,010,5,3
+Kenwood,M,'kɛn `wʊd,11,5,2
+Kearney,M,'kɛː niː,10,5,2
+Holley,M,'hɑ liː,10,5,2
+Jameson,M,'ʤeɪm sən,10,5,2
+Holt,M,'hoʊlt,1,5,1
+Hosey,M,'hoʊ ziː,10,5,2
+Hue,M,'hjuː,1,5,1
+Igor,M,ɪ 'gɔːr,01,5,2
+Iva,M,'iː və,10,5,2
+Jamas,M,'dʒɑ mʌ,10,5,2
+Janie,M,'ʤeɪ niː,10,5,2
+Kara,M,'kɛ rə,10,5,2
+Jann,M,'ʤæn,1,5,1
+Jehu,M,'dʒɛ hʉː,10,5,2
+Jeter,M,'ʤiː tɛː,10,5,2
+Jett,M,'ʤɛt,1,5,1
+Justice,M,'ʤə stəs,10,5,2
+Justus,M,'ʤə stəs,10,5,2
+Fernandez,M,fɛː 'næn dɛz,010,5,3
+Felder,M,'fɛl dɛː,10,5,2
+Dimitri,F,dɪ 'miː triː,010,5,3
+Cash,M,'kæʃ,1,5,1
+Callen,M,'kæ lən,10,5,2
+Callie,M,'kɔː liː,10,5,2
+Carles,M,'kɑrlz,1,5,1
+Carr,M,'kɑr,1,5,1
+Carrington,M,'kɛ rɪŋ tən,100,5,3
+Carris,M,'kæ rɪs,10,5,2
+Cassell,M,'kæ səl,10,5,2
+Burwell,M,'bɛː wɛl,10,5,2
+Chance,M,'ʧæns,1,5,1
+Cheyenne,M,ʃaɪ 'æn,01,5,2
+Choice,M,'ʧɔɪs,1,5,1
+Christina,M,krɪ 'stiː nʌ,010,5,3
+Clara,M,'klæ rə,10,5,2
+Clide,M,'klaɪ,1,5,1
+Cale,M,'keɪl,1,5,1
+Bubby,M,'bʌ bi,10,5,2
+Conn,M,'kɑn,1,5,1
+Benney,M,'bɛ niː,10,5,2
+Autrey,M,'ɔː triː,10,5,2
+Aven,M,ɑ 'veɪ ən,010,5,3
+Avner,M,'æv nɛː,10,5,2
+Baruch,M,`bɑ 'ruːk,11,5,2
+Bayard,M,'beɪ ɛːd,10,5,2
+Becky,M,'bɛ kiː,10,5,2
+Bodie,M,'boʊ diː,10,5,2
+Briggs,M,'brɪgz,1,5,1
+Boruch,M,'bɔː rʌk,10,5,2
+Boston,M,'bɑ stən,10,5,2
+Brack,M,'bræk,1,5,1
+Brain,M,'breɪn,1,5,1
+Branch,M,'brænʧ,1,5,1
+Brand,M,'brænd,1,5,1
+Compton,M,'kɑmp tən,10,5,2
+Costa,M,'kɔː stə,10,5,2
+Faris,M,'fɛ rɪs,10,5,2
+Emma,M,'ɛ mə,10,5,2
+Dolores,M,də 'lɔː rɪs,010,5,3
+Ebb,M,'ɛb,1,5,1
+Edith,M,'iː dɪθ,10,5,2
+Eliud,M,ɪ 'lɪ ʌ,010,5,3
+Ella,M,'ɛ lə,10,5,2
+Elva,M,'ɛl və,10,5,2
+Emmerson,M,'ɛ mɛː sən,100,5,3
+Dodd,M,'dɑd,1,5,1
+Enis,M,'ɛ nɪs,10,5,2
+Estee,M,'ɛ stiː,10,5,2
+Esther,M,'ɛ stɛː,10,5,2
+Eva,M,'eɪ və,10,5,2
+Everitt,M,'ɛ vɛː ɪt,100,5,3
+Fabio,M,'fɑ biː oʊ,100,5,3
+Dolly,M,'dɑ liː,10,5,2
+Doane,M,'doʊn,1,5,1
+Coye,M,'kɔɪ,1,5,1
+Darcey,M,'dɑr siː,10,5,2
+Crit,M,'kɹɪ,1,5,1
+Crosby,M,'krɔːz biː,10,5,2
+Curby,M,'kɛː biː,10,5,2
+Curtice,M,'kʊr tɪs,10,5,2
+Danie,M,'dæ ni,10,5,2
+Dano,M,'dɑ noʊ,10,5,2
+Darr,M,'dɛr,1,5,1
+Dink,M,'dɪŋk,1,5,1
+Deforest,M,dɪ 'fɔː rəst,010,5,3
+Delmore,M,'dɛl mɔːr,10,5,2
+Demarco,M,dɪ 'mɑr koʊ,010,5,3
+Deroy,M,'dɪ rɔɪ,10,5,2
+Deryle,M,'dɛ rəl,10,5,2
+Devine,M,də 'vaɪn,01,5,2
+Lillard,M,'lɪ lɛːd,10,5,2
+Lindsley,M,'lɪnd sliː,10,5,2
+Link,M,'lɪŋk,1,5,1
+Sig,M,'sɪg,1,5,1
+Ruffin,M,'rə fɪn,10,5,2
+Salome,M,sə 'loʊ miː,010,5,3
+Sami,M,'sæ miː,10,5,2
+Sedgwick,M,'sɛʤ wɪk,10,5,2
+Sergei,M,sɛː 'geɪ,01,5,2
+Sherrod,M,'ʃɛ rʌd,10,5,2
+Sigurd,M,'sɪ gɛːd,10,5,2
+Rowe,M,'roʊ,1,5,1
+Sky,M,'skaɪ,1,5,1
+Staley,M,'steɪ liː,10,5,2
+Steen,M,'stiːn,1,5,1
+Stefano,M,'stɛ fə noʊ,100,5,3
+Stevin,M,'stɛ vɪ,10,5,2
+Stony,M,'stoʊ niː,10,5,2
+Rudd,M,'rʌd,1,5,1
+Roth,M,'rɔːθ,1,5,1
+Sylvio,M,'sɪl viː oʊ,100,5,3
+Rial,M,'raɪ əl,10,5,2
+Remington,M,'rɛ mɪŋ tən,100,5,3
+Rendall,M,'rɛn dəl,10,5,2
+Rendell,M,'rɛn dəl,10,5,2
+Revel,M,'rɛ vəl,10,5,2
+Reynald,M,'ɹeɪ nʌl,10,5,2
+Rhea,M,'riː ə,10,5,2
+Ridley,M,'rɪd liː,10,5,2
+Rosemary,M,'roʊz `mɛ riː,110,5,3
+Rober,M,'roʊ bɛː,10,5,2
+Roberte,M,'ɹɑ bʌ,10,5,2
+Romano,M,roʊ 'mɑ `noʊ,011,5,3
+Romey,M,'roʊ miː,10,5,2
+Ronson,M,'rɑn sən,10,5,2
+Rooney,M,'ruː niː,10,5,2
+Sugar,M,'ʃʊ gɛː,10,5,2
+Tadeusz,M,'tæ diː uːz,100,5,3
+Lisle,M,'laɪ əl,10,5,2
+Willey,M,'wɪ liː,10,5,2
+Vittorio,M,viː 'tɔː riː oʊ,0100,5,4
+Vol,M,'vɑ,1,5,1
+Whit,M,'wɪt,1,5,1
+Wilbon,M,'wɪl bən,10,5,2
+Wildon,M,'waɪl dən,10,5,2
+Wilkes,M,'wɪlks,1,5,1
+Windle,M,'wɪn dəl,10,5,2
+Victorino,M,viːk tɔː 'riː noʊ,0010,5,4
+Wirt,M,'wɛːt,1,5,1
+Woodson,M,'wʊd sən,10,5,2
+Wyn,M,'wɪ,1,5,1
+Yong,M,'jɔːŋ,1,5,1
+York,M,'jɔːrk,1,5,1
+Zachariah,M,`zæ kɛː 'aɪ ə,1010,5,4
+Viktor,M,'vɪk tɛː,10,5,2
+Vernor,M,'vɛː nɛː,10,5,2
+Taff,M,'tæf,1,5,1
+Trino,M,'tɹaɪ nəʊ,10,5,2
+Tal,M,'tɑl,1,5,1
+Temple,M,'tɛm pəl,10,5,2
+Thaxter,M,'θæk stɛː,10,5,2
+Thomes,M,'θoʊmz,1,5,1
+Thorne,M,'θɔːrn,1,5,1
+Trine,M,'traɪn,1,5,1
+Turley,M,'tɛː liː,10,5,2
+Varnell,M,'vɑr nəl,10,5,2
+Twig,M,'twɪg,1,5,1
+Udell,M,'ə dəl,10,5,2
+Ulrich,M,'əl rɪʧ,10,5,2
+Upton,M,'əp tən,10,5,2
+Valdis,M,'væl dɪs,10,5,2
+Vale,M,'veɪl,1,5,1
+Remi,M,'rɛ miː,10,5,2
+Reiner,M,'raɪ nɛː,10,5,2
+Regie,M,'rɛ giː,10,5,2
+Nazario,M,nɑ 'zɑ riː oʊ,0100,5,4
+Metro,M,'mɛ `troʊ,11,5,2
+Miner,M,'maɪ nɛː,10,5,2
+Misael,M,mɪ 'seɪ,01,5,2
+Mordecai,M,'mɔːr də `kaɪ,101,5,3
+Morley,M,'mɔːr liː,10,5,2
+Morrell,M,mɔː 'rɛl,01,5,2
+Neely,M,'niː liː,10,5,2
+Mercer,M,'mɛː sɛː,10,5,2
+Nevada,M,nʌ 'vɑ də,010,5,3
+Niall,M,'naɪl,1,5,1
+Nicki,M,'nɪ kiː,10,5,2
+Nikolaus,M,'nɪ kə laʊz,100,5,3
+Noris,M,'nɔː ɹɪ,10,5,2
+Norma,M,'nɔːr mə,10,5,2
+Merion,M,'mɛ riː ən,100,5,3
+Melinda,M,mə 'lɪn də,010,5,3
+Reg,M,'rɛg,1,5,1
+Lovie,M,'lə viː,10,5,2
+Llewelyn,M,'luː ɪ lɪn,100,5,3
+Lopez,M,'loʊ pɛz,10,5,2
+Lori,M,'lɔː riː,10,5,2
+Lorrie,M,'lɔː riː,10,5,2
+Lory,M,'lɔː riː,10,5,2
+Lovett,M,'lə vɪt,10,5,2
+Lula,M,'luː lə,10,5,2
+Maureen,M,mɔː 'riːn,01,5,2
+Lum,M,'ləm,1,5,1
+Macy,M,'meɪ siː,10,5,2
+Mal,M,'mæl,1,5,1
+Mandel,M,'mæn dəl,10,5,2
+Marla,M,'mɑr lə,10,5,2
+Matson,M,'mɑt sən,10,5,2
+Northern,M,'nɔːr ðɛːn,10,5,2
+Numa,M,'nʉː mʌ,10,5,2
+Obey,M,oʊ 'beɪ,01,5,2
+Ralston,M,'rɔːl stən,10,5,2
+Pilar,M,'paɪ lɛː,10,5,2
+Pink,M,'pɪŋk,1,5,1
+Pinkney,M,'pɪŋk niː,10,5,2
+Pio,M,'paɪ oʊ,10,5,2
+Pius,M,'paɪ əs,10,5,2
+Polo,M,'poʊ loʊ,10,5,2
+Ramey,M,'ræ miː,10,5,2
+Odes,M,'oʊdz,1,5,1
+Raney,M,'reɪ niː,10,5,2
+Ranson,M,'ræn sən,10,5,2
+Raun,M,'rɔːn,1,5,1
+Raye,M,'reɪ,1,5,1
+Rayner,M,'reɪ nɛː,10,5,2
+Reeve,M,'riːv,1,5,1
+Pieter,M,'piː tɛː,10,5,2
+Phineas,M,'fɪ niː əs,100,5,3
+Phares,M,'fɛrz,1,5,1
+Peron,M,pɛː 'ɔːn,01,5,2
+Penn,M,'pɛn,1,5,1
+Pearly,M,'pɛː liː,10,5,2
+Paxton,M,'pæk stən,10,5,2
+Patty,M,'pæ tiː,10,5,2
+Orris,M,'ɔː rɪs,10,5,2
+Orren,M,'ɔː rən,10,5,2
+Orlanda,M,ɔːr 'lɑn də,010,5,3
+Orange,M,'ɔː rʌnʤ,10,5,2
+Opie,M,'oʊ piː,10,5,2
+Olson,M,'oʊl sən,10,5,2
+Oley,M,'oʊ liː,10,5,2
+Oland,M,'ɑ lənd,10,5,2
+Ogden,M,'ɑg dən,10,5,2
+Atwood,M,'æ `twʊd,11,5,2
+Ashok,M,'æ ʃɑk,10,5,2
+Asher,M,'æ ʃɛː,10,5,2
+Ennis,F,'ɛ nɪs,10,5,2
+Ellis,F,'ɛ lɪs,10,5,2
+Elon,F,ɪ 'lʌ,01,5,2
+Elver,F,'ɛl vʌ,10,5,2
+Elyn,F,'ɛ lɪn,10,5,2
+Emile,F,eɪ 'miːl,01,5,2
+Emmer,F,'ɛ mɛː,10,5,2
+Eris,F,'ɛ ɹɪ,10,5,2
+Elinora,F,ɪ 'lɪ nɔː ɹʌ,0100,5,4
+Ertha,F,'ɛː ðə,10,5,2
+Estel,F,'ɛ stəl,10,5,2
+Evita,F,ɛ 'viː tʌ,010,5,3
+Evlyn,F,'ɛv lən,10,5,2
+Felix,F,'fiː lɪks,10,5,2
+Francisco,F,fræn 'sɪ skoʊ,010,5,3
+Eller,F,'ɛ lɛː,10,5,2
+Edwardine,F,ɪ 'dwɔːr daɪn,010,5,3
+Gabriele,F,gɑ briː 'ɛl,001,5,3
+Adalia,F,ɑ 'dɑ liː ə,0100,5,4
+Angell,F,'eɪn ʤəl,10,5,2
+Amos,F,'eɪ məs,10,5,2
+Alys,F,'æ liːz,10,5,2
+Alvita,F,ɑl 'viː tʌ,010,5,3
+Alberto,F,æl 'bɛː toʊ,010,5,3
+Adra,F,'eɪ drə,10,5,2
+Doll,F,'dɑl,1,5,1
+Edlyn,F,'ɛd lɪn,10,5,2
+Donica,F,'dɑ nɪ kə,100,5,3
+Dore,F,'dɔːr,1,5,1
+Dorotea,F,'dɔː rə ʃə,100,5,3
+Dovey,F,də 'veɪ,01,5,2
+Doyle,F,'dɔɪl,1,5,1
+Eddy,F,'ɛ diː,10,5,2
+Fritzie,F,'frɪt ziː,10,5,2
+Gaby,F,'gæ biː,10,5,2
+Keturah,F,'kɛ tʃʌ ɹʌ,100,5,3
+Jerrell,F,jɛ 'reɪl,01,5,2
+Ivana,F,ɪ 'vɑ nʌ,010,5,3
+Jacob,F,'ʤeɪ kəb,10,5,2
+Jacquelina,F,`dʒæ kɪ 'li nʌ,1010,5,4
+Jeff,F,'ʤɛf,1,5,1
+Jemma,F,'dʒɛ mʌ,10,5,2
+Jenney,F,'ʤɛ niː,10,5,2
+Jinx,F,'ʤɪŋks,1,5,1
+Honore,F,'ɑ nɛː,10,5,2
+Josepha,F,ʤoʊ 'sɛ fə,010,5,3
+Julietta,F,ʤuː liː 'ɛ tʌ,0010,5,4
+Kalen,F,'keɪ lən,10,5,2
+Kama,F,'kɑ mə,10,5,2
+Katey,F,'keɪ tiː,10,5,2
+Kendal,F,'kɛn dəl,10,5,2
+Ireta,F,ɪ 'reɪ tʌ,010,5,3
+Hollister,F,'hɑ lɪ stɛː,100,5,3
+Gal,F,'gæl,1,5,1
+Glyn,F,'glɪn,1,5,1
+Galen,F,'geɪ lən,10,5,2
+Gaynor,F,'geɪ nɛː,10,5,2
+Geneen,F,ʤə 'niːn,01,5,2
+Gerard,F,ʤɛː 'ɑrd,01,5,2
+Gladis,F,'glæ dɪs,10,5,2
+Gleda,F,'gleɪ də,10,5,2
+Golden,F,'goʊl dən,10,5,2
+Hiawatha,F,`haɪ ə 'wɑ θə,1010,5,4
+Grenda,F,'grɛn də,10,5,2
+Guy,F,'gaɪ,1,5,1
+Hazle,F,'heɪ zəl,10,5,2
+Heloise,F,'hɛ lɔɪ,10,5,2
+Henriette,F,`hɛn riː 'ɛt,101,5,3
+Hetty,F,'hɛ tiː,10,5,2
+Angelle,F,eɪŋ 'gɛl,01,5,2
+Anglia,F,'æŋ gliː ə,100,5,3
+Ardelle,F,ɑr 'dɛl,01,5,2
+Clary,F,'klɛ riː,10,5,2
+Corinda,F,kʌ 'ɹɪn dʌ,010,5,3
+Corazon,F,'kɔː rə `zoʊn,101,5,3
+Clotilda,F,klʌ 'tɪl də,010,5,3
+Cloris,F,'klɔː ɹɪ,10,5,2
+Cloria,F,'klɔː ɹi ʌ,100,5,3
+Clay,F,'kleɪ,1,5,1
+Claribel,F,'klɛ rə `bɛl,101,5,3
+Cyrilla,F,sɪ 'rɪ lə,010,5,3
+Cira,F,'sɛː ə,10,5,2
+Chun,F,'ʧən,1,5,1
+Chester,F,'ʧɛ stɛː,10,5,2
+Charron,F,'ʧɛ rən,10,5,2
+Charmian,F,'ʧɑr miː ən,100,5,3
+Charm,F,'ʧɑrm,1,5,1
+Courtenay,F,'kɛː tʌ neɪ,100,5,3
+Daisie,F,'deɪ si,10,5,2
+Arlen,F,'ɑr lən,10,5,2
+Delicia,F,dɛ 'liː ʧə,010,5,3
+Dickie,F,'dɪ kiː,10,5,2
+Di,F,'diː,1,5,1
+Des,F,'dɛ,1,5,1
+Derby,F,'dɛː biː,10,5,2
+Denis,F,'dɛ nɪs,10,5,2
+Delmar,F,'dɛl mɛː,10,5,2
+Delcine,F,dɛl 'ʧiː niː,010,5,3
+Dandrea,F,'dæn driː ə,100,5,3
+Deion,F,'diː jɑn,10,5,2
+Debar,F,dɪ 'bɑ,01,5,2
+Davie,F,'deɪ viː,10,5,2
+Darlin,F,'dɑr lɪn,10,5,2
+Darian,F,'dəː ɹeɪ ʌ,100,5,3
+Danica,F,'dæ nɪ kə,100,5,3
+Chantal,F,'ʧæn təl,10,5,2
+Celest,F,sʌ 'lɛs,01,5,2
+Cele,F,'siːl,1,5,1
+Beatrix,F,'biː trɪks,10,5,2
+Bille,F,'baɪl,1,5,1
+Beta,F,'beɪ tʌ,10,5,2
+Bert,F,'bɛːt,1,5,1
+Benito,F,bɛ 'niː toʊ,010,5,3
+Bell,F,'bɛl,1,5,1
+Bee,F,'biː,1,5,1
+Basilia,F,bɑ 'siː liː ə,0100,5,4
+Carrell,F,kɑ 'reɪl,01,5,2
+Barbera,F,bɑr 'bɛ rə,010,5,3
+Barba,F,'bɑr bə,10,5,2
+Balbina,F,bɑl 'biː nʌ,010,5,3
+Avia,F,'ɑ viː ə,100,5,3
+Ary,F,'ɛ riː,10,5,2
+Arnell,F,'ɑr nəl,10,5,2
+Binnie,F,'bɪ niː,10,5,2
+Blyth,F,'blɪθ,1,5,1
+Bonnell,F,'bɑ nəl,10,5,2
+Brad,F,'bræd,1,5,1
+Bradford,F,'bræd fɛːd,10,5,2
+Bronwen,F,'brɔːn wɪn,10,5,2
+Bryn,F,'brɪn,1,5,1
+Burma,F,'bɛː mə,10,5,2
+Burnett,F,bɛː 'nɛt,01,5,2
+Cabrini,F,kə 'briː niː,010,5,3
+Caffey,F,'kæ fiː,10,5,2
+Caitlin,F,'keɪt lɪn,10,5,2
+Cal,F,'kæl,1,5,1
+Calliope,F,kə 'laɪ ə `piː,0101,5,4
+Canary,F,kə 'nɛ riː,010,5,3
+Careen,F,kɛː 'iːn,01,5,2
+Carmie,F,'kɑr miː,10,5,2
+Kenny,F,'kɛ niː,10,5,2
+Kiki,F,'kiː kiː,10,5,2
+Arnell,M,'ɑr nəl,10,5,2
+Thecla,F,'θɛ klʌ,10,5,2
+Tabby,F,'tæ biː,10,5,2
+Tane,F,'teɪ,1,5,1
+Tanger,F,'tæŋ ɛː,10,5,2
+Tela,F,'tɛ lʌ,10,5,2
+Terence,F,'tɛ rəns,10,5,2
+Terrel,F,'tɛ rəl,10,5,2
+Theora,F,'θiː ɛː ə,100,5,3
+Stewart,F,'stuː ɛːt,10,5,2
+Thera,F,'θɛ rə,10,5,2
+Timmy,F,'tɪ miː,10,5,2
+Tinker,F,'tɪŋ kɛː,10,5,2
+Toney,F,'toʊ niː,10,5,2
+Travis,F,'træ vɪs,10,5,2
+Trella,F,'trɛ lə,10,5,2
+Stuart,F,'stuː ɛːt,10,5,2
+Sonny,F,'sə niː,10,5,2
+Tye,F,'taɪ,1,5,1
+Rudell,F,'rə dəl,10,5,2
+Romelle,F,rə 'mɛl,01,5,2
+Rosabel,F,'roʊ zʌ `bɛl,101,5,3
+Rosine,F,roʊ 'siː niː,010,5,3
+Roslin,F,'rɑ slɪn,10,5,2
+Roxine,F,'rɑk saɪn,10,5,2
+Roya,F,'ɹɔɪ ʌ,10,5,2
+Sande,F,'sænd,1,5,1
+Sonji,F,'sɔːn ʤiː,10,5,2
+Savina,F,sə 'viː nʌ,010,5,3
+Shay,F,'ʃeɪ,1,5,1
+Sheela,F,'ʃiː lə,10,5,2
+Sheldon,F,'ʃɛl dən,10,5,2
+Sherrin,F,'ʃɛ rɪn,10,5,2
+Sloan,F,'sloʊn,1,5,1
+Trellis,F,'trɛ ləs,10,5,2
+Vala,F,'vɑ lə,10,5,2
+Kimball,F,'kɪm bəl,10,5,2
+Adriel,M,ə 'driːl,01,5,2
+Winfred,F,'wɪn frɪd,10,5,2
+Yong,F,'jɔːŋ,1,5,1
+Zada,F,'zɑ də,10,5,2
+Zell,F,'zɛl,1,5,1
+Abbott,M,'æ bət,10,5,2
+Abron,M,ə 'brɑn,01,5,2
+Alban,M,'ɑl bən,10,5,2
+Winda,F,'wɪn dʌ,10,5,2
+Alcides,M,'æl saɪd,10,5,2
+Almond,M,'ɑ mənd,10,5,2
+Angela,M,'æn ʤə lə,100,5,3
+Annette,M,ə 'nɛt,01,5,2
+Ardith,M,'ɑr dɪθ,10,5,2
+Arlene,M,'ɑr `liːn,11,5,2
+Windell,F,'wɪn dəl,10,5,2
+Willy,F,'wɪ liː,10,5,2
+Valla,F,'væ lə,10,5,2
+Virgin,F,'vɛː ʤɪn,10,5,2
+Vanesa,F,'veɪn sʌ,10,5,2
+Vanya,F,'vɑ njə,10,5,2
+Varina,F,vɑ 'riː nʌ,010,5,3
+Venis,F,'vɛ ni,10,5,2
+Verina,F,vɛː 'iː nʌ,010,5,3
+Vern,F,'vɛːn,1,5,1
+Vista,F,'vɪ stə,10,5,2
+Wiley,F,'waɪ liː,10,5,2
+Vittoria,F,vɪ 'tɔː riː ə,0100,5,4
+Vivi,F,'vɪ vi,10,5,2
+Wan,F,'wɑn,1,5,1
+Wanna,F,'wɑ nʌ,10,5,2
+Warner,F,'wɔːr nɛː,10,5,2
+Wendeline,F,'wɛn dɪ `laɪn,101,5,3
+Romella,F,roʊ 'mɛ lə,010,5,3
+Rhena,F,'ɹi nʌ,10,5,2
+Reyes,F,'reɪ ɪs,10,5,2
+Mada,F,'mɑ də,10,5,2
+Lotta,F,'lɑ tʌ,10,5,2
+Lovell,F,'lə vəl,10,5,2
+Lowell,F,'loʊ əl,10,5,2
+Loyola,F,`lɔɪ 'oʊ lə,110,5,3
+Lucky,F,'lə kiː,10,5,2
+Lynden,F,'lɪn dən,10,5,2
+Madella,F,mə 'dɛ lə,010,5,3
+Lodema,F,loʊ 'dɛ mə,010,5,3
+Maia,F,'maɪ ə,10,5,2
+Marcille,F,'mɑr sɪl,10,5,2
+Marice,F,'mɑ rɪs,10,5,2
+Marine,F,mɛː 'iːn,01,5,2
+Marlen,F,'mɑr lən,10,5,2
+Marley,F,'mɑr liː,10,5,2
+Loral,F,'lɔː rəl,10,5,2
+Linnell,F,'lɪ nəl,10,5,2
+Rexene,F,'rɛk siːn,10,5,2
+Lelah,F,'lɛ lə,10,5,2
+Kirby,F,'kɛː biː,10,5,2
+Laine,F,'leɪn,1,5,1
+Laney,F,'leɪ niː,10,5,2
+Larke,F,'lɑrk,1,5,1
+Latitia,F,'læ tɪ ʃʌ,100,5,3
+Lavette,F,lə 'vɛt,01,5,2
+Leland,F,'liː lənd,10,5,2
+Lind,F,'lɪnd,1,5,1
+Lenny,F,'lɛ niː,10,5,2
+Leoda,F,'lɛ də,10,5,2
+Les,F,'lɛs,1,5,1
+Lilah,F,'lɪ lə,10,5,2
+Liliane,F,lɪ liː 'æn,001,5,3
+Lilo,F,'laɪ ləʊ,10,5,2
+Marsella,F,`mɑr 'sɛ lə,110,5,3
+Marshal,F,'mɑr ʃəl,10,5,2
+Mele,F,'miːl,1,5,1
+Preston,F,'prɛ stən,10,5,2
+Ok,F,'oʊ 'keɪ,11,5,2
+Palmer,F,'pɑ mɛː,10,5,2
+Patria,F,'pæ tɹi ʌ,100,5,3
+Pete,F,'piːt,1,5,1
+Pierre,F,piː 'ɛr,01,5,2
+Placida,F,plɑ 'ʧiː də,010,5,3
+Pura,F,'pʊ rə,10,5,2
+Melessa,F,mɛ 'lɛ sə,010,5,3
+Rafael,F,`rɑ faɪ 'ɛl,101,5,3
+Raguel,F,'ɹeɪɡ,1,5,1
+Raine,F,'reɪn,1,5,1
+Ramonda,F,rə 'mɑn də,010,5,3
+Raven,F,'reɪ vən,10,5,2
+Redell,F,'rɛ dəl,10,5,2
+Nuala,F,nuː 'ɑ lə,010,5,3
+Norie,F,'nɔː ɹi,10,5,2
+Noami,F,'noʊ miː,10,5,2
+Ninon,F,'nɪ nən,10,5,2
+Nicolina,F,`niː koʊ 'liː nʌ,1010,5,4
+Nela,F,'nɛ lə,10,5,2
+Neil,F,'niːl,1,5,1
+Neala,F,'niː lə,10,5,2
+Nattie,F,'næ tiː,10,5,2
+Zenda,F,'zɛn də,10,5,2
+Myna,F,'maɪ nʌ,10,5,2
+Mori,F,'mɔː riː,10,5,2
+Monty,F,'mɔːn tiː,10,5,2
+Monti,F,'mɑn tiː,10,5,2
+Modena,F,moʊ 'dɛ nʌ,010,5,3
+Meris,F,'mɛ rəs,10,5,2
+Merion,F,'mɛ riː ən,100,5,3
+Zell,M,'zɛl,1,5,1
