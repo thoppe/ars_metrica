@@ -1,12 +1,11 @@
----- .aligncenter .bg-black
-@unsplash(oUAHowAANZg) .light
-
+---- .aligncenter .bg-white
+@unsplash(aY0g7ztFAQ8) .dark
 
 .text-data **Ars Metrica**
 .text-landing Prosody of Names
 
 @footer
- @h4 Prosody of Names
+ @h4 
  
  @div .wrap @div .span
   @button(href="https://github.com/thoppe/ars_metrica") .alignleft .ghost
@@ -14,41 +13,59 @@
   @button(href="https://twitter.com/metasemantic") .ghost .alignright
    ::twitter:: @metasemantic
 
----- .aligncenter 
+---- .aligncenter
+@unsplash(P8XV99FyzCk) .dark
+
 .text-data **What's in a name?**
 .text-intro _culture, identity, history, ... _
 
----- .aligncenter 
+
+---- .aligncenter
+@unsplash(SlBmEVU2y-A) .light
+
 .text-data **Prosody**
 .text-intro _rhythm and sound used in poetry ... _
 
----- .aligncenter 
-.text-data **Olivia**
-.text-intro 18,632 times registered for new [Social Security](https://www.ssa.gov/oact/babynames/) number in 2017
-.text-intro o LIV ia, ```oʊ 'lɪ viː```
 
----- .aligncenter
+---- .bg-white .aligncenter 
+@unsplash(PaM7SD5wM6g) 
+
+
+.text-data **Olivia**
+.text-intro 18,632 times registered for a new [Social Security](https://www.ssa.gov/oact/babynames/) number in 2017
+.text-intro o-LIV-i-a, ``` /oʊˈlɪvi.ə/```
+
+---- .aligncenter .bg-white
+@unsplash(aY0g7ztFAQ8) .dark
+
+
 @figure(src="figures/mean_syllables_per_year.png")
 @h1 America's polysyllabic growth
 
+@footer
+	.alignright Used [Prosodic](https://pypi.org/project/prosodic/)
 
----- .aligncenter
+
+---- .aligncenter .bg-white
+@unsplash(aY0g7ztFAQ8) .dark
 
 @figure(src="figures/syllables_per_year.png")
 @h1 Less `Will` and more `Alejandro`
 
-
----- .aligncenter
-@figure(src="figures/2_stress_patterns_per_year.png")
-
+----  .bg-white
+@unsplash(aY0g7ztFAQ8) .dark
+.wrap
+	@figure(src="figures/2_stress_patterns_per_year.png")
 ```
 10: Mary, Linda, Susan
 01: Michelle, Kathleen, Nicole
 11: Joanne, Darlene, Colleen
-```
+``` 
 
----- .aligncenter 
-@figure(src="figures/3_stress_patterns_per_year.png")
+----  .bg-white
+@unsplash(aY0g7ztFAQ8) .dark
+.wrap
+	@figure(src="figures/3_stress_patterns_per_year.png")
 
 ```
 100: Jennifer, Barbara, Margaret
@@ -56,15 +73,21 @@
 101: Josephine, Caroline, Isabel
 110: Rosemary, Daniella, Paulina
 ```
----- .aligncenter 
-@figure(src="figures/4_stress_patterns_per_year.png")
+
+----  .bg-white
+@unsplash(aY0g7ztFAQ8) .dark
+.wrap
+    @figure(src="figures/4_stress_patterns_per_year.png")
 ```
 0100: Elizabeth, Victoria, Olivia
 1010: Isabella, Alexandra, Henrietta
 0010: Angelina, Gabriella, Lilliana
 ```
----- .aligncenter .bg-black
-.text-landing @h1 **Thanks, you.**
+---- .aligncenter .bg-white
+
+@unsplash(5IHz5WhosQE) 
+
+.text-data **Thanks, you.**
 <br><br>
 .text-intro  @button(href="https://twitter.com/metasemantic") .ghost ::twitter:: @metasemantic
 

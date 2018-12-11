@@ -40,7 +40,7 @@ g0 = df.reset_index().groupby(['year','n_syllables'])["counts"].sum()
 g0 = g0.reset_index()
 g0['n_frac'] = g0.n_syllables*g0.counts
 mean_syllables = g0.groupby('year')['n_frac'].sum()
-plt.plot(mean_syllables, '--', lw=2, color='k')
+plt.plot(mean_syllables, '--', lw=3, color='k')
 
 
 sns.despine()
@@ -50,7 +50,7 @@ plt.ylabel("Mean number of syllables", fontsize=14)
 plt.xlim(xmax=2018)
 
 plt.tight_layout()
-plt.savefig('docs/figures/mean_syllables_per_year.png')
+plt.savefig('docs/figures/mean_syllables_per_year.png', transparent=True)
 
 
 ########################################################################
@@ -66,7 +66,7 @@ fig, ax = plt.subplots(1,1,figsize=sz)
 
 for n, dfx in df.groupby("n_syllables"):
     #totes += dfx.set_index('year')['counts']
-    plt.plot(dfx.year, dfx['counts'], label=f"{n}")
+    plt.plot(dfx.year, dfx['counts'], label=f"{n}",lw=3)
 
 handles, labels = ax.get_legend_handles_labels()
 idx = mean_value.loc[[int(x) for x in labels]].argsort()[::-1]
@@ -87,7 +87,7 @@ plt.ylabel("Fraction of names\nwith n syllables", fontsize=14)
 plt.xlim(xmax=2018)
 plt.ylim(0,1)
 plt.tight_layout()
-plt.savefig('docs/figures/syllables_per_year.png')
+plt.savefig('docs/figures/syllables_per_year.png', transparent=True)
 
 
 plt.show()

@@ -6,7 +6,7 @@ import pylab as plt
 F_DATA = sorted(glob.glob("data/scored_names/*.csv"))[::-1]#[:20]
 
 
-fixed_n_syllables = 2
+fixed_n_syllables = 4
 
 named_patterns = {
     "00": "pyrrhic",
@@ -70,7 +70,7 @@ for key, dfx in df.groupby("IPA_stress"):
     #else:
     #    label = f"{key}"
     
-    P[key] = plt.plot(dfx.year, dfx['counts'], label=key)
+    P[key] = plt.plot(dfx.year, dfx['counts'], label=key,lw=4)
 
 handles, labels = ax.get_legend_handles_labels()
 idx = mean_value.loc[labels].argsort()[::-1]
@@ -90,7 +90,8 @@ plt.ylabel("Fraction of names", fontsize=14)
 plt.xlim(xmax=2018)
 plt.ylim(0,1)
 plt.tight_layout()
-plt.savefig(f'docs/figures/{fixed_n_syllables}_stress_patterns_per_year.png')
+plt.savefig(f'docs/figures/{fixed_n_syllables}_stress_patterns_per_year.png',
+            transparent=True)
 
 
 plt.show()
